@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Universes</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div id="graph-container">
+    <svg id="graph"></svg>
+  </div>
+
+  <div id="panel" class="panel hidden">
+    <button id="panel-close">&times;</button>
+    <div id="panel-content"></div>
+  </div>
+
+  <div id="title-bar">
+    <h1>Universes</h1>
+    <span class="subtitle">taxonomy of taste</span>
+    <p>tap a star to vibe check it &middot; drag to move things around &middot; scroll to zoom in/out</p>
+  </div>
+
+  <div id="footer-bar">
+    <p>After Universes taxonomy of taste</p>
+  </div>
+
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/graph.js"></script>
+  <script src="js/panel.js"></script>
+</body>
+</html>

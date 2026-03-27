@@ -1,0 +1,298 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;600&family=Inter:wght@400;500;600&display=swap');
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  background: #fafaf8;
+  font-family: 'Inter', sans-serif;
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+}
+
+/* ── Title bar ── */
+#title-bar {
+  position: fixed;
+  top: 24px;
+  left: 32px;
+  z-index: 10;
+  pointer-events: none;
+}
+#title-bar h1 {
+  font-family: 'Caveat', cursive;
+  font-size: 32px;
+  font-weight: 600;
+  color: #333;
+  margin-bottom: 0;
+}
+#title-bar .subtitle {
+  font-family: 'Inter', sans-serif;
+  font-size: 12px;
+  color: #aaa;
+  letter-spacing: 0.5px;
+  display: block;
+  margin-top: -2px;
+  margin-bottom: 6px;
+}
+#title-bar p {
+  font-size: 11px;
+  color: #bbb;
+  margin-top: 0;
+}
+
+/* ── Graph ── */
+#graph-container {
+  width: 100vw;
+  height: 100vh;
+  transition: width 0.4s ease;
+}
+#graph-container.shifted {
+  width: 50vw;
+}
+#graph {
+  width: 100%;
+  height: 100%;
+}
+
+/* ── Nodes ── */
+.node-group { cursor: pointer; }
+.node-star {
+  stroke-width: 1.8;
+  stroke-linejoin: round;
+  filter: drop-shadow(2px 3px 4px rgba(0,0,0,0.06));
+  transition: opacity 0.3s;
+}
+.node-label {
+  font-family: 'Caveat', cursive;
+  font-size: 17px;
+  font-weight: 600;
+  fill: #333;
+  text-anchor: middle;
+  dominant-baseline: central;
+  pointer-events: none;
+  transition: opacity 0.3s;
+}
+.node-family {
+  font-family: 'Inter', sans-serif;
+  font-size: 9px;
+  fill: #888;
+  text-anchor: middle;
+  pointer-events: none;
+  transition: opacity 0.3s;
+}
+
+/* ── Edges ── */
+.link-line {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 1.4;
+  transition: opacity 0.3s, stroke 0.3s;
+}
+.link-label {
+  font-family: 'Caveat', cursive;
+  font-size: 11px;
+  fill: #aaa;
+  opacity: 0;
+  transition: opacity 0.3s;
+  pointer-events: none;
+}
+
+/* ── Hover dim/highlight ── */
+.dimmed .node-star,
+.dimmed .node-label,
+.dimmed .node-family { opacity: 0.12; }
+.dimmed .link-line { opacity: 0.06; }
+.highlighted .node-star { opacity: 1; stroke-width: 2.5; }
+.highlighted .node-label,
+.highlighted .node-family { opacity: 1; }
+.highlighted .link-line { opacity: 1; stroke: #888; stroke-width: 2; }
+.highlighted .link-label { opacity: 1; }
+
+/* ── Panel ── */
+.panel {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 50vw;
+  max-width: 720px;
+  height: 100vh;
+  background: #fff;
+  border-left: 1px solid #e8e8e8;
+  overflow-y: auto;
+  z-index: 20;
+  transform: translateX(100%);
+  transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  padding: 48px 40px 60px;
+}
+.panel.open {
+  transform: translateX(0);
+}
+.panel.hidden {
+  pointer-events: none;
+}
+
+#panel-close {
+  position: sticky;
+  top: 0;
+  float: right;
+  background: none;
+  border: none;
+  font-size: 28px;
+  color: #999;
+  cursor: pointer;
+  line-height: 1;
+  z-index: 21;
+}
+#panel-close:hover { color: #333; }
+
+/* ── Panel content ── */
+.panel-header { margin-bottom: 28px; }
+.panel-header h2 {
+  font-family: 'Caveat', cursive;
+  font-size: 36px;
+  font-weight: 600;
+  color: #222;
+  margin-bottom: 4px;
+}
+.panel-header .tagline {
+  font-size: 14px;
+  color: #777;
+  margin-bottom: 12px;
+}
+.panel-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.panel-tag {
+  font-size: 11px;
+  padding: 3px 10px;
+  border-radius: 20px;
+  background: #f0f0f0;
+  color: #666;
+}
+.panel-tag.family-tag {
+  font-weight: 600;
+}
+
+/* ── Mood board grid ── */
+.mood-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 10px;
+  margin: 24px 0;
+}
+.mood-grid img {
+  width: 100%;
+  aspect-ratio: 3/4;
+  object-fit: cover;
+  border-radius: 10px;
+  background: #f0ede8;
+}
+
+/* ── Key elements ── */
+.key-elements { margin: 24px 0; }
+.key-elements h3 {
+  font-family: 'Caveat', cursive;
+  font-size: 22px;
+  color: #333;
+  margin-bottom: 10px;
+}
+.key-elements ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.key-elements li {
+  font-size: 13px;
+  padding: 5px 14px;
+  border-radius: 20px;
+  border: 1px dashed #ccc;
+  color: #555;
+}
+
+/* ── Section headings ── */
+.panel-section {
+  margin: 28px 0;
+}
+.panel-section h3 {
+  font-family: 'Caveat', cursive;
+  font-size: 22px;
+  color: #333;
+  margin-bottom: 10px;
+}
+.panel-section p,
+.panel-section li {
+  font-size: 14px;
+  color: #555;
+  line-height: 1.7;
+}
+.panel-section ul {
+  list-style: disc;
+  padding-left: 20px;
+}
+.panel-section a {
+  color: #5a8a8a;
+  text-decoration: none;
+}
+.panel-section a:hover {
+  text-decoration: underline;
+}
+
+/* ── Brands ── */
+.brand-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.brand-chip {
+  font-size: 13px;
+  padding: 5px 14px;
+  border-radius: 20px;
+  background: #f8f6f2;
+  border: 1px solid #e0dcd5;
+  color: #555;
+  font-weight: 500;
+}
+
+/* ── Related aesthetics ── */
+.related-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.related-chip {
+  font-size: 13px;
+  padding: 6px 16px;
+  border-radius: 20px;
+  cursor: pointer;
+  border: 1.5px solid #ddd;
+  background: #fafaf8;
+  color: #444;
+  transition: background 0.2s, border-color 0.2s;
+}
+.related-chip:hover {
+  background: #f0ede8;
+  border-color: #bbb;
+}
+
+/* ── Footer ── */
+#footer-bar {
+  position: fixed;
+  bottom: 20px;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  z-index: 10;
+  pointer-events: none;
+}
+#footer-bar p {
+  font-family: 'Caveat', cursive;
+  font-size: 14px;
+  color: #bbb;
+}
+
+/* ── Scrollbar ── */
+.panel::-webkit-scrollbar { width: 6px; }
+.panel::-webkit-scrollbar-thumb { background: #ddd; border-radius: 3px; }
