@@ -1,0 +1,34 @@
+Loaded 1035 aesthetics
+  [1/1035] Rococo → 5 links
+  [2/1035] Urbancore ERROR: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".mw-parser-output p a") to be visible
+
+  [3/1035] Minimalism ERROR: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".mw-parser-output p a") to be visible
+
+  [4/1035] Aesthetic Visual Index ERROR: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".mw-parser-output p a") to be visible
+
+  [5/1035] Find Aesthetic by Image ERROR: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".mw-parser-output p a") to be visible
+
+  [6/1035] Vaporwave ERROR: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".mw-parser-output p a") to be visible
+
+  [7/1035] Cottagecore ERROR: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".mw-parser-output p a") to be visible
+
+  [8/1035] Techwear ERROR: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".mw-parser-output p a") to be visible
+
+  [9/1035] Lolita ERROR: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".mw-parser-output p a") to be visible
+

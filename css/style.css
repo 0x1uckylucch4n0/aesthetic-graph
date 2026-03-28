@@ -175,20 +175,28 @@ body {
   font-weight: 600;
 }
 
-/* ── Mood board grid ── */
+/* ── Mood board carousel ── */
 .mood-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  display: flex;
   gap: 10px;
   margin: 24px 0;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  padding-bottom: 8px;
 }
 .mood-grid img {
-  width: 100%;
+  flex: 0 0 auto;
+  width: 180px;
   aspect-ratio: 3/4;
   object-fit: cover;
   border-radius: 10px;
   background: #f0ede8;
+  scroll-snap-align: start;
 }
+.mood-grid::-webkit-scrollbar { height: 4px; }
+.mood-grid::-webkit-scrollbar-thumb { background: #ddd; border-radius: 2px; }
 
 /* ── Key elements ── */
 .key-elements { margin: 24px 0; }

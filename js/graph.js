@@ -10,34 +10,49 @@ const container = svg.append("g");
 
 // ── Zoom ──
 const zoom = d3.zoom()
-  .scaleExtent([0.25, 3])
+  .scaleExtent([0.05, 4])
   .on("zoom", (e) => container.attr("transform", e.transform));
 
 svg.call(zoom);
 
-// Center the initial view
-svg.call(zoom.transform, d3.zoomIdentity.translate(width / 2, height / 2).scale(0.75));
+// Center the initial view — zoom out more for large graphs
+const initialScale = aesthetics.length > 200 ? 0.25 : aesthetics.length > 50 ? 0.45 : 0.75;
+svg.call(zoom.transform, d3.zoomIdentity.translate(width / 2, height / 2).scale(initialScale));
 
 // ── Build node/link data ──
 const nodeData = aesthetics.map(a => ({ ...a }));
 const nodeMap = new Map(nodeData.map(n => [n.id, n]));
 
-const linkData = connections.map(c => ({
-  source: c.source,
-  target: c.target,
-  label: c.label
-}));
+// Only include connections where both source and target exist
+const linkData = connections
+  .filter(c => nodeMap.has(c.source) && nodeMap.has(c.target))
+  .map(c => ({
+    source: c.source,
+    target: c.target,
+    label: c.label || ""
+  }));
 
 // ── Force simulation ──
+// Tune forces for graph size
+const nodeCount = nodeData.length;
+const chargeStrength = nodeCount > 500 ? -200 : nodeCount > 100 ? -400 : -700;
+const linkDist = nodeCount > 500 ? 120 : nodeCount > 100 ? 180 : 260;
+const collisionRadius = nodeCount > 500 ? 40 : nodeCount > 100 ? 60 : 100;
+
 const simulation = d3.forceSimulation(nodeData)
-  .force("link", d3.forceLink(linkData).id(d => d.id).distance(260))
-  .force("charge", d3.forceManyBody().strength(-700))
-  .force("collision", d3.forceCollide().radius(100))
-  .force("x", d3.forceX(0).strength(0.04))
-  .force("y", d3.forceY(0).strength(0.04));
+  .force("link", d3.forceLink(linkData).id(d => d.id).distance(linkDist))
+  .force("charge", d3.forceManyBody().strength(chargeStrength))
+  .force("collision", d3.forceCollide().radius(d => {
+    const s = (typeof STAR_SIZES !== 'undefined' && STAR_SIZES[d.size])
+      ? STAR_SIZES[d.size].outer : 55;
+    return s + 10;
+  }))
+  .force("x", d3.forceX(0).strength(0.03))
+  .force("y", d3.forceY(0).strength(0.03));
 
 // Pre-compute so graph appears settled
-simulation.tick(350);
+const preTicks = nodeCount > 500 ? 500 : nodeCount > 100 ? 400 : 350;
+simulation.tick(preTicks);
 simulation.alpha(0.05).restart();
 
 // ── Draw edges ──
@@ -62,17 +77,14 @@ links.append("text")
   .text(d => d.label);
 
 // ── Fat rounded star path generator ──
-// Creates a chubby 5-pointed star with rounded corners
 function fatStarPath(outerR, innerR, rounding) {
   const points = [];
   for (let i = 0; i < 5; i++) {
-    // Outer point (tip of star) — rotated so top point is at 12 o'clock
     const outerAngle = (i * 2 * Math.PI / 5) - Math.PI / 2;
     points.push([
       Math.cos(outerAngle) * outerR,
       Math.sin(outerAngle) * outerR
     ]);
-    // Inner point (valley between tips)
     const innerAngle = outerAngle + Math.PI / 5;
     points.push([
       Math.cos(innerAngle) * innerR,
@@ -80,7 +92,6 @@ function fatStarPath(outerR, innerR, rounding) {
     ]);
   }
 
-  // Build a rounded path using quadratic bezier curves
   let d = "";
   const n = points.length;
   for (let i = 0; i < n; i++) {
@@ -88,7 +99,6 @@ function fatStarPath(outerR, innerR, rounding) {
     const next = points[(i + 1) % n];
     const prev = points[(i - 1 + n) % n];
 
-    // Pull the line endpoints toward the current vertex for rounding
     const dx1 = prev[0] - curr[0], dy1 = prev[1] - curr[1];
     const dx2 = next[0] - curr[0], dy2 = next[1] - curr[1];
     const len1 = Math.sqrt(dx1 * dx1 + dy1 * dy1);
@@ -105,18 +115,22 @@ function fatStarPath(outerR, innerR, rounding) {
     } else {
       d += `L${startX},${startY}`;
     }
-    // Quadratic bezier through the actual vertex for a smooth round corner
     d += `Q${curr[0]},${curr[1]} ${endX},${endY}`;
   }
   d += "Z";
   return d;
 }
 
-// ── Draw nodes ──
-const starOuter = 62;   // outer radius — chubby star
-const starInner = 38;   // inner radius — fat valleys (closer to outer = chubbier)
-const starRound = 14;   // corner rounding
+// ── Get star dimensions for a node ──
+function getStarParams(d) {
+  if (typeof STAR_SIZES !== 'undefined' && STAR_SIZES[d.size]) {
+    const s = STAR_SIZES[d.size];
+    return { outer: s.outer, inner: s.inner, round: s.round };
+  }
+  return { outer: 55, inner: 34, round: 11 }; // default medium
+}
 
+// ── Draw nodes ──
 const nodeGroup = container.append("g").attr("class", "nodes");
 
 const nodes = nodeGroup.selectAll("g")
@@ -127,18 +141,29 @@ const nodes = nodeGroup.selectAll("g")
 
 nodes.append("path")
   .attr("class", "node-star")
-  .attr("d", fatStarPath(starOuter, starInner, starRound))
+  .attr("d", d => {
+    const p = getStarParams(d);
+    return fatStarPath(p.outer, p.inner, p.round);
+  })
   .attr("fill", d => FAMILIES[d.family]?.color || "#eee")
   .attr("stroke", d => FAMILIES[d.family]?.stroke || "#ccc");
 
 nodes.append("text")
   .attr("class", "node-label")
   .attr("y", -4)
+  .style("font-size", d => {
+    const sizes = { 1: "10px", 2: "12px", 3: "15px", 4: "17px", 5: "20px" };
+    return sizes[d.size] || "15px";
+  })
   .text(d => d.name);
 
 nodes.append("text")
   .attr("class", "node-family")
-  .attr("y", 14)
+  .attr("y", d => {
+    const offsets = { 1: 8, 2: 10, 3: 14, 4: 16, 5: 18 };
+    return offsets[d.size] || 14;
+  })
+  .style("font-size", d => d.size <= 2 ? "7px" : "9px")
   .text(d => d.family);
 
 // ── Hover behavior ──
@@ -147,8 +172,8 @@ nodeData.forEach(n => connectedNodes.set(n.id, new Set()));
 linkData.forEach(l => {
   const sid = typeof l.source === "object" ? l.source.id : l.source;
   const tid = typeof l.target === "object" ? l.target.id : l.target;
-  connectedNodes.get(sid).add(tid);
-  connectedNodes.get(tid).add(sid);
+  if (connectedNodes.has(sid)) connectedNodes.get(sid).add(tid);
+  if (connectedNodes.has(tid)) connectedNodes.get(tid).add(sid);
 });
 
 nodes.on("mouseenter", function(event, d) {
