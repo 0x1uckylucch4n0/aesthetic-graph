@@ -61,7 +61,7 @@ const aesthetics = [
     "brands": [],
     "description": "Acid HouseRavers in the late 1980s, showing the eclectic, baggy fashion and smiley face iconography of the Acid House movement.OriginsOther namesAcid, Second Summer of Love (UK)Decade of origin1980sLocation of originChicago, USA & United KingdomVisuals & ThemesKey motifsSmiley face, psychedelic patterns, baggy clothing, bucket hats, bandanas, dungareesKey coloursBright neon colors (yellow, pink, green, orange)Key valuesEuphoria, unity, hedonism, escapism, peace, loveConnectionsRelatedaestheticsAcid DesignRavePsychedeliaGroovivalMadchesterNew BeatMedia & CultureIconicfiguresPhuture, DJ Pierre, A Guy Called Gerald, The Haçienda (club)",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/3c/96/70/3c96707c77be57f2952ea824c7a63b99.jpg", "https://i.pinimg.com/564x/95/4f/00/954f003a50b21ef3d7d495be804cd6ae.jpg", "https://i.pinimg.com/564x/54/2e/fe/542efe80e747dab9a03f848cd496193e.jpg", "https://i.pinimg.com/564x/25/87/7f/25877f3516243719e864742fc74a9168.jpg", "https://i.pinimg.com/564x/aa/c0/e1/aac0e1d75946d09cfdff45679bedb21d.jpg", "https://i.pinimg.com/564x/a1/8f/df/a18fdf64fd8eca9e87f903a310184c1f.jpg"],
     "size": 5,
     "connectionCount": 8
   },
@@ -77,7 +77,7 @@ const aesthetics = [
     "brands": [],
     "description": "Aesthetic RapCover art for \"Lovely\" by 1nonly. Conventionally attractive e-girls, soft color filters, and juxtaposition with weaponry is common.OriginsOther namesTikTok Rap, Whisper Rap, E-Boy RapDecade of originEarly 2020sVisuals & ThemesKey motifsAnime Music Videos (AMVs), e-girls/e-boys, LED lights, firearms, luxury cars, VHS filters, Hello Kitty, money, juxtaposition of conventionally attractive women with weaponsKey coloursPurple, pink, neon blue, blackKey valuesRomance, infatuation (\"simping\"), nostalgia, main character energy, coolnessConnectionsRelatedaestheticsCloud RapE-BoyE-GirlLo-fi ArtMeme RapTrap MetalVaporwaveMedia & CulturePrimaryplatformTikTok, SoundCloud, DiscordIconicfigures1nonly, Ciscaux, Savage Ga$p, Lil Bubblegum, LetoaAesthetic Rapis a microgenre ofhip-hopthat originated in the late 2010s and early 2020s, primarily through social media platforms such as TikTok. The genre combines elements of trap production with lo-fi aesthetics, featuring vocal deliveries that range from close-mic \"whisper rapping\" to deadpan monotone cadences.",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/6d/49/92/6d4992fc5ed36801e054422f2bf1be0f.jpg", "https://i.pinimg.com/564x/64/8d/18/648d18a635cb172871c3ac386aa4b5e6.jpg", "https://i.pinimg.com/564x/d5/2b/5f/d52b5fa284f6cbdd670878af86535139.jpg", "https://i.pinimg.com/564x/b4/b0/a0/b4b0a0cdf96388a0317ddd6e8003ec11.jpg", "https://i.pinimg.com/564x/3f/d5/dc/3fd5dc3f67127df7e7c69df280af1f44.jpg", "https://i.pinimg.com/564x/e9/dd/20/e9dd201ad5e65d0f66b0b64e696df10c.jpg"],
     "size": 5,
     "connectionCount": 8
   },
@@ -93,7 +93,7 @@ const aesthetics = [
     "brands": [],
     "description": "Brazilian PhonkA typical example of Brazilian Phonk cover art, featuring an edgy anime character (Mob Psycho) with a neon purple glow.OriginsOther namesFunk MTGAggressive FunkFunk AutomotivoFunk BruxariaDecade of originLate 2010sLocation of originBrazil / InternetVisuals & ThemesKey motifsGlowing anime/manga characters, electric auras, villains/anti-heroes, aggressive typography, glitch effectsKey coloursSaturated neons (purple, green, orange, blue) on black backgroundsKey valuesAggression, power, intensity, hype, confidenceConnectionsRelatedaestheticsDrift PhonkGlitchcoreKrushclubMandrakeOverlapswithDrift PhonkMedia & CulturePrimaryplatformSoundCloud, YouTube, TikTokBrazilian Phonkis a music genre and internet aesthetic that fuses the sound of American phonk with Brazilian funk carioca (also known asbaile funk). Emerging in the late 2010s and popularized on platforms like SoundCloud and TikTok, the genre is defined by an aggressive, distorted, and percussion-heavy sound.",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/5f/de/00/5fde000b85b48a38ff274ec702377d54.jpg", "https://i.pinimg.com/564x/78/dc/dd/78dcddf9b608f825a256bc5248cdb2ec.jpg", "https://i.pinimg.com/564x/13/83/0c/13830c7184244f24d706a73ba6eabebc.jpg", "https://i.pinimg.com/564x/66/89/6c/66896c3a7fb728faa8d4f85058efa181.jpg", "https://i.pinimg.com/564x/06/c2/be/06c2be3b8b38e3866707098caaa7fae1.jpg", "https://i.pinimg.com/564x/00/89/dc/0089dc27ad87438c21de39e0b396c579.jpg"],
     "size": 5,
     "connectionCount": 8
   },
@@ -125,7 +125,7 @@ const aesthetics = [
     "brands": [],
     "description": "DiscoSaturday Night Fever (1977), an iconic film depicting the disco scene.OriginsDecade of origin1970sLocation of originNew York City and Philadelphia, U.S.Visuals & ThemesKey motifsDisco balls, flashing lights, dance floors, glitter, sequins, androgynous fashion, platform shoes, bell-bottomsKey coloursMetallic colors, neon colors, red, yellow, orange, multi-colorsKey valuesEscapism, freedom of expression, communal energy, glamour, nightlife cultureConnectionsRelatedaestheticsBallroom CultureFunkGlam RockItalo DiscoMillennium DiscoNew WavePsychedeliaGroovivalSynthwaveUltramodern RevivalOverlapswithGlam RockMedia & CultureRelatedmediaSaturday Night Fever, Thank God It's FridayTimelinePreceded bySucceeded byFunkNew Wave",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/88/2d/c4/882dc4e935d5d153a2ffa5ebc65529ec.jpg", "https://i.pinimg.com/564x/f7/30/cb/f730cbc8ba4eda2fa3a29cfaab4e3b1f.jpg", "https://i.pinimg.com/564x/25/32/ba/2532ba3f16bbff5bbbfda4d991c3faaa.jpg", "https://i.pinimg.com/564x/12/71/21/1271210ce2b1ddccd79caee247d91034.jpg", "https://i.pinimg.com/564x/e1/4e/89/e14e89fdaa929783d23b1b2cb95c4548.jpg", "https://i.pinimg.com/564x/5b/91/42/5b91421b0f0c601efa11b65f3be7adbd.jpg"],
     "size": 5,
     "connectionCount": 8
   },
@@ -141,7 +141,7 @@ const aesthetics = [
     "brands": [],
     "description": "Drift PhonkOriginsOther namesDrift,Drift House,Phonk House,Driftcore,Phonkcore,Phonk (erroneously)Decade of originLate 2010sLocation of originRussiaCreator(s)Kaito Shoma, Pharmacist and Ghostface PlayaVisuals & ThemesKey motifsCars, drifting, cover art with either cars and/or skulls, internet cultureKey coloursPurple,Green,White,Blue,GrayConnectionsRelatedaestheticsBrazilian PhonkTrillwavePhonkTrap MetalMeme RapRacingHorrorcoreOverlapswith2020 TikTokAnimecoreTrillwaveHorrorcoreSubgenresPhonk HouseMedia & CulturePrimaryplatformTikTokRelatedmediaDrift phonk music, videos of drifting cars, singlesRelatedbrandsMonstercat,Tribal Trap,Spinnin' Records,Trap NationIconicfiguresDVRST,Ghostface Playa,Pharmacist,Dxrk ダー,KordhellTimelinePreceded byPhonk",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/0b/d1/f8/0bd1f8d2ae2862af1b1b736701e1e824.jpg", "https://i.pinimg.com/564x/ee/2c/6f/ee2c6fb217fc9be1c758e73f98046541.jpg", "https://i.pinimg.com/564x/05/d6/12/05d61212fcef8ae5a8df20895df0055d.jpg", "https://i.pinimg.com/564x/33/ba/3a/33ba3a6665e0997abb9ad6bbd6988a0f.jpg", "https://i.pinimg.com/564x/e2/29/26/e22926a99eb7d723d0f215bd091d01e4.jpg", "https://i.pinimg.com/564x/6f/d0/17/6fd017ed59095f30e3fd66d30bfbb6db.jpg"],
     "size": 5,
     "connectionCount": 8
   },
@@ -157,7 +157,7 @@ const aesthetics = [
     "brands": [],
     "description": "E-BoyAn e-boy wearing layered monochrome clothing and padlock chains.OriginsOther namesElectronic BoyDecade of originLate 2010sVisuals & ThemesKey motifsChains, padlocks, middle-part hair, black nail polish, layered clothing, silver jewelryKey coloursBlack, white, silverConnectionsRelatedaestheticsE-GirlEmoEmo RapGrungeSadboiSceneSkaterSoft BoyTrap MetalMedia & CulturePrimaryplatformTikTokAnE-Boy(short for \"electronic boy\") is a member of a youth subculture that emerged in the late 2010s and was popularized on the social media platform TikTok. The aesthetic is defined by its fusion of elements from various earlier subcultures, including 1990s and 2000semo,scene, pop-punk, andskaterstyles, reinterpreted for an online context.[1]E-Boys are characterized by a distinct fashion sense, specific grooming habits, music tastes (primarilyemo rap, indie, and beedroom pop) and an online persona often cultivated primarily through short-form video content.[2]",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/df/37/23/df3723ea494ce19283d3e7041e0bde52.jpg", "https://i.pinimg.com/564x/f4/8c/b0/f48cb08685c2728a2eaa384e1484880d.jpg", "https://i.pinimg.com/564x/12/9d/51/129d51700d2be5576e18391f017fcfc9.jpg", "https://i.pinimg.com/564x/ca/8a/60/ca8a6057494b174364d3528951953217.jpg", "https://i.pinimg.com/564x/72/67/8e/72678ec27590234e9d9807f5f40b12ee.jpg", "https://i.pinimg.com/564x/54/aa/d5/54aad5b89fe3cc5e8a13c4a312e11605.jpg"],
     "size": 5,
     "connectionCount": 5
   },
@@ -173,7 +173,7 @@ const aesthetics = [
     "brands": [],
     "description": "E-GirlA woman with the characteristic E-Girl makeup, featuring winged eyeliner, heavy blush, and drawn-on hearts.OriginsOther namesElectronic GirlDecade of originLate 2010sVisuals & ThemesKey motifsWinged eyeliner, heavy blush, drawn-on hearts/tears, colorful dyed hair (often \"e-girl streaks\"), layered clothing, pleated skirts, chains, anime and gaming referencesKey coloursOften black and pink, but can include a wide range of pastels and bright colorsKey valuesInternet culture, online identity, gaming, anime, self-expression, performative sadnessConnectionsRelatedaestheticsAesthetic RapAlt KidDrainE-BoyEmoEmo RapKawaii GamerMallgothNu-GothPastel GothPuppygirlSadgirlSceneScenecoreSoft GrungeMedia & CulturePrimaryplatformTikTok, DiscordIconicfiguresBelle Delphine, Doja Cat (in certain music videos)TimelinePreceded by2010s Bright KawaiiSceneSadgirl",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/45/0c/1e/450c1e2a333c3a91aa6f0497bbfa8512.jpg", "https://i.pinimg.com/564x/f3/76/69/f376695a283a1e55041756c07bc64021.jpg", "https://i.pinimg.com/564x/2c/77/83/2c7783c3d890598741c791897ab9f9a2.jpg", "https://i.pinimg.com/564x/6b/d8/72/6bd872642364c4309d392fcf59d50ada.jpg", "https://i.pinimg.com/564x/46/c3/2a/46c32a631084b0322a80cc6706bf4918.jpg", "https://i.pinimg.com/564x/59/8c/6b/598c6bb9e41b27b32c3f07aa3260f43a.jpg"],
     "size": 5,
     "connectionCount": 8
   },
@@ -189,7 +189,7 @@ const aesthetics = [
     "brands": [],
     "description": "Electronic Body MusicCover art for \"Next Wave Acid Punx\" by CURSES/Eskimo Recordings (2021)OriginsOther namesEBM, Body Music, KörpermusikDecade of originLate 1970s / Early 1980sLocation of originDüsseldorf (Germany) & Brussels (Belgium)Coined byRalf Hütter (concept), Front 242 (genre label)Visuals & ThemesKey motifsHigh-and-tight haircuts (The Fresh Cut), bomber jackets (MA-1), Doc Martens,Socialist Realistgraphics, Cyrillic typography, industrial architecture, bodybuilding/fitness imageryKey coloursBlack, grey, red, white, olive drabKey valuesDiscipline, work ethic, physicality, repetition, provocationConnectionsRelatedaestheticsAggrotech(subgenre)BrutalismConstructivismCybergothElectroclashIndustrialItalo DiscoLeather SubcultureMinimal WaveNew BeatRivetheadMedia & CultureIconicfiguresGabi Delgado-López, Robert Görl, Daniel Bressanutti, Douglas McCarthy, Jürgen EnglerTimelinePreceded bySucceeded byIndustrialPunkKrautrockTechnoNew BeatAggrotechFuturepop",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/2f/c8/bb/2fc8bbbe4c98e11d220a1c860654cac1.jpg", "https://i.pinimg.com/564x/d9/c9/72/d9c972f8b4ec89d84b2a6fe2a458ea22.jpg", "https://i.pinimg.com/564x/8f/14/af/8f14af951f1e833bec8a85137ffa3ddc.jpg", "https://i.pinimg.com/564x/d0/02/07/d002074dbce48145eee92ad25ad0ac4c.jpg", "https://i.pinimg.com/564x/21/8c/f4/218cf42a7a10b862d516b1868bfa4426.jpg", "https://i.pinimg.com/564x/4d/2c/f0/4d2cf0d3a0ae0aeb35502fbfe61acea0.jpg"],
     "size": 5,
     "connectionCount": 8
   },
@@ -221,7 +221,7 @@ const aesthetics = [
     "brands": [],
     "description": "FemboyCastiel OnyxOriginsOther namesFeminine Boy, Tomgirl, Girlyboy, Roseboy (controversial)Decade of origin1990s (term)Late 2010s - Early 2020s (modern aesthetic)Visuals & ThemesKey motifsContrasting gender signifiers, thigh-highs, pleated skirts,maidoutfits, animal ears (cat/bunny), chokers, fluffy hairKey coloursPink, purple, white, pastels, black (for contrast)Key valuesEffeminacy, gender play/fluidity, innocence, softness, hyper-sexualized presentation (sometimes)ConnectionsRelatedaestheticsAlt KidE-GirlKawaiiMaidSoft BoyTomboy(counterpart)",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/f2/d1/b5/f2d1b53b221c4a3f83dc8259ceb4337b.jpg", "https://i.pinimg.com/564x/5a/0c/e7/5a0ce76c6d03cd692ac2ee8f2f8cfd6c.jpg", "https://i.pinimg.com/564x/ea/dc/7e/eadc7ecb6e6042cfb00ffc1f67b872a5.jpg", "https://i.pinimg.com/564x/4d/55/47/4d5547739799b83d9ec7e36fd464549f.jpg", "https://i.pinimg.com/564x/11/0d/20/110d2034e6b09b32f2a6e9e8ad87e88f.jpg", "https://i.pinimg.com/564x/94/d0/8d/94d08d0ee4deb3c4b48a9e2b8cf5fb36.jpg"],
     "size": 5,
     "connectionCount": 5
   },
@@ -237,7 +237,7 @@ const aesthetics = [
     "brands": [],
     "description": "Future FunkOriginsOther namesVaporboogieDecade of origin2010sCreator(s)Saint Pepsi, Macross 82-99, Yung BaeVisuals & ThemesKey motifsLooped anime GIFs, VHS degradation, neon typography, Japanese bubble economy imagery, disco lights, spinning vinyl, cassette tapesKey coloursNeon pink, cyan, violet, magenta, yellowKey valuesHedonism, escapism, nostalgia, retrofuturism, energyConnectionsRelatedaestheticsCity PopDiscoKawaiiNew WaveSynthwaveVaporwaveMedia & CultureRelatedmediaUrusei Yatsura, Sailor Moon, Kimagure Orange Road, Interstella 5555TimelinePreceded bySucceeded byVaporwaveFrench HouseCity PopKawaii Future BassFuture Funkis an internet-based microgenre that emerged in the early 2010s as a more energetic and dance-oriented derivative ofVaporwave. While it shares Vaporwave's reliance on sampling 1980s music and retro imagery, Future Funk diverges significantly in tone and philosophy. Instead of deconstructing the past through irony, slowness, and decay, Future Funk reconstructs it into a hyper-idealized, euphoric celebration of the 1980s Japanese \"Bubble Economy.\"[1]",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/74/71/c2/7471c2f494a780849e65412be485d44e.jpg", "https://i.pinimg.com/564x/eb/15/2a/eb152a3809b6909212085d41d2508f25.jpg", "https://i.pinimg.com/564x/7f/e7/13/7fe7132b5e0386d34ce71e11ba78ffe5.jpg", "https://i.pinimg.com/564x/49/2a/30/492a3037e3bf8c3586fc015394a82a77.jpg", "https://i.pinimg.com/564x/73/3e/15/733e15909ab62ca7c7c3ddb16ca54dbf.jpg", "https://i.pinimg.com/564x/aa/2c/c7/aa2cc786da5a7fd15f123f92200540a9.jpg"],
     "size": 5,
     "connectionCount": 8
   },
@@ -269,7 +269,7 @@ const aesthetics = [
     "brands": [],
     "description": "GlitchbreakCover art for \"Setari no Miu\" by Rory in Early 20s. Her visual style has inspired the \"Glitchbreak\" aesthetic.OriginsOther namesSewercore, Laincore, DreambreakDecade of originLate 2010sCoined bySpotify (algorithmically)Visuals & ThemesKey motifsAmen break, atmospheric pads, glitchy anime artwork, melancholic or depressive themes, Y2K internet aestheticsKey coloursMuted palettes, purple, black, neonsKey valuesNostalgia, introspection, online identity, genre fusionConnectionsRelatedaestheticsCybercoreFemcel WeeabooGlitch ArtGlitchcoreLolicoreMaidcoreRaveWebcoreY2KMedia & CulturePrimaryplatformTikTok, Spotify, SoundCloudRelatedmediaSerial Experiments LainIconicfiguresSewerslvt, Machine Girl, Goreshit, Rory in Early 20sTimelinePreceded byLolicore",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/85/8b/92/858b92e62b4b4ffc3d4f4f7d0c5ca3a0.jpg", "https://i.pinimg.com/564x/39/3c/93/393c93e2f8551dc1a994a820e4499da7.jpg", "https://i.pinimg.com/564x/ba/77/b6/ba77b6ba9374dd265ae35692014b207d.jpg", "https://i.pinimg.com/564x/11/1f/f8/111ff8b21314db44e9819b4194f110bb.jpg", "https://i.pinimg.com/564x/12/79/81/127981c48f5f496ae1871b937defdb44.jpg", "https://i.pinimg.com/564x/b1/1e/0a/b11e0a297dd204d4d6a029e56344e14a.jpg"],
     "size": 5,
     "connectionCount": 8
   },
@@ -317,7 +317,7 @@ const aesthetics = [
     "brands": [],
     "description": "Hip-HopOriginsOther namesRapDecade of origin1970sCreator(s)DJ Kool Herc, Afrika Bambaataa, Grandmaster Flash (pioneers)Visuals & ThemesKey motifsBreakbeats, rhythmic speech, DJing techniques, dance, graffiti, urban settings, self-expressionKey coloursVaries widelyKey valuesCreativity, innovation, self-expression, community, social commentary, resilienceConnectionsRelatedaestheticsB-BoyEmo RapGangsta RapLo-fiTrap MetalGraffiti PopTrillwaveUrBlingMedia & CultureRelatedmediaHip-hop music, music videos, graffiti art, dance performances, films, documentariesRelatedbrandsKarl Kani, Al Wissam, Bape, Ecko, Damani, Clench, Johnny Blaze, Fubu, Apple Bottom, Enyce, Ruff Ryders, Adidas, Akademiks, Cortiez, Wu Wear, PNB Nation, Rocawear, Supreme, Sir Benni Miles, YMCMB clothing, Baby Phat",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/51/e1/8a/51e18ab3b4c6ef47301f947cf8786d10.jpg", "https://i.pinimg.com/564x/18/04/cd/1804cda55da520470726e15ee821da24.jpg", "https://i.pinimg.com/564x/d9/00/83/d90083f84b07e9a0248f23c4a6326a75.jpg", "https://i.pinimg.com/564x/c1/2d/2f/c12d2fc1c6729582be82db3c247d86f2.jpg", "https://i.pinimg.com/564x/01/86/ca/0186cabe00b9696d6f3ca1f7a64f4099.jpg", "https://i.pinimg.com/564x/19/21/66/1921662e13e59719015b4dfc9c8dc1f4.jpg"],
     "size": 5,
     "connectionCount": 8
   },
@@ -333,7 +333,7 @@ const aesthetics = [
     "brands": [],
     "description": "KrushclubCover art for \"SMOKE IT OFF!\" by Lumi Athena & cade clair, a key track in the genre's popularization.OriginsOther namesKRUSHCLUB! (stylized), Odecore (used by Odetari)Decade of originEarly 2020sCreator(s)Lumi Athena, OdetariVisuals & ThemesKey motifsStars, hearts, pixels, glowing filters, 2000s imagery, low-poly models, scanline filtersKey coloursMonochrome (black, white, grey)ConnectionsRelatedaestheticsBrazilian PhonkCybercoreHexDHyperpopSigilkoreScenecoreY2K FuturismMedia & CulturePrimaryplatformSoundCloud, TikTokIconicfiguresOdetari, Lumi Athena, 6arelyhumanTimelinePreceded bySigilkoreKrushclubis an electronic music microgenre that emerged in the early 2020s, gaining significant viral popularity on TikTok in 2023. The sound is a high-energy fusion of Jersey Club rhythms, the distorted, bitcrushed production ofHexD, and the pitched-up vocal styles ofHyperpop. The genre is defined by its short, punchy song structures designed for social media, and a distinct visual aesthetic that pairs a monochrome color palette with nostalgic imagery from early 2000s internet and gaming culture.[1]",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/e8/44/e2/e844e2f56b7ef5cb95f1887228cc7443.jpg", "https://i.pinimg.com/564x/4c/9d/5e/4c9d5e7ebd5698c037a4dd11393304ea.jpg", "https://i.pinimg.com/564x/80/f7/0d/80f70da19a0c94a6e9672cfd463c2b47.jpg", "https://i.pinimg.com/564x/05/ac/ab/05acab64c80de766287c8dbf0b90572c.jpg", "https://i.pinimg.com/564x/26/25/48/262548edd079db23de7d096a4e80e49f.jpg", "https://i.pinimg.com/564x/d5/9e/ce/d59ecea08a4f93dfc1c456b16d05ead5.jpg"],
     "size": 5,
     "connectionCount": 8
   },
@@ -349,7 +349,7 @@ const aesthetics = [
     "brands": [],
     "description": "MadchesterSTONE ROSES / HAPPY MONDAYS / THE CHARLATANS / INSPIRAL CARPETS NME Originals, 2003OriginsOther namesSecond Summer of Love, BaggyDecade of origin1980sLocation of originManchester, EnglandCreator(s)1980s-1990s Manchester music groups and youth cultureCoined byTony Wilson (Factory Records)Visuals & ThemesKey motifsBucket hats, baggy clothing, psychedelia, raving, 1960s iconography/inspiration, indieKey coloursAll, vibrant and saturated/psychedelicKey valuesLocal pride, musical innovation, drugs (particularly MDMA), hedonism (e.g. nightclubs), youth rebellionConnectionsRelatedaestheticsAcid DesignAcid HouseBritpopCasualsFreakbeatGroovivalHippieIndieLad CultureModNew RaveNorthern SoulPost-PunkPsychedeliaPunkRaveOverlapswithAcid HouseRaveCasualsIndieMedia & CultureIconicfiguresThe Stone RosesHappy MondaysInspiral CarpetsThe CharlatansJames808 StateTimelinePreceded bySucceeded byPunkPost-PunkNew WaveNew RomanticBritpop",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/74/06/9e/74069eb1fc325d4c75d72fd11b0f6970.jpg", "https://i.pinimg.com/564x/0b/44/57/0b4457bbb8c0a53ecf3caad0f4e013d0.jpg", "https://i.pinimg.com/564x/37/f0/d4/37f0d4bd23e00ffa736c8799beac2c32.jpg", "https://i.pinimg.com/564x/c8/d0/df/c8d0df09704301b83f065651ef0f5ec8.jpg", "https://i.pinimg.com/564x/d5/04/2a/d5042a1e89adcc4d7815bc8b370532c3.jpg", "https://i.pinimg.com/564x/52/dd/6b/52dd6b22a63122151e27a1df610ca273.jpg"],
     "size": 5,
     "connectionCount": 8
   },
@@ -365,7 +365,7 @@ const aesthetics = [
     "brands": [],
     "description": "New BeatA woman wearing an outfit from Idriz Jossa's \"New Beat Fashion\" collection, which became synonymous with the genre and prominently features the \"Bomma badge.\"OriginsOther namesBelgian New BeatDecade of originLate 1980s (1987–1989)Location of originBelgiumVisuals & ThemesKey motifsSmiley faces, Bomma badges (gravestone portraits), cycling shorts, BDSM-inspired gear, religious iconography (crosses), BOY London branding, car logos (Volkswagen, Mercedes-Benz)Key coloursBlack, often with accents of yellow and redKey valuesHedonism, experimentation, underground club culture, androgyny, dark humorConnectionsRelatedaestheticsAcid HouseElectronic Body MusicRaveGabberNew WaveOverlapswithAcid HouseMedia & CultureRelatedmediaThe Sound of Belgium (2012 documentary), Mortal Kombat (for the \"Techno Syndrome\" soundtrack)RelatedbrandsBOY LondonIconicfiguresConfetti's, Lords of Acid, Technotronic, Praga Khan, Patrick de Meyer (Tragic Error)TimelinePreceded bySucceeded byBelgian PopcornEBMNew WaveGabber",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/f6/2e/07/f62e078b5133e9a73bb4b203b7879fa9.jpg", "https://i.pinimg.com/564x/c3/c5/5f/c3c55fcca4fb654c9259be0f83ca01af.jpg", "https://i.pinimg.com/564x/f5/47/dc/f547dcce2a8044545e255cf8da5fe2c3.jpg", "https://i.pinimg.com/564x/e4/3d/b2/e43db23b4c037a54a8af9813da9910e0.jpg", "https://i.pinimg.com/564x/f0/8e/d7/f08ed78391d68357d24c9cec16efc880.jpg", "https://i.pinimg.com/564x/6e/1f/04/6e1f04947a323f499652ab9b512a4a43.jpg"],
     "size": 5,
     "connectionCount": 8
   },
@@ -381,7 +381,7 @@ const aesthetics = [
     "brands": [],
     "description": "New RaveKlaxons, one of the most prominent bands of the scene.OriginsOther namesNu-Rave, Neu-RaveDecade of originMid-2000s (c. 2006–2008)Location of originUnited KingdomCoined byAngular Records / NME MagazineVisuals & ThemesKey motifsGlowsticks, neon paint, whistles, psychedelic imagery, skinny jeans, band t-shirtsKey coloursBright, fluorescent neon colorsKey valuesHedonism, irony,DIY ethos, indie music scene, party cultureConnectionsRelatedaestheticsIndie SleazeBloghouseRaveMadchesterElectroclashMedia & CultureRelatedmediaNME Magazine, MySpaceIconicfiguresKlaxons, Late of the Pier, Trash Fashion, New Young Pony Club, CSSTimelinePreceded bySucceeded byIndieElectroclashIndie SleazeNew Rave(sometimes written asNu-RaveorNeu-Rave) was a short-lived but highly hyped British music scene and subculture that peaked between 2006 and 2008. The term, coined by the music press, is a play on \"New Wave\" and was used to describe a scene that blended guitar-based indie rock and dance-punk with the aesthetics of 1990sraveculture.[1]Contrary to its name, the music was not actual rave or hardcore techno, but rather indie rock that incorporated electronic elements like synthesizers, sirens, and danceable beats.",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/03/a1/7c/03a17ccbac96b729c52f1aba89fe7fd3.jpg", "https://i.pinimg.com/564x/4f/eb/e7/4febe72fa13046a39b854554579c6af7.jpg", "https://i.pinimg.com/564x/81/73/9a/81739a9958fbd6c377da8e17074b14e8.jpg", "https://i.pinimg.com/564x/e1/b2/d6/e1b2d6c3e1997440244faf51c12c67a4.jpg", "https://i.pinimg.com/564x/b0/73/f0/b073f09900e0e14927ec5e68dfa1b664.jpg", "https://i.pinimg.com/564x/e2/11/4b/e2114b54c5a4d2f74150a3a8a5485480.jpg"],
     "size": 5,
     "connectionCount": 8
   },
@@ -397,7 +397,7 @@ const aesthetics = [
     "brands": [],
     "description": "PsychobillyThe Meteors promo shot from Honey magazine. From left to right: Mark Robertson, P.Paul Fenech, & Nigel Lewis.OriginsOther namesPunkabillyDecade of originEarly 1980sCreator(s)The MeteorsVisuals & ThemesKey motifsZombies, vampires, monsters, graveyards, hot rods, pin-up imagery (often with a dark twist), classic horror film elementsKey valuesRebellion, independence, humor, outsider statusConnectionsRelatedaestheticsB-Movie HorrorDeathrockGothabillyGurokawaHalloweenHorrorHorror PunkHot RodPin-upRockabillyPunkVampireTimelinePreceded byRockabillyPunkHorror PunkPsychobillyis a fusion music genre that emerged in the early 1980s as an evolution ofrockabillyandpunk rock's intensity. Its sound is characterized by aggressive, loud instrumentation, often featuring an upright double bass, overdriven guitars, and full drum kits, diverging from traditional rockabilly by incorporating modern lyrical themes and a faster tempo. Lyrically, psychobilly draws heavily fromhorrorfilms, B-movies, zombies,vampires, and graveyards, frequently presenting these dark subjects with a comedic or tongue-in-cheek approach. This gives it some lyrical similarities tohorror punk.",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/a1/a9/66/a1a966e6444d8271faf23f858f10ba39.jpg", "https://i.pinimg.com/564x/0a/6d/87/0a6d87707ad4a7f9c8c05a0ca4446cd4.jpg", "https://i.pinimg.com/564x/a1/2c/b8/a12cb8937c0c7cfb63d8b4d6dfba8a78.jpg", "https://i.pinimg.com/564x/8e/00/74/8e00749aaf41d571f7a9efb5b991d844.jpg", "https://i.pinimg.com/564x/af/dc/c3/afdcc389f65449c7cd82e1f9e801a87a.jpg", "https://i.pinimg.com/564x/08/a4/d9/08a4d94f5636f9fd099500712e61ad65.jpg"],
     "size": 5,
     "connectionCount": 8
   },
@@ -429,7 +429,7 @@ const aesthetics = [
     "brands": [],
     "description": "Riot GrrrlClockwise from top left: Mommy Long Legs, Tacocat, Skating Polly, The-Regrettes, Panic ShackOriginsDecade of originEarly 1990sLocation of originUnited States (Washington D.C., Pacific Northwest)Creator(s)Allison Wolfe, Molly Neuman, Jen Smith, Tobi Vail (coined term and foundational figures)Visuals & ThemesKey motifsDIY zines and publications; handwritten text and collage; visible protest slogans; reclaimed derogatory terms; unpolished aestheticsKey coloursBlack, pink, red, white, ivory, dark greyKey valuesFeminism, anti-consumerism, rejection of the mainstream,DIY ethos, female empowerment, social activismConnectionsRelatedaestheticsGrungeKinderwhorePunkQueercoreOverlapswithQueercoreKinderwhoreGrungeMedia & CultureRelatedmediaThe Punk Singer (2013), Girls to the Front: The True Story of the Riot Grrrl Revolution (2010), Revolution Girl Style Now! (cassette, 1991)RelatedbrandsKill Rock Stars, K Records (independent labels)IconicfiguresKathleen Hanna, Tobi Vail, Kathi Wilcox, Billy Karren (Bikini Kill); Allison Wolfe, Molly Neuman, Erin Smith (Bratmobile)TimelinePreceded byPunkThird-Wave Feminism",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/10/55/9b/10559be7957ea0e2ffe5ed7311af02f8.jpg", "https://i.pinimg.com/564x/1a/7c/37/1a7c374b617d073327d6a01a19e72809.jpg", "https://i.pinimg.com/564x/08/1e/62/081e62be353a8791d7686daba1542e11.jpg", "https://i.pinimg.com/564x/bd/bb/5c/bdbb5c75e4df94481e2dfa050d985730.jpg", "https://i.pinimg.com/564x/67/e8/57/67e8573b0cdbb70e5b095b1dcc025dbe.jpg", "https://i.pinimg.com/564x/9d/3c/86/9d3c865721b0f15f9d7b89fee6622736.jpg"],
     "size": 5,
     "connectionCount": 8
   },
@@ -461,7 +461,7 @@ const aesthetics = [
     "brands": [],
     "description": "SeapunkOriginsDecade of origin2010sCoined byJulian Foxworth (Lil Internet)Visuals & ThemesKey motifsDolphins, mermaids, pyramids, palm trees, yin-yangs, smiley faces, oceans, 1990s 3D net art,early CGIKey coloursAquamarine, cyan, seafoam green, lilac, pastel pink, turquoiseConnectionsRelatedaestheticsCyberpunkCybertweeFuture FunkIcepunkOcean GrungePastel GothPC MusicSlimepunkTrillwaveTropicalVaporwaveWitch HouseY2K FuturismMedia & CulturePrimaryplatformTumblr, TwitterIconicfiguresAzealia Banks, Grimes, Rihanna, UltrademonTimelineSucceeded byVaporwaveSeapunkis an internet aesthetic and electronic music microgenre that originated on Tumblr and Twitter in 2011. Its aesthetic is defined by an aquatic theme fused with imagery from 1990s cyberculture, including early 3D computer graphics, tropical scenery, and nautical motifs. The visual identity often features a bright color palette centered on shades of turquoise, cyan, and aquamarine, applied to digital art, fashion, and music videos.[1]",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/a1/33/d5/a133d53a4dff73d3900c67af0c3b4605.jpg", "https://i.pinimg.com/564x/44/21/c1/4421c1191a20bd2672638cdaa72a93c1.jpg", "https://i.pinimg.com/564x/36/af/bd/36afbd47b5f30df53d175301eba00cc8.jpg", "https://i.pinimg.com/564x/69/df/02/69df02301f1fd49c3c2068bdb3b73b3a.jpg", "https://i.pinimg.com/564x/97/2a/f3/972af3a2703c8837971c77a97e88b1da.jpg", "https://i.pinimg.com/564x/11/a5/ec/11a5ec52d061cee856db00d1cf1857b9.jpg"],
     "size": 5,
     "connectionCount": 8
   },
@@ -477,7 +477,7 @@ const aesthetics = [
     "brands": [],
     "description": "SigilkoreCover art for \"All Eyez on Me\" by Luci4.OriginsDecade of originLate 2010sCreator(s)Jewelxxet (collective, including Luci4/axxturel and islurwhenitalk)Visuals & ThemesKey motifsSigils, occult symbols, distorted anime/video game characters,glitter graphics, crosses, angelic and demonic imageryKey coloursBlack, red, purple, whiteKey valuesOccultism, dark atmospheres, audio experimentation, digital maximalismConnectionsRelatedaestheticsCybersigilismDrainGlitchcoreHexDHyperpopKrushclubTrillwaveWitch HouseXpiritualismMedia & CulturePrimaryplatformSoundCloud, TikTokTimelineSucceeded byKrushclubSigilkoreis an experimental microgenre of trap music and an internet aesthetic that emerged on SoundCloud in the late 2010s. Pioneered by the music collective Jewelxxet and artists like Luci4 (also known as Axxturel) and islurwhenitalk, the genre features dark, lo-fi, and disorienting soundscapes. Musically, it combines elements of Cloud Rap,HexD, andHyperpop, utilizing distorted, bass-boosted 808s, reverb-heavy synths, and pitched-up or snarled vocals.[1]",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/35/38/ce/3538ce0a8bd4e47b45a01d7c42f6f539.jpg", "https://i.pinimg.com/564x/d9/bc/74/d9bc74b6185a18d604f7b6d69c7eb92c.jpg", "https://i.pinimg.com/564x/02/21/f9/0221f940fbda696da804cdb00d255cb1.jpg", "https://i.pinimg.com/564x/28/50/37/2850370067e31891b8b4893e91f03632.jpg", "https://i.pinimg.com/564x/d9/f0/31/d9f031f12519cb5c4c72dc736817d3d0.jpg", "https://i.pinimg.com/564x/3a/41/91/3a4191e2178b325eb3c5fc7debe13016.jpg"],
     "size": 5,
     "connectionCount": 8
   },
@@ -493,7 +493,7 @@ const aesthetics = [
     "brands": [],
     "description": "SovietwaveThe lost red futureOriginsDecade of origin2010sVisuals & ThemesKey motifsHammers and sickles, Soviet Futurism, Soviet nostalgia, space, the Cold War, the Red Army, Cosmonauts, panel housesKey coloursRed, white, yellowKey valuesCommunism, Utopianism, Militarism, Patriotism, Red Nationalism, nostalgiaConnectionsRelatedaestheticsDoomerHeroic RealismLaborwaveOstalgieSocialist RealismStalkerSynthwaveVaporwaveYugo-NostalgiaMedia & CultureRelatedmediaEastern European New Wave",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/eb/6f/dc/eb6fdc7d4e8d0c9b890dbfaf061a03b2.jpg", "https://i.pinimg.com/564x/17/bf/65/17bf6558abd4e257256e9e3cde672313.jpg", "https://i.pinimg.com/564x/1d/cf/06/1dcf0641e79b682768cd26868c9a6058.jpg", "https://i.pinimg.com/564x/95/ff/65/95ff65fa77f719ca5300bd777213a668.jpg", "https://i.pinimg.com/564x/39/37/07/393707e67bb5a8fd148aceb3f82da7e2.jpg", "https://i.pinimg.com/564x/84/4b/59/844b59384bf94a6a59ad2f27b14e949a.jpg"],
     "size": 5,
     "connectionCount": 8
   },
@@ -509,7 +509,7 @@ const aesthetics = [
     "brands": [],
     "description": "TrillwaveOriginsOther namesTrill Era, Swag EraDecade of originLate 2000sCreator(s)SpaceGhostPurrp, Raider Klan, Lil B, A$AP Mob, Yung LeanVisuals & ThemesKey motifs90s Memphis tape aesthetics,Pen & Pixelart, purple tint (\"leaned out\"), retro video games (N64/PS1), VHS degradation, angel statues, Fiji Water, marijuana, gold teeth (grills)Key coloursBlack, purple, gold, whiteConnectionsRelatedaestheticsCloud RapDraincoreEmo RapFrutiger AeroGlitch ArtHip-HopHorrorcoreLo-fi ArtMeme RapNerdcoreOld WebPen & PixelPhonkSadboiSeapunkSlimepunkSwagTrap MetalVaporwaveWebcoreWitch HouseXpiritualismY2K FuturismMedia & CulturePrimaryplatformSoundCloud, BandcampRelatedbrandsNike, Gucci, Adidas, Backwoods, PlayStation, Nintendo, Sprite (Lean)TimelinePreceded bySucceeded byCrunkMemphis RapCloud RapPhonkEmo Rap",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/d0/c6/d0/d0c6d0ec5397dab5899990de9374d913.jpg", "https://i.pinimg.com/564x/e2/de/e1/e2dee186f447a41f67a273119a7481e0.jpg", "https://i.pinimg.com/564x/d4/1e/61/d41e616cd741b406a50555a8d93e2bb6.jpg", "https://i.pinimg.com/564x/ba/d2/00/bad2003791ea456ee08f81678202212b.jpg", "https://i.pinimg.com/564x/aa/2c/c7/aa2cc786da5a7fd15f123f92200540a9.jpg", "https://i.pinimg.com/564x/97/4e/a0/974ea0df41a32a9213deabde679250bd.jpg"],
     "size": 5,
     "connectionCount": 8
   },
@@ -525,7 +525,7 @@ const aesthetics = [
     "brands": [],
     "description": "VaporwaveThe cover of Macintosh Plus's 2011 album \"Floral Shoppe.\"OriginsOther namesVaporDecade of originEarly 2010sVisuals & ThemesKey motifsHellenic statues, 1990s web design and CGI, Japanese text,glitch art, palm trees, obsolete technology (Windows 95, VHS), corporate logosKey coloursPastel pink and cyan, purple, neon gradientsKey valuesNostalgia(often for a fabricated past), anti-capitalist critique (ambiguous), irony, technological melancholy, surrealismConnectionsRelatedaestheticsCassette FuturismClassicismCleancoreDemosceneGlitch ArtItalo DiscoLiminal SpaceLo-fiMemphis DesignMemphis LiteNeoclassical PoMoPC MusicRetrofuturismSeapunkSynthwaveWebcoreOld WebUtopian ScholasticY2K FuturismSubgenresBarber BeatsDreampunkFuture FunkMallsoftSignalwaveSlushwaveSimpsonwaveSpainwaveVaporgothMedia & CulturePrimaryplatformTumblr, SoundCloud, Bandcamp, 4chanIconicfiguresMacintosh Plus (Ramona Xavier), Saint Pepsi, Blank Banshee, VektroidTimelinePreceded bySeapunkVaporwaveis a microgenre of electronic music and an internet aesthetic that emerged in the early 2010s. Originating from experimental genres like Hypnagogic Pop, its sound is defined by the use of chopped, slowed-down, and reverb-heavy samples from 1980s and 1990s smooth jazz, R&B, and lounge music. The music creates a surreal, melancholic, andnostalgicatmosphere, evoking the uncanny feeling of wandering through a deserted shopping mall or hearing muzak from a forgotten corporate training video.",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/7c/14/b3/7c14b3c7104273e1c982e59c257d9e0f.jpg", "https://i.pinimg.com/564x/63/72/17/637217e1c73a5d993ccd659379401962.jpg", "https://i.pinimg.com/564x/31/85/e4/3185e4c3d45f65d5ad56c4f18088effa.jpg", "https://i.pinimg.com/564x/97/4e/a0/974ea0df41a32a9213deabde679250bd.jpg", "https://i.pinimg.com/564x/00/ee/09/00ee0952da43023e7c66cecb12b26e2c.jpg", "https://i.pinimg.com/564x/fb/e7/da/fbe7da30d1a45e1e188cfef66f914d34.jpg"],
     "size": 5,
     "connectionCount": 8
   },
@@ -541,7 +541,7 @@ const aesthetics = [
     "brands": [],
     "description": "Witch HouseAlbum cover art for \"Amnesty (I)\" by Crystal Castles, an artist influential to the genre.OriginsDecade of originLate 2000sVisuals & ThemesKey motifsTriangles (△), crosses (✝), Unicode symbols, occult imagery, distorted visuals, lo-fi aestheticsKey coloursBlack, desaturated colors, dark red, purple, blueKey valuesOccultism, surrealism, nocturnal themes, horror, dark atmospheres,DIY ethosConnectionsRelatedaestheticsGothHealth GothHorrorIndustrialNu-GothSeapunkTrillwaveVaporwaveWitchcoreMedia & CultureRelatedmediaThe Blair Witch Project, Twin PeaksWitch Houseis a dark, occult-themed electronic music microgenre and internet aesthetic that emerged in the late 2000s. The sound is characterized by a combination of various influences, including the heavily manipulated, slowed-down sampling techniques of chopped and screwed hip-hop, the atmospheric and gloomy tones of darkwave and ethereal wave, and the dense textures of shoegaze. This is typically layered over slow, trap-influenced drum machine rhythms.[1]",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/13/50/18/135018b065f311d69cf9f4117a5ab9e5.jpg", "https://i.pinimg.com/564x/3f/fa/c3/3ffac3a687dce9d12382e4f67924b16a.jpg", "https://i.pinimg.com/564x/b5/6e/9e/b56e9e6f8c82434769906006017c05e8.jpg", "https://i.pinimg.com/564x/0d/20/67/0d2067189e8e88eaf25f9aa9eb6641d5.jpg", "https://i.pinimg.com/564x/a8/a2/87/a8a287d53ca89ae575eebdcf06bf574d.jpg", "https://i.pinimg.com/564x/86/81/3c/86813c4f2d91c341e7ce6bf3e485f561.jpg"],
     "size": 5,
     "connectionCount": 8
   },
@@ -557,7 +557,7 @@ const aesthetics = [
     "brands": [],
     "description": "This article is about an aesthetic that took 2010s memes and turned them into a cohesive art style. For the original era, seeEarly Web 2.0 Nostalgia.",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/04/a8/c7/04a8c79dc7d871a48e92c59be8a75501.jpg", "https://i.pinimg.com/564x/d7/0c/88/d70c88af3c7441857ba83f9fb0e9a510.jpg", "https://i.pinimg.com/564x/83/2d/00/832d00181ebbb7784401bd8308098110.jpg", "https://i.pinimg.com/564x/92/2d/5c/922d5c96e44155ec140706317b5abdba.jpg", "https://i.pinimg.com/564x/eb/e2/65/ebe2659f2da0e09b4b114874d18387e4.jpg", "https://i.pinimg.com/564x/1d/d6/90/1dd69095b4612feb1db0d11bef09e0d0.jpg"],
     "size": 4,
     "connectionCount": 8
   },
@@ -573,7 +573,7 @@ const aesthetics = [
     "brands": [],
     "description": "2014 Tumblris one of the biggest influences to the contemporary aesthetics movement. As an image-aggregating site, it allowed people to curate personal reblogs easily. The ability to create a customized theme for the blog also enhanced the aesthetic value of the website. This article focuses on 2014 (more broadly 2011–2018) because this was the era before -core suffixes existed, Tumblr was at its greatest cultural relevancy, and the aesthetic trend was at its infancy.",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/22/98/38/229838f6b34abc6ce645f1db93140bbe.jpg", "https://i.pinimg.com/564x/6d/0f/9f/6d0f9f659fdbfbc4d469bfc8b9201e12.jpg", "https://i.pinimg.com/564x/c4/22/09/c42209bb18a35ba9e37b8e3c61b344f5.jpg", "https://i.pinimg.com/564x/f7/aa/d6/f7aad66e6bcd8a1a2c0cf2f1cb056822.jpg", "https://i.pinimg.com/564x/87/b8/84/87b8840fe13992de96bc6799a8fd923d.jpg", "https://i.pinimg.com/564x/2c/54/21/2c54217ca99e89a1a90950b1f910badb.jpg"],
     "size": 4,
     "connectionCount": 8
   },
@@ -589,7 +589,7 @@ const aesthetics = [
     "brands": [],
     "description": "Acid DesignArtwork by designer David Rudnick, a key figure in the style's modern revival.OriginsOther namesAcidgrafix, Brutalism (mistakenly)Decade of originLate 2010s (revival); 1990s (origin)Creator(s)David Rudnick, Jonathan Castro, GUCCIMAZE (key figures of the revival)Visuals & ThemesKey motifsChrome/liquid metal typography, wireframes, geometric shapes, dystopian imagery, psychedelic patterns, smiley facesKey coloursBlack, neons, fluorescent colorsKey valuesIndividuality, uniqueness, visual dissonance, cynical humor, futurismConnectionsRelatedaestheticsAcid HouseBarber BeatsCyberdeliaCyberpunkNeo-VectorheartNeubrutalismNew BeatPsychedeliaRaveRetrofuturismVectorheartY2K Futurism",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/1b/35/78/1b3578a7cee9e6e7bedaba5f95d5e186.jpg", "https://i.pinimg.com/564x/db/1d/d7/db1dd77e3746a2fafc3269a104a43828.jpg", "https://i.pinimg.com/564x/7e/90/ca/7e90ca392d2a4d3baf3c9f5c9731e0d4.jpg", "https://i.pinimg.com/564x/a2/63/64/a26364d1ca3111866b9edc3cdbc03ac4.jpg", "https://i.pinimg.com/564x/06/73/33/0673331baff2f313660155d4256d37e1.jpg", "https://i.pinimg.com/564x/68/d0/a3/68d0a3219cbd8fb628719a53f5734f69.jpg"],
     "size": 4,
     "connectionCount": 8
   },
@@ -605,7 +605,7 @@ const aesthetics = [
     "brands": [],
     "description": "AdventurecoreA natural landscape featuring a stream and dense forest.OriginsDecade of origin2010sCreator(s)advenchurre (Tumblr)Visuals & ThemesKey motifsExploration, the great outdoors, maps, compasses, hiking gear, dense forests, misty mountainsKey coloursEarth tones (green, brown, dark blue, off-white)Key valuesCuriosity, exploration, yearning for the unknown, connection to natureConnectionsRelatedaestheticsAdventure PulpCabincoreCampcoreGoblincoreNaturecoreMedia & CultureRelatedmediaGravity Falls, Over the Garden Wall, The Legend of Zelda: Breath of the WildAdventurecoreis an internet aesthetic and lifestyle concept that romanticizes the idea of adventure, exploration, and the great outdoors. Coined by Tumblr user advenchurre in 2019, the core philosophy is about \"navigating the world like you're a protag about to set off on a big cross-country journey,\" regardless of one's actual surroundings.[1]It is not defined by a single, rigid visual style, but rather by a feeling of curiosity, a yearning for the unknown, and a connection to nature. It blends practical outdoor gear with a cozy, rustic sensibility, drawing inspiration from hiking, camping, and fantasy narratives.",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/df/b5/e4/dfb5e46a579c52eef2909d72718cba50.jpg", "https://i.pinimg.com/564x/84/8c/57/848c57e0d6ed2c4dee92fcec0d0e5620.jpg", "https://i.pinimg.com/564x/7d/55/c7/7d55c70ee4f11672f4f26a874ef37a5a.jpg", "https://i.pinimg.com/564x/67/86/02/678602668b222d97ae3499752b6d2661.jpg", "https://i.pinimg.com/564x/06/21/01/062101374479c82628600a3d74c1e074.jpg", "https://i.pinimg.com/564x/26/fc/14/26fc142af243b48cfcdf6bda3a4e1c8f.jpg"],
     "size": 4,
     "connectionCount": 8
   },
@@ -621,7 +621,7 @@ const aesthetics = [
     "brands": [],
     "description": "After HoursFort Hill High School, Maryland, at night.OriginsOther namesKenopsiaDecade of origin2010sCreator(s)John KoenigVisuals & ThemesKey motifsDarkness, emptiness, familiarity, tranquility, melancholyKey coloursDarker colors due to shadows, Gold, YellowConnectionsRelatedaestheticsCity PopDoomerEtherealFilm NoirIndustrial DecayLiminal SpaceLo-FiMallsoftPost-ApocalypticSeapunkSynthwaveUrbancoreVaporwaveMedia & CultureRelatedmediaNo Players Online",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/01/84/c2/0184c20ed3989fb2abf1db593efe0098.jpg", "https://i.pinimg.com/564x/fb/04/80/fb04808d66ffb58b9a72154725304c1d.jpg", "https://i.pinimg.com/564x/eb/43/58/eb4358afbfb65677bd238e24b4c8e599.jpg", "https://i.pinimg.com/564x/fe/9d/74/fe9d7408bbcb5b3ff393478f87a2c161.jpg", "https://i.pinimg.com/564x/86/18/47/861847db86b38a1b36669339ba1a5977.jpg", "https://i.pinimg.com/564x/8f/8e/de/8f8ede6486696e5c6886a41181067593.jpg"],
     "size": 4,
     "connectionCount": 8
   },
@@ -637,7 +637,7 @@ const aesthetics = [
     "brands": [],
     "description": "AliyahcoreAliyah Bah, the creator of the aesthetic, wearing a characteristic Aliyahcore outfit with a miniskirt, platform boots, and earmuffs.OriginsDecade of origin2020sCreator(s)Aliyah Bah (aliyahsinterlude)Visuals & ThemesKey motifsEarmuffs, fishnets (as sleeves and stockings), garter belts, fur-trimmed platform boots, miniskirts, layered beltsKey valuesUnapologetic self-expression, confidence, creativity, individualityConnectionsRelatedaestheticsBubblegum BlingCyberpunkGrungeHarajuku FashionKawaiiMedia & CulturePrimaryplatformTikTokRelatedbrandsDemonia (footwear)Aliyahcoreis a fashionmicrotrendthat originated on TikTok in the early 2020s, created and popularized by the Atlanta-based content creator Aliyah Bah (aliyahsinterlude). The aesthetic is characterized by a formula that combines elements ofY2K,alternative, and JapaneseHarajuku fashioninfluences into an eccentric look.[1]",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/8a/49/66/8a4966191f8c1f7ee6f470f51bebece6.jpg", "https://i.pinimg.com/564x/5c/6b/20/5c6b2026426f6784dfc7fb068ae4ef1d.jpg", "https://i.pinimg.com/564x/2a/ef/94/2aef94a4efe58267a06ba8a0182d4a0d.jpg", "https://i.pinimg.com/564x/dc/3c/0c/dc3c0cb7a6a1b819cdecc7d22e92b7ec.jpg", "https://i.pinimg.com/564x/70/59/95/705995f10a42aba6257c66a82a877cd5.jpg", "https://i.pinimg.com/564x/09/4a/04/094a04c6315e980b5ffebce14f1aa7b3.jpg"],
     "size": 4,
     "connectionCount": 8
   },
@@ -653,7 +653,7 @@ const aesthetics = [
     "brands": [],
     "description": "AngelcoreOriginsOther namesCherubcoreDecade of originLate 2010sVisuals & ThemesKey motifsAngels, cherubs, wings, halos, doves, soft clouds, sunbeams, glitterKey coloursWhite, gold, light blue, light yellow, pastel pinkKey valuesBeauty, benevolence, tranquility, unearthliness, purity, gentlenessConnectionsRelatedaestheticsBaroqueCoquetteCottagecoreDevilcore(opposite)EtherealFairycoreHellenicNeoclassicismRococoSubgenresFallen AngelMedia & CulturePrimaryplatformTumblr, Pinterest, TikTokRelatedmediaWings of Desire (1987)Angelcoreis a contemporary internet aesthetic inspired by the imagery and mythology of angels, primarily from European art history. The aesthetic is defined by an ethereal, soft, and otherworldly quality, intended to emulate a sense of divine beauty and tranquility. Its visual style is heavily influenced by the art of theRococo,Baroque, andNeoclassicalperiods, featuring cherubs, ornate gold details, and soft, heavenly landscapes.[1]",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/85/88/ae/8588ae672fb357deddbe6824b6f648ef.jpg", "https://i.pinimg.com/564x/f4/75/51/f47551f6b5e7e463cb8c75eb6d68f45f.jpg", "https://i.pinimg.com/564x/9e/8f/e9/9e8fe984e7c7c525e4dce9c533cf1fce.jpg", "https://i.pinimg.com/564x/c7/d9/f9/c7d9f90ac862a4019546ae66ab557ca2.jpg", "https://i.pinimg.com/564x/66/9e/96/669e96ada2b7c55ce3202180deac0a3e.jpg", "https://i.pinimg.com/564x/d8/04/f6/d804f644657802e5b3425ed3ddcbc5ff.jpg"],
     "size": 4,
     "connectionCount": 8
   },
@@ -669,7 +669,7 @@ const aesthetics = [
     "brands": [],
     "description": "Art HoeOriginsDecade of originMid-2010sVisuals & ThemesKey motifsSelfies collaged with famous art, nature imagery (plants, flowers), sketchbooks, paint palettes, Kånken backpacksKey coloursPrimary colors (especially yellow), earthy tonesKey valuesCreativity, self-expression, diversity, centering artists of color, passion for art, connection to natureConnectionsRelatedaestheticsArt AcademiaVSCO GirlIndieCottagecorePlant MomMedia & CulturePrimaryplatformTumblr, InstagramRelatedbrandsFjällräven (Kånken), Dr. Martens, Vans, PolaroidIconicfiguresAmandla Stenberg, Rian Phin, Jenelle Lewis (Mars)Art Hoeis an internet aesthetic and movement that originated on Tumblr in the mid-2010s. It was created by and for young creatives of color, particularly Black artists, to provide a space for them to engage with art and self-expression outside of traditionally white, Eurocentric institutions.[1]The aesthetic is visually defined by a love for art, nature, and personal creativity. Its most characteristic expression involves posting selfies or photos that are digitally collaged with famous works of art, flowers, and sketchbook elements. The associated fashion is practical and artistic, often featuring items like Fjällräven Kånken backpacks, \"mom jeans,\" and Dr. Martens boots.",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/0e/f5/b6/0ef5b68e049a8f9e98c9ad492785f3b3.jpg", "https://i.pinimg.com/564x/54/f2/fb/54f2fbe091ae4b090cb4df3a83f24691.jpg", "https://i.pinimg.com/564x/b3/dc/45/b3dc45d776826db8f181deef6d9d602c.jpg", "https://i.pinimg.com/564x/28/dc/8c/28dc8cc079d2ad69b2176485d23ee9f6.jpg", "https://i.pinimg.com/564x/c9/36/5c/c9365c2d63df00be721f7926632f998f.jpg", "https://i.pinimg.com/564x/36/d1/c1/36d1c1ce3aa12f8d257ae61decaee821.jpg"],
     "size": 4,
     "connectionCount": 8
   },
@@ -685,7 +685,7 @@ const aesthetics = [
     "brands": [],
     "description": "Avant BasicOriginsDecade of origin2020sCoined byEmma Hope AllwoodVisuals & ThemesKey motifsCheckerboard, wavy lines, pastel patterns, curved shapesKey coloursPastel blues, pinks, greens, orangesKey valuesPlayfulness, retro, maximalism,kitsch, creativityConnectionsRelatedaestheticsDanish PastelDopamineGen Z MaximalismIndie KidKidcoreMaximalismMemphis DesignMid-Century ModernNeubrutalismPsychedeliaVaporwaveMedia & CultureRelatedbrandsLisa Says Gah, House of Sunny, Paloma WoolAvant Basicis an aesthetic characterized by pastel colors,retro-psychedelicpatterns, and a combination of clean and curved lines. The style represents a form ofmaximalismthat contrasts withminimalism, popularized through social media platforms such as Instagram and TikTok.[1]It primarily manifests in interior design and fashion, sometimes overlapping withDanish PastelandGen Z Maximalism.",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/55/1d/d9/551dd9bd7b08974d2406603052aa49f9.jpg", "https://i.pinimg.com/564x/8d/38/24/8d3824a291532f2d12abd48fbc2e62de.jpg", "https://i.pinimg.com/564x/c7/79/59/c779594afc0c48863095b48f7019c31e.jpg", "https://i.pinimg.com/564x/d2/16/14/d21614ff76a13480615d44082544ec57.jpg", "https://i.pinimg.com/564x/96/5b/e5/965be5c4ac86044e1571090afd21bd4c.jpg", "https://i.pinimg.com/564x/6d/f4/71/6df471d03c858c93a3b542411534497f.jpg"],
     "size": 4,
     "connectionCount": 8
   },
@@ -701,7 +701,7 @@ const aesthetics = [
     "brands": [],
     "description": "BabycoreOriginsDecade of origin2010sVisuals & ThemesKey motifsPlush toys, baby animals, pacifiers (as accessories), baby bottles, alphabet blocks, rattles, frills, pastelsKey coloursPastel pink, baby blue, light yellow, mint green, white, creamKey valuesNostalgia, comfort, innocence, softness, gentlenessConnectionsRelatedaestheticsBabygirlDelicate SweetKawaiiKidcoreSanriocoreYume KawaiiMedia & CulturePrimaryplatformTumblr, PinterestRelatedbrandsSanrio, Care Bears, Fisher-Price (as visual inspiration)TimelinePreceded byKidcore",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/fd/e7/e2/fde7e2b60af355cc798cf0e1b3a446c7.jpg", "https://i.pinimg.com/564x/98/72/fd/9872fdd9ef3cf50a75f12419be3f6ebf.jpg", "https://i.pinimg.com/564x/73/2a/b0/732ab0aab3607b65f0ee53641cec7c4d.jpg", "https://i.pinimg.com/564x/94/4e/85/944e85dbd19d0c15d5e4349f698cc7df.jpg", "https://i.pinimg.com/564x/33/47/68/3347684a0571066fc722bbce0eed6db2.jpg", "https://i.pinimg.com/564x/c6/f5/d6/c6f5d6a9cee6ab361220cb9ca355f301.jpg"],
     "size": 4,
     "connectionCount": 8
   },
@@ -717,7 +717,7 @@ const aesthetics = [
     "brands": [],
     "description": "BaddieOriginsOther namesBeauty GuruDecade of origin2010sVisuals & ThemesKey motifsBold makeup and fashionKey coloursBlack, red, camo, beige, white and pink.Key valuesBeing confident, looking good, wearing makeupConnectionsRelatedaestheticsBarbiecoreBimbocoreCherry Emoji TwitterChongaFemme FataleGuidoHot Cheeto GirlMcBlingPaty de SPMedia & CultureRelatedbrandsFashion Nova, Forever 21, Adidas",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/f7/d7/62/f7d7620961bb23ec82102f5d8fc0152d.jpg", "https://i.pinimg.com/564x/62/29/94/622994a76053f69d02a2200da9628b3a.jpg", "https://i.pinimg.com/564x/e5/67/8b/e5678be70d1b850e97252d727c1c9f8c.jpg", "https://i.pinimg.com/564x/35/2e/89/352e8919ecc18b04361f9a85abd6ce15.jpg", "https://i.pinimg.com/564x/f7/86/78/f7867861ae724f9fd50ecda7e01de262.jpg", "https://i.pinimg.com/564x/65/5d/01/655d012ebfb99226fdd602b16292b77c.jpg"],
     "size": 4,
     "connectionCount": 8
   },
@@ -733,7 +733,7 @@ const aesthetics = [
     "brands": [],
     "description": "Barber BeatsCover art for \"组织胜过时间 (Permaculture)\" by Modest by DefaultOriginsDecade of originLate 2010sCoined byAloe City WrldVisuals & ThemesKey motifsClassical sculptures, mythological figures, vinyl record aesthetics, \"Acid Graphics,\" elegant typographyKey valuesNostalgia, luxury, melancholy, sincerity, relaxationConnectionsRelatedaestheticsAcid DesignVaporwaveMedia & CulturePrimaryplatformBandcamp, YouTubeRelatedbrandsAloe City WrldIconicfiguresHaircuts for Men, Macroblank, Modest by DefaultTimelinePreceded byVaporwaveBarber Beatsis a subgenre ofVaporwavethat emerged in the late 2010s and gained popularity in the early 2020s. The style is defined by a more sincere, less ironic take on the Vaporwave ethos, trading the genre's characteristic reverb-heavy and warbled sound for a cleaner, downtempo, and more organic soundscape. Musically, it draws heavy influence from genres like trip-hop, nu-jazz, and instrumental hip-hop, creating a sound that is often described as suave, luxurious, and melancholic.[1]The genre is also characterized by a distinct visual style that sets it apart from other Vaporwave trends, featuring sleek, elegant album art that often depicts heavily edited classical sculptures and mythological figures.[2]",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/e8/96/c1/e896c16f28b4ca05d4a1fde67c64866e.jpg", "https://i.pinimg.com/564x/35/9a/3b/359a3bb3017eac8d4b0d613e51b582d1.jpg", "https://i.pinimg.com/564x/22/6e/2d/226e2d069411728b866dc6b284612db1.jpg", "https://i.pinimg.com/564x/9a/9d/64/9a9d645ef39b34b073124f69a0acf928.jpg", "https://i.pinimg.com/564x/a1/60/f5/a160f5df4a5a46df3e449eca2d55456a.jpg", "https://i.pinimg.com/564x/83/4a/67/834a67cb7c9d712cccb664a90aaac0cb.jpg"],
     "size": 4,
     "connectionCount": 8
   },
@@ -749,7 +749,7 @@ const aesthetics = [
     "brands": [],
     "description": "BastardcoreA person laying on a road with a traffic cone head, a popular novelty accessory in the aesthetic.OriginsDecade of originLate 2010sVisuals & ThemesKey motifsDelinquency, vandalism, low-light urban settings (underpasses, parking lots), fire/arson, mundane objects in bizarre context (traffic cone heads, skateboards), grotesque humor (spaghetti mouth, roaches), skeleton masks, people in shopping carts, novelty graphic shirtsKey coloursMuted greens, greys, and blacks; stark contrast between low-light scenes and bright sources of light (fire, flash, street lamps)Key valuesEdgy humor, novelty, shock value, mischief, rebellion, anti-establishment ironyConnectionsRelatedaestheticsMeme RapLiminal SpaceOlderbrothercoreWeirdcoreMedia & CulturePrimaryplatformReddit, Tumblr, Novelty Shirt WebsitesRelatedbrandsIt's Happy Bunny, David & Goliath (precursors), Shirts That Go Hard (core vendor)",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/94/34/9d/94349d6fb79ba83ec95c243ef47c50c0.jpg", "https://i.pinimg.com/564x/f1/ed/47/f1ed47f7f13f1b202bb10485600002a1.jpg", "https://i.pinimg.com/564x/fb/bd/ab/fbbdabef2fcf2063ae0f58d0e81c4fc2.jpg", "https://i.pinimg.com/564x/ac/0d/50/ac0d50ed55a9c32516e5503dbee12534.jpg", "https://i.pinimg.com/564x/ee/2c/6f/ee2c6fb217fc9be1c758e73f98046541.jpg", "https://i.pinimg.com/564x/c1/46/d7/c146d7bdbf0c53ac4bc19775449e1d56.jpg"],
     "size": 4,
     "connectionCount": 8
   },
@@ -765,7 +765,7 @@ const aesthetics = [
     "brands": [],
     "description": "BimbocoreOriginsOther namesBimbo Feminism, SlutcoreDecade of originEarly 2020sVisuals & ThemesKey motifsPink everything, glitter, velour tracksuits, mini skirts, platform heels, heavy makeup, affirmations, leftist political slogansKey coloursHot pink, baby pink, magenta, pastelsKey valuesSubversionand reclamation of femininity, pro-sexuality, anti-intellectualism (as a facade), body positivity, self-love, leftist politicsConnectionsRelatedaestheticsBarbiecoreMcBlingY2KBaddieGuidoHyperpopNeoperreoPuppygirlGlitter GraphicsMedia & CulturePrimaryplatformTikTokRelatedbrandsJuicy Couture, PlayboyIconicfiguresAyesha Erotica, Chrissy Chlapecka, Bimini Bon-Boulash, Paris Hilton (as a historical icon)TimelinePreceded byMcBling",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/ed/e1/5a/ede15a6fe710e503f48c9c8104991ff2.jpg", "https://i.pinimg.com/564x/a1/2c/c4/a12cc421d6223531d3caf01161ed32e7.jpg", "https://i.pinimg.com/564x/62/4c/1d/624c1df9891e39a8a09c1868bd2891a9.jpg", "https://i.pinimg.com/564x/3f/ec/5b/3fec5b442f0f54e7861c753b665f3537.jpg", "https://i.pinimg.com/564x/d7/1e/6e/d71e6e16099f4e62460b7a839494edba.jpg", "https://i.pinimg.com/564x/6b/41/d0/6b41d09274983f8bfa94c8c7665b8db1.jpg"],
     "size": 4,
     "connectionCount": 8
   },
@@ -781,7 +781,7 @@ const aesthetics = [
     "brands": [],
     "description": "Brat SummerOriginsOther namesBrat Girl, Brat Girl SummerDecade of origin2020sVisuals & ThemesKey motifsLime green (\"brat green\"), low-resolution font, party culture, smudged eyeliner, strappy tops, miniskirtsKey coloursLime green, black, whiteKey valuesCarefree attitude, confidence, messy self-acceptance, hedonism, irony, chaosConnectionsRelatedaestheticsIndie SleazeSoft GrungeY2KMedia & CulturePrimaryplatformTikTok, Twitter (X)IconicfiguresCharli XCX, Julia Fox, Kamala Harris (as a meme)Brat Summeris a fashion and lifestylemicrotrendthat originated in mid-2024, directly inspired by the release of British singer Charli XCX's sixth studio album,Brat. The aesthetic is defined by a specific visual style—most notably the album's signature lime green color and low-resolution font—and a cultural attitude of confident, chaotic, and unapologetic hedonism.[1]",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/e3/b4/e4/e3b4e44643fb05276960c30fb44fb930.jpg", "https://i.pinimg.com/564x/c6/0b/d6/c60bd6072da5ffce56a4b871327c8914.jpg", "https://i.pinimg.com/564x/a5/34/08/a5340895c87b882d2539dff6a10a9876.jpg", "https://i.pinimg.com/564x/b5/6d/9d/b56d9d7bd9601e1eb6116642c5e97f21.jpg", "https://i.pinimg.com/564x/43/26/93/43269311b5e77f9a9cc5bc6d3527c88f.jpg", "https://i.pinimg.com/564x/66/bd/de/66bdde8008e9f2f8a909eba719d3de42.jpg"],
     "size": 4,
     "connectionCount": 8
   },
@@ -797,7 +797,7 @@ const aesthetics = [
     "brands": [],
     "description": "CabincoreA cozy little cabin tucked away in the forest.OriginsDecade of originEarly 2020sVisuals & ThemesKey motifsCabins, forests, campfires, flannels, hiking, baking, hot drinksKey coloursDeepbrowns, auburn. Darker shades of red, maroon, burgundy, etc. All shades ofgreen,white, burntorangeKey valuesGetting away from it all.Closeness and appreciation to nature, all while sitting back, observing, and reflecting on life.ConnectionsRelatedaestheticsAdventurecoreAprès-skiCampcoreComfy/CozyCottagecoreDark AcademiaGorpcoreNorthernessForestpunkGoblincoreNaturecore",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/15/17/95/151795cfa4c6d050530a2f2e5c2bc3e2.jpg", "https://i.pinimg.com/564x/30/5c/33/305c33fa5dba8224bd556737063743c2.jpg", "https://i.pinimg.com/564x/37/63/df/3763df9ab036eb71d83252f47d8b8bd8.jpg", "https://i.pinimg.com/564x/05/1a/47/051a47633b3f9b3d7396018c0413c2c8.jpg", "https://i.pinimg.com/564x/7a/5b/4b/7a5b4b8c97f436faf5f1dae0a3a2b01c.jpg", "https://i.pinimg.com/564x/95/05/30/95053013f9eeb368379aba7d773c6fe9.jpg"],
     "size": 4,
     "connectionCount": 8
   },
@@ -829,7 +829,7 @@ const aesthetics = [
     "brands": [],
     "description": "SeeJuggalofor the dark, rap-inspired subculture. SeeFanfarefor the circus aesthetic.",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/b7/5e/79/b75e79dacc2a2177a5e720165819eb3d.jpg", "https://i.pinimg.com/564x/94/42/da/9442daa8d1ec9d2b51e5de9c24b73455.jpg", "https://i.pinimg.com/564x/dc/be/be/dcbebe1c93e8dbb00f737f6ce30b0b8a.jpg", "https://i.pinimg.com/564x/4c/7c/a8/4c7ca8056ac0620069d3482697f65e34.jpg", "https://i.pinimg.com/564x/93/fb/2f/93fb2ffdf1131bf88fc88cbc05d1db20.jpg", "https://i.pinimg.com/564x/bf/08/5a/bf085a5c005a4c762bf72c620860b97a.jpg"],
     "size": 4,
     "connectionCount": 8
   },
@@ -845,7 +845,7 @@ const aesthetics = [
     "brands": [],
     "description": "Coastal CowgirlCoastal Cowgirl moodboard.OriginsDecade of origin2020sVisuals & ThemesKey motifsSeashells, cowgirl hats, the beachKey coloursBaby blue, cream, tanConnectionsRelatedaestheticsCoastal GrandmotherCoastal StyleBeach GirlWesternMinimalismRusticcoreTomato Girl Summer",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/c7/27/d2/c727d235b2a42405dd5ae8b52b115622.jpg", "https://i.pinimg.com/564x/73/b5/d8/73b5d8deea69a4ee423cac031bc43b26.jpg", "https://i.pinimg.com/564x/c0/9d/10/c09d1091481261643735806f0fa5622c.jpg", "https://i.pinimg.com/564x/c7/0c/2f/c70c2f5aafca75cd4a500c2faeda221a.jpg", "https://i.pinimg.com/564x/fd/3d/36/fd3d36325af34b5b4007319a17587da1.jpg", "https://i.pinimg.com/564x/bf/75/1b/bf751ba81f939e00b0ead3912c622a41.jpg"],
     "size": 4,
     "connectionCount": 8
   },
@@ -877,7 +877,7 @@ const aesthetics = [
     "brands": [],
     "description": "Coconut GirlOriginsOther namesMalibu Barbie, Key West Kitten, Beach CoquetteDecade of origin2020sVisuals & ThemesKey motifsBeaches, touristy boardwalk shops, bikinisKey coloursSummer colors (pink, yellow, blue, etc.)Key valuesFun, relaxation, youth, femininity, freedomConnectionsRelatedaestheticsAmericanaBarbiecoreBubblegum CoquetteCoquetteCurly GirlyMcBlingNymphetSurf CrushTropicalTropicalcoreMedia & CultureRelatedbrandsRoxy, Delia*s, Claire's",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/a1/ca/97/a1ca97093a1693be3d6d4327b5b5b8f4.jpg", "https://i.pinimg.com/564x/0a/a5/17/0aa5170ec58f433bb543db765e6477de.jpg", "https://i.pinimg.com/564x/b8/12/58/b8125854962d4641b8e72832c166db78.jpg", "https://i.pinimg.com/564x/41/ee/5b/41ee5bc418b293b31cbf70cac664e43b.jpg", "https://i.pinimg.com/564x/73/1c/99/731c992665848687f6fe0b943e0d85cb.jpg", "https://i.pinimg.com/564x/e8/9c/b0/e89cb0ffce5e5e1296050048a4abdace.jpg"],
     "size": 4,
     "connectionCount": 8
   },
@@ -925,7 +925,7 @@ const aesthetics = [
     "brands": [],
     "description": "CrowcoreShiny! So cool!OriginsOther namesCorvidcoreDecade of originUnknownCreator(s)TumblrVisuals & ThemesKey coloursRustic Silvers, Copper Tones,White,Green,BlackKey valuesSimplicity, intelligence, freedom, and shiny thingsConnectionsRelatedaestheticsBlackCottagecoreCryptidcoreDragoncoreGoblincoreGreenMossyNaturecorePirateVulture CultureWhiteCrowcoreis primarily derived fromGoblincoreandCottagecore. This aesthetic focuses mainly onnature, environmentalism, crows and collecting (usually shiny) objects from nature and urban environments. Crowcore is generally darker than either of its initial inspirations.",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/ac/5e/c0/ac5ec0d6f5219a8cbd31b36d859a5b61.jpg", "https://i.pinimg.com/564x/32/f8/9b/32f89b53ce386d3b5234f652cdf2436d.jpg", "https://i.pinimg.com/564x/3b/3f/d0/3b3fd07af43f1b47afc890ba53ab1550.jpg", "https://i.pinimg.com/564x/16/15/b2/1615b2f447a34c67272eca989386cb9d.jpg", "https://i.pinimg.com/564x/6b/36/8f/6b368f44db9e5c0518419edd285e06fb.jpg", "https://i.pinimg.com/564x/9b/0a/5a/9b0a5ad3cb3ac7b23c226d0e3e4d92cc.jpg"],
     "size": 4,
     "connectionCount": 8
   },
@@ -941,7 +941,7 @@ const aesthetics = [
     "brands": [],
     "description": "Cryptidcore\"The woods are wondrous here, but strange.\" -Mark Frost, Twin PeaksOriginsDecade of origin2010sVisuals & ThemesKey motifsCryptids, urban legends, abandoned buildings, dark forestsKey coloursMuted, glow-in-the-darkKey valuesAdventure, mystery, curiosityConnectionsRelatedaestheticsAliencoreAfter HoursLiminal SpaceWitchcoreGoblincoreAdventurecoreMidwest GothicSuburban GothicAnalog HorrorMedia & CultureRelatedmediaGravity FallsTwin PeaksUnsolved MysteriesThe Twilight ZoneThe X-FilesThe SCP FoundationThe Adventure Zone: Amnesty",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/7a/29/4c/7a294c0fe0d5196f32b3f2307a3d6eda.jpg", "https://i.pinimg.com/564x/d1/8d/14/d18d141c57aa0be84eb232dfbef9787a.jpg", "https://i.pinimg.com/564x/5c/48/44/5c48446a273a16cee0d704faca0f5b0b.jpg", "https://i.pinimg.com/564x/ea/86/d9/ea86d92bd46b0c575c53a13631560718.jpg", "https://i.pinimg.com/564x/60/c2/60/60c2600fb1f1a611577db5b1bbfd18b9.jpg", "https://i.pinimg.com/564x/75/14/4f/75144f56e2bddb88b514e7e532047e7b.jpg"],
     "size": 4,
     "connectionCount": 8
   },
@@ -957,7 +957,7 @@ const aesthetics = [
     "brands": [],
     "description": "CutecoreA room decorated in the Cutecore style, featuring Sanrio plushies juxtaposed with the survival horror game Fatal Frame.OriginsOther namesCutegore, Kawaii Kei (Western TikTok term for the non-gory variant)Decade of origin2020sCreator(s)[Anonymous] (Tumblr)Visuals & ThemesKey motifsJuxtaposition ofkawaiiwithhorror, blood splatters, bandages, medical equipment, fast food packagingKey coloursPastels (pink, yellow, blue), white, red (blood)Key valuesTrauma processing, morbid curiosity, regression, rejection of sanitizationConnectionsRelatedaestheticsAnimecoreBubblegum DanceFemcelGurokawaHeisei RetroHorrorJojifukuKawaiiLolicorePastel GoreSanriocoreTraumacoreYami KawaiiMedia & CultureRelatedbrandsSanrio, Mezzo Piano, Angel Blue, Daisy Lovers",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/ff/b8/4f/ffb84f2fe807fa06849a071c0cdb2f57.jpg", "https://i.pinimg.com/564x/2c/85/62/2c8562618b34374e9ae0c038f318aa35.jpg", "https://i.pinimg.com/564x/f8/57/61/f85761f3a12f4f684713c8b06ce71319.jpg", "https://i.pinimg.com/564x/53/99/c0/5399c04fd88ffcf75aff00e3ef9d62d1.jpg", "https://i.pinimg.com/564x/cf/27/35/cf2735a1a6c0f725e63b9b43d09ba480.jpg", "https://i.pinimg.com/564x/b8/4b/2b/b84b2b44b3bb0b478a98e05e613304b4.jpg"],
     "size": 4,
     "connectionCount": 8
   },
@@ -989,7 +989,7 @@ const aesthetics = [
     "brands": [],
     "description": "Deep Fried MemeA standard \"Deep Fried\" meme of Mr. Clean.OriginsOther namesDeepfried, Nuked MemesDecade of origin2010sCreator(s)Tumblr user paparoachscarsmp3 (coined term); Popularized by Black Twitter and r/DeepFriedMemesVisuals & ThemesKey motifsExcessive JPEG artifacts, lens flare eyes, the \"B\" (🅱️) emoji, extreme saturation, HDR sharpening, noise filtersKey coloursFried yellow, saturated red, laser blueKey valuesIrony, noise, absurdity, digital decay, anti-censorshipConnectionsRelatedaestheticsArabfunnyGorewebHaunted MoundMajor League GamingMeme RapSurreal MemeTänzelcore",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/e3/0b/74/e30b74d558c00ace039c139daa37b613.jpg", "https://i.pinimg.com/564x/6f/ff/aa/6fffaa60fcf6912c91930360f3452ce1.jpg", "https://i.pinimg.com/564x/cc/b8/10/ccb810288473e52d7290fa818578356d.jpg", "https://i.pinimg.com/564x/08/cd/94/08cd94965774200059604046501f13ba.jpg", "https://i.pinimg.com/564x/5d/30/37/5d3037a1f07cc090be8e59b046720fc1.jpg", "https://i.pinimg.com/564x/88/c7/97/88c797fc8d643891908a7b34d0c501eb.jpg"],
     "size": 4,
     "connectionCount": 8
   },
@@ -1005,7 +1005,7 @@ const aesthetics = [
     "brands": [],
     "description": "Dopamine DressingFashion blogger Daytime Bear (白昼小熊), a prominent figure of the Dopamine Dressing trend, strikes a pose for her 1.2 million followers on Chinese Instagram slash e-commerce platform 小红书 (xiǎohóngshū).OriginsOther names多巴胺风 (Duōbā'àn Fēng)Decade of originEarly 2020sLocation of originChinaVisuals & ThemesKey motifsBright color blocking, simple patterns, fruits, candy, maximalist silhouettesKey coloursHighly saturated colors (yellow, orange, hot pink, neon green)Key valuesEnthusiasm, optimism, positivity, vitalityConnectionsRelatedaestheticsDecoraGen Z MaximalismIndie KidKidcoreLulicoreMaillard StyleDopamine Dressing(多巴胺风) is a fashion and design aesthetic that emerged in the early 2020s, characterized by the use of bright, saturated colors and maximalist elements. The central idea is based on the psychological concept that wearing vibrant colors can positively affect the wearer's mood and evoke feelings of optimism and energy. The trend gained significant popularity globally, with a notable traction in China, extending from clothing to interior and visual design.",
     "references": [],
-    "images": [],
+    "images": ["https://i.pinimg.com/564x/87/20/91/87209174ebb820d22254609067c4c632.jpg", "https://i.pinimg.com/564x/1c/11/41/1c11419d6d71e1bae15e6d1109b601ed.jpg", "https://i.pinimg.com/564x/96/aa/03/96aa036c928a13eaf58a015f1199ebff.jpg", "https://i.pinimg.com/564x/ff/16/58/ff16585dfd4ac5e28aba90c436956733.jpg", "https://i.pinimg.com/564x/9f/3e/5b/9f3e5b16ff804a0c86ae7203c01a3d2c.jpg", "https://i.pinimg.com/564x/a6/ff/6d/a6ff6d310ea6c18e5aa2fa8dae2ec9a5.jpg"],
     "size": 4,
     "connectionCount": 8
   },

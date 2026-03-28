@@ -262,5 +262,391 @@
     "https://i.pinimg.com/564x/74/3e/fb/743efb1665ce02a27419b87d5f52c8a3.jpg",
     "https://i.pinimg.com/564x/9f/92/27/9f9227341449ad92c74e77ffc5fce699.jpg",
     "https://i.pinimg.com/564x/8b/46/51/8b4651f242916a81f9a9394453ba7ebe.jpg"
+  ],
+  "acid-house": [
+    "https://i.pinimg.com/564x/3c/96/70/3c96707c77be57f2952ea824c7a63b99.jpg",
+    "https://i.pinimg.com/564x/95/4f/00/954f003a50b21ef3d7d495be804cd6ae.jpg",
+    "https://i.pinimg.com/564x/54/2e/fe/542efe80e747dab9a03f848cd496193e.jpg",
+    "https://i.pinimg.com/564x/25/87/7f/25877f3516243719e864742fc74a9168.jpg",
+    "https://i.pinimg.com/564x/aa/c0/e1/aac0e1d75946d09cfdff45679bedb21d.jpg",
+    "https://i.pinimg.com/564x/a1/8f/df/a18fdf64fd8eca9e87f903a310184c1f.jpg"
+  ],
+  "aesthetic-rap": [
+    "https://i.pinimg.com/564x/6d/49/92/6d4992fc5ed36801e054422f2bf1be0f.jpg",
+    "https://i.pinimg.com/564x/64/8d/18/648d18a635cb172871c3ac386aa4b5e6.jpg",
+    "https://i.pinimg.com/564x/d5/2b/5f/d52b5fa284f6cbdd670878af86535139.jpg",
+    "https://i.pinimg.com/564x/b4/b0/a0/b4b0a0cdf96388a0317ddd6e8003ec11.jpg",
+    "https://i.pinimg.com/564x/3f/d5/dc/3fd5dc3f67127df7e7c69df280af1f44.jpg",
+    "https://i.pinimg.com/564x/e9/dd/20/e9dd201ad5e65d0f66b0b64e696df10c.jpg"
+  ],
+  "brazilian-phonk": [
+    "https://i.pinimg.com/564x/5f/de/00/5fde000b85b48a38ff274ec702377d54.jpg",
+    "https://i.pinimg.com/564x/78/dc/dd/78dcddf9b608f825a256bc5248cdb2ec.jpg",
+    "https://i.pinimg.com/564x/13/83/0c/13830c7184244f24d706a73ba6eabebc.jpg",
+    "https://i.pinimg.com/564x/66/89/6c/66896c3a7fb728faa8d4f85058efa181.jpg",
+    "https://i.pinimg.com/564x/06/c2/be/06c2be3b8b38e3866707098caaa7fae1.jpg",
+    "https://i.pinimg.com/564x/00/89/dc/0089dc27ad87438c21de39e0b396c579.jpg"
+  ],
+  "demoscene": [],
+  "disco": [
+    "https://i.pinimg.com/564x/88/2d/c4/882dc4e935d5d153a2ffa5ebc65529ec.jpg",
+    "https://i.pinimg.com/564x/f7/30/cb/f730cbc8ba4eda2fa3a29cfaab4e3b1f.jpg",
+    "https://i.pinimg.com/564x/25/32/ba/2532ba3f16bbff5bbbfda4d991c3faaa.jpg",
+    "https://i.pinimg.com/564x/12/71/21/1271210ce2b1ddccd79caee247d91034.jpg",
+    "https://i.pinimg.com/564x/e1/4e/89/e14e89fdaa929783d23b1b2cb95c4548.jpg",
+    "https://i.pinimg.com/564x/5b/91/42/5b91421b0f0c601efa11b65f3be7adbd.jpg"
+  ],
+  "drift-phonk": [
+    "https://i.pinimg.com/564x/0b/d1/f8/0bd1f8d2ae2862af1b1b736701e1e824.jpg",
+    "https://i.pinimg.com/564x/ee/2c/6f/ee2c6fb217fc9be1c758e73f98046541.jpg",
+    "https://i.pinimg.com/564x/05/d6/12/05d61212fcef8ae5a8df20895df0055d.jpg",
+    "https://i.pinimg.com/564x/33/ba/3a/33ba3a6665e0997abb9ad6bbd6988a0f.jpg",
+    "https://i.pinimg.com/564x/e2/29/26/e22926a99eb7d723d0f215bd091d01e4.jpg",
+    "https://i.pinimg.com/564x/6f/d0/17/6fd017ed59095f30e3fd66d30bfbb6db.jpg"
+  ],
+  "e-boy": [
+    "https://i.pinimg.com/564x/df/37/23/df3723ea494ce19283d3e7041e0bde52.jpg",
+    "https://i.pinimg.com/564x/f4/8c/b0/f48cb08685c2728a2eaa384e1484880d.jpg",
+    "https://i.pinimg.com/564x/12/9d/51/129d51700d2be5576e18391f017fcfc9.jpg",
+    "https://i.pinimg.com/564x/ca/8a/60/ca8a6057494b174364d3528951953217.jpg",
+    "https://i.pinimg.com/564x/72/67/8e/72678ec27590234e9d9807f5f40b12ee.jpg",
+    "https://i.pinimg.com/564x/54/aa/d5/54aad5b89fe3cc5e8a13c4a312e11605.jpg"
+  ],
+  "e-girl": [
+    "https://i.pinimg.com/564x/45/0c/1e/450c1e2a333c3a91aa6f0497bbfa8512.jpg",
+    "https://i.pinimg.com/564x/f3/76/69/f376695a283a1e55041756c07bc64021.jpg",
+    "https://i.pinimg.com/564x/2c/77/83/2c7783c3d890598741c791897ab9f9a2.jpg",
+    "https://i.pinimg.com/564x/6b/d8/72/6bd872642364c4309d392fcf59d50ada.jpg",
+    "https://i.pinimg.com/564x/46/c3/2a/46c32a631084b0322a80cc6706bf4918.jpg",
+    "https://i.pinimg.com/564x/59/8c/6b/598c6bb9e41b27b32c3f07aa3260f43a.jpg"
+  ],
+  "electronic-body-music": [
+    "https://i.pinimg.com/564x/2f/c8/bb/2fc8bbbe4c98e11d220a1c860654cac1.jpg",
+    "https://i.pinimg.com/564x/d9/c9/72/d9c972f8b4ec89d84b2a6fe2a458ea22.jpg",
+    "https://i.pinimg.com/564x/8f/14/af/8f14af951f1e833bec8a85137ffa3ddc.jpg",
+    "https://i.pinimg.com/564x/d0/02/07/d002074dbce48145eee92ad25ad0ac4c.jpg",
+    "https://i.pinimg.com/564x/21/8c/f4/218cf42a7a10b862d516b1868bfa4426.jpg",
+    "https://i.pinimg.com/564x/4d/2c/f0/4d2cf0d3a0ae0aeb35502fbfe61acea0.jpg"
+  ],
+  "femboy": [
+    "https://i.pinimg.com/564x/f2/d1/b5/f2d1b53b221c4a3f83dc8259ceb4337b.jpg",
+    "https://i.pinimg.com/564x/5a/0c/e7/5a0ce76c6d03cd692ac2ee8f2f8cfd6c.jpg",
+    "https://i.pinimg.com/564x/ea/dc/7e/eadc7ecb6e6042cfb00ffc1f67b872a5.jpg",
+    "https://i.pinimg.com/564x/4d/55/47/4d5547739799b83d9ec7e36fd464549f.jpg",
+    "https://i.pinimg.com/564x/11/0d/20/110d2034e6b09b32f2a6e9e8ad87e88f.jpg",
+    "https://i.pinimg.com/564x/94/d0/8d/94d08d0ee4deb3c4b48a9e2b8cf5fb36.jpg"
+  ],
+  "future-funk": [
+    "https://i.pinimg.com/564x/74/71/c2/7471c2f494a780849e65412be485d44e.jpg",
+    "https://i.pinimg.com/564x/eb/15/2a/eb152a3809b6909212085d41d2508f25.jpg",
+    "https://i.pinimg.com/564x/7f/e7/13/7fe7132b5e0386d34ce71e11ba78ffe5.jpg",
+    "https://i.pinimg.com/564x/49/2a/30/492a3037e3bf8c3586fc015394a82a77.jpg",
+    "https://i.pinimg.com/564x/73/3e/15/733e15909ab62ca7c7c3ddb16ca54dbf.jpg",
+    "https://i.pinimg.com/564x/aa/2c/c7/aa2cc786da5a7fd15f123f92200540a9.jpg"
+  ],
+  "glitch-art": [],
+  "glitchbreak": [
+    "https://i.pinimg.com/564x/85/8b/92/858b92e62b4b4ffc3d4f4f7d0c5ca3a0.jpg",
+    "https://i.pinimg.com/564x/39/3c/93/393c93e2f8551dc1a994a820e4499da7.jpg",
+    "https://i.pinimg.com/564x/ba/77/b6/ba77b6ba9374dd265ae35692014b207d.jpg",
+    "https://i.pinimg.com/564x/11/1f/f8/111ff8b21314db44e9819b4194f110bb.jpg",
+    "https://i.pinimg.com/564x/12/79/81/127981c48f5f496ae1871b937defdb44.jpg",
+    "https://i.pinimg.com/564x/b1/1e/0a/b11e0a297dd204d4d6a029e56344e14a.jpg"
+  ],
+  "hip-hop": [
+    "https://i.pinimg.com/564x/51/e1/8a/51e18ab3b4c6ef47301f947cf8786d10.jpg",
+    "https://i.pinimg.com/564x/18/04/cd/1804cda55da520470726e15ee821da24.jpg",
+    "https://i.pinimg.com/564x/d9/00/83/d90083f84b07e9a0248f23c4a6326a75.jpg",
+    "https://i.pinimg.com/564x/c1/2d/2f/c12d2fc1c6729582be82db3c247d86f2.jpg",
+    "https://i.pinimg.com/564x/01/86/ca/0186cabe00b9696d6f3ca1f7a64f4099.jpg",
+    "https://i.pinimg.com/564x/19/21/66/1921662e13e59719015b4dfc9c8dc1f4.jpg"
+  ],
+  "krushclub": [
+    "https://i.pinimg.com/564x/e8/44/e2/e844e2f56b7ef5cb95f1887228cc7443.jpg",
+    "https://i.pinimg.com/564x/4c/9d/5e/4c9d5e7ebd5698c037a4dd11393304ea.jpg",
+    "https://i.pinimg.com/564x/80/f7/0d/80f70da19a0c94a6e9672cfd463c2b47.jpg",
+    "https://i.pinimg.com/564x/05/ac/ab/05acab64c80de766287c8dbf0b90572c.jpg",
+    "https://i.pinimg.com/564x/26/25/48/262548edd079db23de7d096a4e80e49f.jpg",
+    "https://i.pinimg.com/564x/d5/9e/ce/d59ecea08a4f93dfc1c456b16d05ead5.jpg"
+  ],
+  "madchester": [
+    "https://i.pinimg.com/564x/74/06/9e/74069eb1fc325d4c75d72fd11b0f6970.jpg",
+    "https://i.pinimg.com/564x/0b/44/57/0b4457bbb8c0a53ecf3caad0f4e013d0.jpg",
+    "https://i.pinimg.com/564x/37/f0/d4/37f0d4bd23e00ffa736c8799beac2c32.jpg",
+    "https://i.pinimg.com/564x/c8/d0/df/c8d0df09704301b83f065651ef0f5ec8.jpg",
+    "https://i.pinimg.com/564x/d5/04/2a/d5042a1e89adcc4d7815bc8b370532c3.jpg",
+    "https://i.pinimg.com/564x/52/dd/6b/52dd6b22a63122151e27a1df610ca273.jpg"
+  ],
+  "new-beat": [
+    "https://i.pinimg.com/564x/f6/2e/07/f62e078b5133e9a73bb4b203b7879fa9.jpg",
+    "https://i.pinimg.com/564x/c3/c5/5f/c3c55fcca4fb654c9259be0f83ca01af.jpg",
+    "https://i.pinimg.com/564x/f5/47/dc/f547dcce2a8044545e255cf8da5fe2c3.jpg",
+    "https://i.pinimg.com/564x/e4/3d/b2/e43db23b4c037a54a8af9813da9910e0.jpg",
+    "https://i.pinimg.com/564x/f0/8e/d7/f08ed78391d68357d24c9cec16efc880.jpg",
+    "https://i.pinimg.com/564x/6e/1f/04/6e1f04947a323f499652ab9b512a4a43.jpg"
+  ],
+  "new-rave": [
+    "https://i.pinimg.com/564x/03/a1/7c/03a17ccbac96b729c52f1aba89fe7fd3.jpg",
+    "https://i.pinimg.com/564x/4f/eb/e7/4febe72fa13046a39b854554579c6af7.jpg",
+    "https://i.pinimg.com/564x/81/73/9a/81739a9958fbd6c377da8e17074b14e8.jpg",
+    "https://i.pinimg.com/564x/e1/b2/d6/e1b2d6c3e1997440244faf51c12c67a4.jpg",
+    "https://i.pinimg.com/564x/b0/73/f0/b073f09900e0e14927ec5e68dfa1b664.jpg",
+    "https://i.pinimg.com/564x/e2/11/4b/e2114b54c5a4d2f74150a3a8a5485480.jpg"
+  ],
+  "psychobilly": [
+    "https://i.pinimg.com/564x/a1/a9/66/a1a966e6444d8271faf23f858f10ba39.jpg",
+    "https://i.pinimg.com/564x/0a/6d/87/0a6d87707ad4a7f9c8c05a0ca4446cd4.jpg",
+    "https://i.pinimg.com/564x/a1/2c/b8/a12cb8937c0c7cfb63d8b4d6dfba8a78.jpg",
+    "https://i.pinimg.com/564x/8e/00/74/8e00749aaf41d571f7a9efb5b991d844.jpg",
+    "https://i.pinimg.com/564x/af/dc/c3/afdcc389f65449c7cd82e1f9e801a87a.jpg",
+    "https://i.pinimg.com/564x/08/a4/d9/08a4d94f5636f9fd099500712e61ad65.jpg"
+  ],
+  "riot-grrrl": [
+    "https://i.pinimg.com/564x/10/55/9b/10559be7957ea0e2ffe5ed7311af02f8.jpg",
+    "https://i.pinimg.com/564x/1a/7c/37/1a7c374b617d073327d6a01a19e72809.jpg",
+    "https://i.pinimg.com/564x/08/1e/62/081e62be353a8791d7686daba1542e11.jpg",
+    "https://i.pinimg.com/564x/bd/bb/5c/bdbb5c75e4df94481e2dfa050d985730.jpg",
+    "https://i.pinimg.com/564x/67/e8/57/67e8573b0cdbb70e5b095b1dcc025dbe.jpg",
+    "https://i.pinimg.com/564x/9d/3c/86/9d3c865721b0f15f9d7b89fee6622736.jpg"
+  ],
+  "seapunk": [
+    "https://i.pinimg.com/564x/a1/33/d5/a133d53a4dff73d3900c67af0c3b4605.jpg",
+    "https://i.pinimg.com/564x/44/21/c1/4421c1191a20bd2672638cdaa72a93c1.jpg",
+    "https://i.pinimg.com/564x/36/af/bd/36afbd47b5f30df53d175301eba00cc8.jpg",
+    "https://i.pinimg.com/564x/69/df/02/69df02301f1fd49c3c2068bdb3b73b3a.jpg",
+    "https://i.pinimg.com/564x/97/2a/f3/972af3a2703c8837971c77a97e88b1da.jpg",
+    "https://i.pinimg.com/564x/11/a5/ec/11a5ec52d061cee856db00d1cf1857b9.jpg"
+  ],
+  "sigilkore": [
+    "https://i.pinimg.com/564x/35/38/ce/3538ce0a8bd4e47b45a01d7c42f6f539.jpg",
+    "https://i.pinimg.com/564x/d9/bc/74/d9bc74b6185a18d604f7b6d69c7eb92c.jpg",
+    "https://i.pinimg.com/564x/02/21/f9/0221f940fbda696da804cdb00d255cb1.jpg",
+    "https://i.pinimg.com/564x/28/50/37/2850370067e31891b8b4893e91f03632.jpg",
+    "https://i.pinimg.com/564x/d9/f0/31/d9f031f12519cb5c4c72dc736817d3d0.jpg",
+    "https://i.pinimg.com/564x/3a/41/91/3a4191e2178b325eb3c5fc7debe13016.jpg"
+  ],
+  "sovietwave": [
+    "https://i.pinimg.com/564x/eb/6f/dc/eb6fdc7d4e8d0c9b890dbfaf061a03b2.jpg",
+    "https://i.pinimg.com/564x/17/bf/65/17bf6558abd4e257256e9e3cde672313.jpg",
+    "https://i.pinimg.com/564x/1d/cf/06/1dcf0641e79b682768cd26868c9a6058.jpg",
+    "https://i.pinimg.com/564x/95/ff/65/95ff65fa77f719ca5300bd777213a668.jpg",
+    "https://i.pinimg.com/564x/39/37/07/393707e67bb5a8fd148aceb3f82da7e2.jpg",
+    "https://i.pinimg.com/564x/84/4b/59/844b59384bf94a6a59ad2f27b14e949a.jpg"
+  ],
+  "trillwave": [
+    "https://i.pinimg.com/564x/d0/c6/d0/d0c6d0ec5397dab5899990de9374d913.jpg",
+    "https://i.pinimg.com/564x/e2/de/e1/e2dee186f447a41f67a273119a7481e0.jpg",
+    "https://i.pinimg.com/564x/d4/1e/61/d41e616cd741b406a50555a8d93e2bb6.jpg",
+    "https://i.pinimg.com/564x/ba/d2/00/bad2003791ea456ee08f81678202212b.jpg",
+    "https://i.pinimg.com/564x/aa/2c/c7/aa2cc786da5a7fd15f123f92200540a9.jpg",
+    "https://i.pinimg.com/564x/97/4e/a0/974ea0df41a32a9213deabde679250bd.jpg"
+  ],
+  "vaporwave": [
+    "https://i.pinimg.com/564x/7c/14/b3/7c14b3c7104273e1c982e59c257d9e0f.jpg",
+    "https://i.pinimg.com/564x/63/72/17/637217e1c73a5d993ccd659379401962.jpg",
+    "https://i.pinimg.com/564x/31/85/e4/3185e4c3d45f65d5ad56c4f18088effa.jpg",
+    "https://i.pinimg.com/564x/97/4e/a0/974ea0df41a32a9213deabde679250bd.jpg",
+    "https://i.pinimg.com/564x/00/ee/09/00ee0952da43023e7c66cecb12b26e2c.jpg",
+    "https://i.pinimg.com/564x/fb/e7/da/fbe7da30d1a45e1e188cfef66f914d34.jpg"
+  ],
+  "witch-house": [
+    "https://i.pinimg.com/564x/13/50/18/135018b065f311d69cf9f4117a5ab9e5.jpg",
+    "https://i.pinimg.com/564x/3f/fa/c3/3ffac3a687dce9d12382e4f67924b16a.jpg",
+    "https://i.pinimg.com/564x/b5/6e/9e/b56e9e6f8c82434769906006017c05e8.jpg",
+    "https://i.pinimg.com/564x/0d/20/67/0d2067189e8e88eaf25f9aa9eb6641d5.jpg",
+    "https://i.pinimg.com/564x/a8/a2/87/a8a287d53ca89ae575eebdcf06bf574d.jpg",
+    "https://i.pinimg.com/564x/86/81/3c/86813c4f2d91c341e7ce6bf3e485f561.jpg"
+  ],
+  "2010s-meme-maximalism": [
+    "https://i.pinimg.com/564x/04/a8/c7/04a8c79dc7d871a48e92c59be8a75501.jpg",
+    "https://i.pinimg.com/564x/d7/0c/88/d70c88af3c7441857ba83f9fb0e9a510.jpg",
+    "https://i.pinimg.com/564x/83/2d/00/832d00181ebbb7784401bd8308098110.jpg",
+    "https://i.pinimg.com/564x/92/2d/5c/922d5c96e44155ec140706317b5abdba.jpg",
+    "https://i.pinimg.com/564x/eb/e2/65/ebe2659f2da0e09b4b114874d18387e4.jpg",
+    "https://i.pinimg.com/564x/1d/d6/90/1dd69095b4612feb1db0d11bef09e0d0.jpg"
+  ],
+  "2014-tumblr": [
+    "https://i.pinimg.com/564x/22/98/38/229838f6b34abc6ce645f1db93140bbe.jpg",
+    "https://i.pinimg.com/564x/6d/0f/9f/6d0f9f659fdbfbc4d469bfc8b9201e12.jpg",
+    "https://i.pinimg.com/564x/c4/22/09/c42209bb18a35ba9e37b8e3c61b344f5.jpg",
+    "https://i.pinimg.com/564x/f7/aa/d6/f7aad66e6bcd8a1a2c0cf2f1cb056822.jpg",
+    "https://i.pinimg.com/564x/87/b8/84/87b8840fe13992de96bc6799a8fd923d.jpg",
+    "https://i.pinimg.com/564x/2c/54/21/2c54217ca99e89a1a90950b1f910badb.jpg"
+  ],
+  "acid-design": [
+    "https://i.pinimg.com/564x/1b/35/78/1b3578a7cee9e6e7bedaba5f95d5e186.jpg",
+    "https://i.pinimg.com/564x/db/1d/d7/db1dd77e3746a2fafc3269a104a43828.jpg",
+    "https://i.pinimg.com/564x/7e/90/ca/7e90ca392d2a4d3baf3c9f5c9731e0d4.jpg",
+    "https://i.pinimg.com/564x/a2/63/64/a26364d1ca3111866b9edc3cdbc03ac4.jpg",
+    "https://i.pinimg.com/564x/06/73/33/0673331baff2f313660155d4256d37e1.jpg",
+    "https://i.pinimg.com/564x/68/d0/a3/68d0a3219cbd8fb628719a53f5734f69.jpg"
+  ],
+  "adventurecore": [
+    "https://i.pinimg.com/564x/df/b5/e4/dfb5e46a579c52eef2909d72718cba50.jpg",
+    "https://i.pinimg.com/564x/84/8c/57/848c57e0d6ed2c4dee92fcec0d0e5620.jpg",
+    "https://i.pinimg.com/564x/7d/55/c7/7d55c70ee4f11672f4f26a874ef37a5a.jpg",
+    "https://i.pinimg.com/564x/67/86/02/678602668b222d97ae3499752b6d2661.jpg",
+    "https://i.pinimg.com/564x/06/21/01/062101374479c82628600a3d74c1e074.jpg",
+    "https://i.pinimg.com/564x/26/fc/14/26fc142af243b48cfcdf6bda3a4e1c8f.jpg"
+  ],
+  "after-hours": [
+    "https://i.pinimg.com/564x/01/84/c2/0184c20ed3989fb2abf1db593efe0098.jpg",
+    "https://i.pinimg.com/564x/fb/04/80/fb04808d66ffb58b9a72154725304c1d.jpg",
+    "https://i.pinimg.com/564x/eb/43/58/eb4358afbfb65677bd238e24b4c8e599.jpg",
+    "https://i.pinimg.com/564x/fe/9d/74/fe9d7408bbcb5b3ff393478f87a2c161.jpg",
+    "https://i.pinimg.com/564x/86/18/47/861847db86b38a1b36669339ba1a5977.jpg",
+    "https://i.pinimg.com/564x/8f/8e/de/8f8ede6486696e5c6886a41181067593.jpg"
+  ],
+  "aliyahcore": [
+    "https://i.pinimg.com/564x/8a/49/66/8a4966191f8c1f7ee6f470f51bebece6.jpg",
+    "https://i.pinimg.com/564x/5c/6b/20/5c6b2026426f6784dfc7fb068ae4ef1d.jpg",
+    "https://i.pinimg.com/564x/2a/ef/94/2aef94a4efe58267a06ba8a0182d4a0d.jpg",
+    "https://i.pinimg.com/564x/dc/3c/0c/dc3c0cb7a6a1b819cdecc7d22e92b7ec.jpg",
+    "https://i.pinimg.com/564x/70/59/95/705995f10a42aba6257c66a82a877cd5.jpg",
+    "https://i.pinimg.com/564x/09/4a/04/094a04c6315e980b5ffebce14f1aa7b3.jpg"
+  ],
+  "angelcore": [
+    "https://i.pinimg.com/564x/85/88/ae/8588ae672fb357deddbe6824b6f648ef.jpg",
+    "https://i.pinimg.com/564x/f4/75/51/f47551f6b5e7e463cb8c75eb6d68f45f.jpg",
+    "https://i.pinimg.com/564x/9e/8f/e9/9e8fe984e7c7c525e4dce9c533cf1fce.jpg",
+    "https://i.pinimg.com/564x/c7/d9/f9/c7d9f90ac862a4019546ae66ab557ca2.jpg",
+    "https://i.pinimg.com/564x/66/9e/96/669e96ada2b7c55ce3202180deac0a3e.jpg",
+    "https://i.pinimg.com/564x/d8/04/f6/d804f644657802e5b3425ed3ddcbc5ff.jpg"
+  ],
+  "art-hoe": [
+    "https://i.pinimg.com/564x/0e/f5/b6/0ef5b68e049a8f9e98c9ad492785f3b3.jpg",
+    "https://i.pinimg.com/564x/54/f2/fb/54f2fbe091ae4b090cb4df3a83f24691.jpg",
+    "https://i.pinimg.com/564x/b3/dc/45/b3dc45d776826db8f181deef6d9d602c.jpg",
+    "https://i.pinimg.com/564x/28/dc/8c/28dc8cc079d2ad69b2176485d23ee9f6.jpg",
+    "https://i.pinimg.com/564x/c9/36/5c/c9365c2d63df00be721f7926632f998f.jpg",
+    "https://i.pinimg.com/564x/36/d1/c1/36d1c1ce3aa12f8d257ae61decaee821.jpg"
+  ],
+  "avant-basic": [
+    "https://i.pinimg.com/564x/55/1d/d9/551dd9bd7b08974d2406603052aa49f9.jpg",
+    "https://i.pinimg.com/564x/8d/38/24/8d3824a291532f2d12abd48fbc2e62de.jpg",
+    "https://i.pinimg.com/564x/c7/79/59/c779594afc0c48863095b48f7019c31e.jpg",
+    "https://i.pinimg.com/564x/d2/16/14/d21614ff76a13480615d44082544ec57.jpg",
+    "https://i.pinimg.com/564x/96/5b/e5/965be5c4ac86044e1571090afd21bd4c.jpg",
+    "https://i.pinimg.com/564x/6d/f4/71/6df471d03c858c93a3b542411534497f.jpg"
+  ],
+  "babycore": [
+    "https://i.pinimg.com/564x/fd/e7/e2/fde7e2b60af355cc798cf0e1b3a446c7.jpg",
+    "https://i.pinimg.com/564x/98/72/fd/9872fdd9ef3cf50a75f12419be3f6ebf.jpg",
+    "https://i.pinimg.com/564x/73/2a/b0/732ab0aab3607b65f0ee53641cec7c4d.jpg",
+    "https://i.pinimg.com/564x/94/4e/85/944e85dbd19d0c15d5e4349f698cc7df.jpg",
+    "https://i.pinimg.com/564x/33/47/68/3347684a0571066fc722bbce0eed6db2.jpg",
+    "https://i.pinimg.com/564x/c6/f5/d6/c6f5d6a9cee6ab361220cb9ca355f301.jpg"
+  ],
+  "baddie": [
+    "https://i.pinimg.com/564x/f7/d7/62/f7d7620961bb23ec82102f5d8fc0152d.jpg",
+    "https://i.pinimg.com/564x/62/29/94/622994a76053f69d02a2200da9628b3a.jpg",
+    "https://i.pinimg.com/564x/e5/67/8b/e5678be70d1b850e97252d727c1c9f8c.jpg",
+    "https://i.pinimg.com/564x/35/2e/89/352e8919ecc18b04361f9a85abd6ce15.jpg",
+    "https://i.pinimg.com/564x/f7/86/78/f7867861ae724f9fd50ecda7e01de262.jpg",
+    "https://i.pinimg.com/564x/65/5d/01/655d012ebfb99226fdd602b16292b77c.jpg"
+  ],
+  "barber-beats": [
+    "https://i.pinimg.com/564x/e8/96/c1/e896c16f28b4ca05d4a1fde67c64866e.jpg",
+    "https://i.pinimg.com/564x/35/9a/3b/359a3bb3017eac8d4b0d613e51b582d1.jpg",
+    "https://i.pinimg.com/564x/22/6e/2d/226e2d069411728b866dc6b284612db1.jpg",
+    "https://i.pinimg.com/564x/9a/9d/64/9a9d645ef39b34b073124f69a0acf928.jpg",
+    "https://i.pinimg.com/564x/a1/60/f5/a160f5df4a5a46df3e449eca2d55456a.jpg",
+    "https://i.pinimg.com/564x/83/4a/67/834a67cb7c9d712cccb664a90aaac0cb.jpg"
+  ],
+  "bastardcore": [
+    "https://i.pinimg.com/564x/94/34/9d/94349d6fb79ba83ec95c243ef47c50c0.jpg",
+    "https://i.pinimg.com/564x/f1/ed/47/f1ed47f7f13f1b202bb10485600002a1.jpg",
+    "https://i.pinimg.com/564x/fb/bd/ab/fbbdabef2fcf2063ae0f58d0e81c4fc2.jpg",
+    "https://i.pinimg.com/564x/ac/0d/50/ac0d50ed55a9c32516e5503dbee12534.jpg",
+    "https://i.pinimg.com/564x/ee/2c/6f/ee2c6fb217fc9be1c758e73f98046541.jpg",
+    "https://i.pinimg.com/564x/c1/46/d7/c146d7bdbf0c53ac4bc19775449e1d56.jpg"
+  ],
+  "bimbocore": [
+    "https://i.pinimg.com/564x/ed/e1/5a/ede15a6fe710e503f48c9c8104991ff2.jpg",
+    "https://i.pinimg.com/564x/a1/2c/c4/a12cc421d6223531d3caf01161ed32e7.jpg",
+    "https://i.pinimg.com/564x/62/4c/1d/624c1df9891e39a8a09c1868bd2891a9.jpg",
+    "https://i.pinimg.com/564x/3f/ec/5b/3fec5b442f0f54e7861c753b665f3537.jpg",
+    "https://i.pinimg.com/564x/d7/1e/6e/d71e6e16099f4e62460b7a839494edba.jpg",
+    "https://i.pinimg.com/564x/6b/41/d0/6b41d09274983f8bfa94c8c7665b8db1.jpg"
+  ],
+  "brat-summer": [
+    "https://i.pinimg.com/564x/e3/b4/e4/e3b4e44643fb05276960c30fb44fb930.jpg",
+    "https://i.pinimg.com/564x/c6/0b/d6/c60bd6072da5ffce56a4b871327c8914.jpg",
+    "https://i.pinimg.com/564x/a5/34/08/a5340895c87b882d2539dff6a10a9876.jpg",
+    "https://i.pinimg.com/564x/b5/6d/9d/b56d9d7bd9601e1eb6116642c5e97f21.jpg",
+    "https://i.pinimg.com/564x/43/26/93/43269311b5e77f9a9cc5bc6d3527c88f.jpg",
+    "https://i.pinimg.com/564x/66/bd/de/66bdde8008e9f2f8a909eba719d3de42.jpg"
+  ],
+  "cabincore": [
+    "https://i.pinimg.com/564x/15/17/95/151795cfa4c6d050530a2f2e5c2bc3e2.jpg",
+    "https://i.pinimg.com/564x/30/5c/33/305c33fa5dba8224bd556737063743c2.jpg",
+    "https://i.pinimg.com/564x/37/63/df/3763df9ab036eb71d83252f47d8b8bd8.jpg",
+    "https://i.pinimg.com/564x/05/1a/47/051a47633b3f9b3d7396018c0413c2c8.jpg",
+    "https://i.pinimg.com/564x/7a/5b/4b/7a5b4b8c97f436faf5f1dae0a3a2b01c.jpg",
+    "https://i.pinimg.com/564x/95/05/30/95053013f9eeb368379aba7d773c6fe9.jpg"
+  ],
+  "clowncore": [
+    "https://i.pinimg.com/564x/b7/5e/79/b75e79dacc2a2177a5e720165819eb3d.jpg",
+    "https://i.pinimg.com/564x/94/42/da/9442daa8d1ec9d2b51e5de9c24b73455.jpg",
+    "https://i.pinimg.com/564x/dc/be/be/dcbebe1c93e8dbb00f737f6ce30b0b8a.jpg",
+    "https://i.pinimg.com/564x/4c/7c/a8/4c7ca8056ac0620069d3482697f65e34.jpg",
+    "https://i.pinimg.com/564x/93/fb/2f/93fb2ffdf1131bf88fc88cbc05d1db20.jpg",
+    "https://i.pinimg.com/564x/bf/08/5a/bf085a5c005a4c762bf72c620860b97a.jpg"
+  ],
+  "coastal-cowgirl": [
+    "https://i.pinimg.com/564x/c7/27/d2/c727d235b2a42405dd5ae8b52b115622.jpg",
+    "https://i.pinimg.com/564x/73/b5/d8/73b5d8deea69a4ee423cac031bc43b26.jpg",
+    "https://i.pinimg.com/564x/c0/9d/10/c09d1091481261643735806f0fa5622c.jpg",
+    "https://i.pinimg.com/564x/c7/0c/2f/c70c2f5aafca75cd4a500c2faeda221a.jpg",
+    "https://i.pinimg.com/564x/fd/3d/36/fd3d36325af34b5b4007319a17587da1.jpg",
+    "https://i.pinimg.com/564x/bf/75/1b/bf751ba81f939e00b0ead3912c622a41.jpg"
+  ],
+  "coconut-girl": [
+    "https://i.pinimg.com/564x/a1/ca/97/a1ca97093a1693be3d6d4327b5b5b8f4.jpg",
+    "https://i.pinimg.com/564x/0a/a5/17/0aa5170ec58f433bb543db765e6477de.jpg",
+    "https://i.pinimg.com/564x/b8/12/58/b8125854962d4641b8e72832c166db78.jpg",
+    "https://i.pinimg.com/564x/41/ee/5b/41ee5bc418b293b31cbf70cac664e43b.jpg",
+    "https://i.pinimg.com/564x/73/1c/99/731c992665848687f6fe0b943e0d85cb.jpg",
+    "https://i.pinimg.com/564x/e8/9c/b0/e89cb0ffce5e5e1296050048a4abdace.jpg"
+  ],
+  "crowcore": [
+    "https://i.pinimg.com/564x/ac/5e/c0/ac5ec0d6f5219a8cbd31b36d859a5b61.jpg",
+    "https://i.pinimg.com/564x/32/f8/9b/32f89b53ce386d3b5234f652cdf2436d.jpg",
+    "https://i.pinimg.com/564x/3b/3f/d0/3b3fd07af43f1b47afc890ba53ab1550.jpg",
+    "https://i.pinimg.com/564x/16/15/b2/1615b2f447a34c67272eca989386cb9d.jpg",
+    "https://i.pinimg.com/564x/6b/36/8f/6b368f44db9e5c0518419edd285e06fb.jpg",
+    "https://i.pinimg.com/564x/9b/0a/5a/9b0a5ad3cb3ac7b23c226d0e3e4d92cc.jpg"
+  ],
+  "cryptidcore": [
+    "https://i.pinimg.com/564x/7a/29/4c/7a294c0fe0d5196f32b3f2307a3d6eda.jpg",
+    "https://i.pinimg.com/564x/d1/8d/14/d18d141c57aa0be84eb232dfbef9787a.jpg",
+    "https://i.pinimg.com/564x/5c/48/44/5c48446a273a16cee0d704faca0f5b0b.jpg",
+    "https://i.pinimg.com/564x/ea/86/d9/ea86d92bd46b0c575c53a13631560718.jpg",
+    "https://i.pinimg.com/564x/60/c2/60/60c2600fb1f1a611577db5b1bbfd18b9.jpg",
+    "https://i.pinimg.com/564x/75/14/4f/75144f56e2bddb88b514e7e532047e7b.jpg"
+  ],
+  "cutecore": [
+    "https://i.pinimg.com/564x/ff/b8/4f/ffb84f2fe807fa06849a071c0cdb2f57.jpg",
+    "https://i.pinimg.com/564x/2c/85/62/2c8562618b34374e9ae0c038f318aa35.jpg",
+    "https://i.pinimg.com/564x/f8/57/61/f85761f3a12f4f684713c8b06ce71319.jpg",
+    "https://i.pinimg.com/564x/53/99/c0/5399c04fd88ffcf75aff00e3ef9d62d1.jpg",
+    "https://i.pinimg.com/564x/cf/27/35/cf2735a1a6c0f725e63b9b43d09ba480.jpg",
+    "https://i.pinimg.com/564x/b8/4b/2b/b84b2b44b3bb0b478a98e05e613304b4.jpg"
+  ],
+  "deep-fried-meme": [
+    "https://i.pinimg.com/564x/e3/0b/74/e30b74d558c00ace039c139daa37b613.jpg",
+    "https://i.pinimg.com/564x/6f/ff/aa/6fffaa60fcf6912c91930360f3452ce1.jpg",
+    "https://i.pinimg.com/564x/cc/b8/10/ccb810288473e52d7290fa818578356d.jpg",
+    "https://i.pinimg.com/564x/08/cd/94/08cd94965774200059604046501f13ba.jpg",
+    "https://i.pinimg.com/564x/5d/30/37/5d3037a1f07cc090be8e59b046720fc1.jpg",
+    "https://i.pinimg.com/564x/88/c7/97/88c797fc8d643891908a7b34d0c501eb.jpg"
+  ],
+  "dopamine-dressing": [
+    "https://i.pinimg.com/564x/87/20/91/87209174ebb820d22254609067c4c632.jpg",
+    "https://i.pinimg.com/564x/1c/11/41/1c11419d6d71e1bae15e6d1109b601ed.jpg",
+    "https://i.pinimg.com/564x/96/aa/03/96aa036c928a13eaf58a015f1199ebff.jpg",
+    "https://i.pinimg.com/564x/ff/16/58/ff16585dfd4ac5e28aba90c436956733.jpg",
+    "https://i.pinimg.com/564x/9f/3e/5b/9f3e5b16ff804a0c86ae7203c01a3d2c.jpg",
+    "https://i.pinimg.com/564x/a6/ff/6d/a6ff6d310ea6c18e5aa2fa8dae2ec9a5.jpg"
   ]
 }
