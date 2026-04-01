@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+scraper/
+aesthetics_deep.json
+aesthetics_list.json
+ads/
+__pycache__/
+*.pyc

@@ -22,6 +22,22 @@
     <p>tap a star to vibe check it &middot; drag to move things around &middot; scroll to zoom in/out</p>
   </div>
 
+  <!-- Search + browse -->
+  <div id="search-bar">
+    <input type="text" id="search-input" placeholder="search aesthetics..." autocomplete="off">
+    <div id="search-results"></div>
+  </div>
+
+  <button id="browse-toggle">A-Z</button>
+  <div id="browse-menu" class="hidden">
+    <div id="browse-header">
+      <span>All Aesthetics</span>
+      <button id="browse-close">&times;</button>
+    </div>
+    <div id="browse-letters"></div>
+    <div id="browse-list"></div>
+  </div>
+
   <div id="footer-bar">
     <p>After Universes taxonomy of taste</p>
   </div>
@@ -30,5 +46,6 @@
   <script src="js/data.js"></script>
   <script src="js/graph.js"></script>
   <script src="js/panel.js"></script>
+  <script src="js/search.js"></script>
 </body>
 </html>

@@ -6,6 +6,17 @@ const graphContainer = document.getElementById("graph-container");
 
 panelClose.addEventListener("click", closePanel);
 
+function renderBrands(brands) {
+  return brands.map(function(b) {
+    if (typeof b === 'object' && b.url) {
+      return '<a href="' + b.url + '" target="_blank" rel="noopener" class="brand-card">' +
+        '<span class="brand-name">' + b.name + '</span>' +
+        '<span class="brand-visit">Visit &rarr;</span></a>';
+    }
+    return '<div class="brand-card"><span class="brand-name">' + b + '</span></div>';
+  }).join('');
+}
+
 function openPanel(aesthetic) {
   // Build related aesthetics from connections
   const related = connections
@@ -77,14 +88,7 @@ function openPanel(aesthetic) {
     </div>
     `}
 
-    ${brands.length > 0 ? `
-    <div class="panel-section">
-      <h3>Brands</h3>
-      <ul>
-        ${brands.map(b => `<li>${b}</li>`).join("")}
-      </ul>
-    </div>
-    ` : ""}
+    ${brands.length > 0 ? '<div class="panel-section"><h3>Shop the Look</h3><div class="brand-grid">' + renderBrands(brands) + '</div></div>' : ""}
 
     ${references.length > 0 ? `
     <div class="panel-section">
