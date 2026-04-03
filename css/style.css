@@ -493,3 +493,84 @@ body {
 /* ── Scrollbar ── */
 .panel::-webkit-scrollbar { width: 6px; }
 .panel::-webkit-scrollbar-thumb { background: #ddd; border-radius: 3px; }
+
+/* ── Mobile ── */
+@media (max-width: 768px) {
+  /* Title bar — smaller, tighter */
+  #title-bar {
+    top: 14px;
+    left: 16px;
+  }
+  #title-bar h1 {
+    font-size: 24px;
+  }
+  #title-bar .subtitle {
+    font-size: 10px;
+  }
+  #title-bar p {
+    display: none;
+  }
+
+  /* Search — full width row under title */
+  #search-bar {
+    top: auto;
+    bottom: 60px;
+    left: 16px;
+    right: 16px;
+    width: auto;
+  }
+  #search-results {
+    max-height: 50vh;
+  }
+
+  /* A-Z toggle — bottom right */
+  #browse-toggle {
+    top: auto;
+    bottom: 60px;
+    right: 16px;
+    z-index: 16;
+  }
+  /* Shift search when browse button is present */
+  #search-bar {
+    right: 70px;
+  }
+
+  /* Browse menu — full width */
+  #browse-menu {
+    width: 100vw;
+  }
+
+  /* Panel — full screen overlay */
+  .panel {
+    width: 100vw;
+    max-width: none;
+    padding: 24px 20px 40px;
+  }
+
+  /* Don't shift graph on mobile — panel overlays */
+  #graph-container.shifted {
+    width: 100vw;
+  }
+
+  .panel-header h2 {
+    font-size: 28px;
+  }
+
+  /* Mood board images — smaller on mobile */
+  .mood-grid img {
+    width: 140px;
+  }
+
+  /* Brand cards — full width stack */
+  .brand-grid {
+    flex-direction: column;
+  }
+
+  /* Footer */
+  #footer-bar {
+    bottom: 12px;
+  }
+  #footer-bar p {
+    font-size: 12px;
+  }
+}
