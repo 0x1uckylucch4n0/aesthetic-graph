@@ -1253,22 +1253,22 @@ const aesthetics = [
     "id": "2010s-meme-maximalism",
     "name": "2010s Meme Maximalism",
     "family": "Vintage / Retro",
-    "tagline": "This article is about an aesthetic that took 2010s memes and turned them into...",
+    "tagline": "2010s Meme Maximalism is a distinct aesthetic movement.",
     "tags": [
       "Uncategorized"
     ],
     "elements": [],
     "brands": [
       {
-        "name": "Maison Margiela",
-        "url": "https://www.maisonmargiela.com"
+        "name": "Depop",
+        "url": "https://www.depop.com"
       },
       {
-        "name": "Urban Outfitters",
-        "url": "https://www.urbanoutfitters.com"
+        "name": "Etsy",
+        "url": "https://www.etsy.com"
       }
     ],
-    "description": "This article is about an aesthetic that took 2010s memes and turned them into a cohesive art style. For the original era, seeEarly Web 2.0 Nostalgia.",
+    "description": "2010s Meme Maximalism is a distinct aesthetic movement.",
     "references": [],
     "images": [
       "https://i.pinimg.com/564x/04/a8/c7/04a8c79dc7d871a48e92c59be8a75501.jpg",
@@ -1285,7 +1285,7 @@ const aesthetics = [
     "id": "2014-tumblr",
     "name": "2014 Tumblr",
     "family": "Maximalist / Eclectic",
-    "tagline": "is one of the biggest influences to the contemporary aesthetics movement. As ...",
+    "tagline": "The image-driven platform era that shaped modern internet aesthetics.",
     "tags": [
       "Uncategorized"
     ],
@@ -1308,7 +1308,7 @@ const aesthetics = [
         "url": "https://www.ganni.com"
       }
     ],
-    "description": "is one of the biggest influences to the contemporary aesthetics movement. As an image-aggregating site, it allowed people to curate personal reblogs easily. The ability to create a customized theme for the blog also enhanced the aesthetic value of the website. This article focuses on 2014 (more broadly 2011–2018) because this was the era before -core suffixes existed, Tumblr was at its greatest cultural relevancy, and the aesthetic trend was at its infancy.",
+    "description": "2014 Tumblr is one of the biggest influences on the contemporary aesthetics movement. As an image-aggregating site, Tumblr became a breeding ground for curated visual identities mixing grunge, soft pastel, and indie influences.",
     "references": [],
     "images": [
       "https://i.pinimg.com/564x/22/98/38/229838f6b34abc6ce645f1db93140bbe.jpg",
@@ -3377,30 +3377,22 @@ const aesthetics = [
     "id": "nymphet",
     "name": "Nymphet",
     "family": "Romantic / Soft",
-    "tagline": "This page describes an aesthetic inspired by Vladimir Nabokov's Lolita. For t...",
+    "tagline": "Nymphet is a distinct aesthetic movement.",
     "tags": [
       "Uncategorized"
     ],
     "elements": [],
     "brands": [
       {
-        "name": "Angelic Pretty",
-        "url": "https://angelicpretty.com"
+        "name": "Depop",
+        "url": "https://www.depop.com"
       },
       {
-        "name": "Baby, The Stars Shine Bright",
-        "url": "https://www.babyssb.co.jp"
-      },
-      {
-        "name": "BAPE",
-        "url": "https://bape.com"
-      },
-      {
-        "name": "Patagonia",
-        "url": "https://www.patagonia.com"
+        "name": "Etsy",
+        "url": "https://www.etsy.com"
       }
     ],
-    "description": "This page describes an aesthetic inspired by Vladimir Nabokov's Lolita. For the unrelated Japanese fashion, seeLolita. For other similar aesthetics, seeCoquette,Waif, andDollette.",
+    "description": "Nymphet is a distinct aesthetic movement.",
     "references": [],
     "images": [],
     "size": 4,
@@ -4890,30 +4882,22 @@ const aesthetics = [
     "id": "xpiritualism",
     "name": "Xpiritualism",
     "family": "Maximalist / Eclectic",
-    "tagline": "This page describes an internet art movement. For the viral TikTok trend, see...",
+    "tagline": "Xpiritualism is a distinct aesthetic movement.",
     "tags": [
       "Uncategorized"
     ],
     "elements": [],
     "brands": [
       {
-        "name": "Maison Margiela",
-        "url": "https://www.maisonmargiela.com"
+        "name": "Depop",
+        "url": "https://www.depop.com"
       },
       {
-        "name": "Urban Outfitters",
-        "url": "https://www.urbanoutfitters.com"
-      },
-      {
-        "name": "ASOS",
-        "url": "https://www.asos.com"
-      },
-      {
-        "name": "Zara",
-        "url": "https://www.zara.com"
+        "name": "Etsy",
+        "url": "https://www.etsy.com"
       }
     ],
-    "description": "This page describes an internet art movement. For the viral TikTok trend, seeYabujincore.",
+    "description": "Xpiritualism is a distinct aesthetic movement.",
     "references": [],
     "images": [
       "https://i.pinimg.com/564x/89/2d/f7/892df7937e3e7083e1d698cec93ee073.jpg",
@@ -5006,7 +4990,7 @@ const aesthetics = [
     "id": "yabujincore",
     "name": "Yabujincore",
     "family": "Maximalist / Eclectic",
-    "tagline": "This page describes the satirical TikTok trend. For the original art movement...",
+    "tagline": "\"Jumpstylecore\" redirects here. For historical context of the original moveme...",
     "tags": [
       "Uncategorized"
     ],
@@ -5021,15 +5005,15 @@ const aesthetics = [
         "url": "https://www.patagonia.com"
       },
       {
-        "name": "Maison Margiela",
-        "url": "https://www.maisonmargiela.com"
-      },
-      {
         "name": "iHeartRaves",
         "url": "https://www.iheartraves.com"
+      },
+      {
+        "name": "INTO THE AM",
+        "url": "https://www.intotheam.com"
       }
     ],
-    "description": "This page describes the satirical TikTok trend. For the original art movement, seeXpiritualism. \"Jumpstylecore\" redirects here. For historical context of the original movement, seeRave (Belgium).",
+    "description": "\"Jumpstylecore\" redirects here. For historical context of the original movement, seeRave (Belgium).",
     "references": [],
     "images": [
       "https://i.pinimg.com/564x/50/75/5c/50755c3fb1dd42b5c7809a2204d5fd68.jpg",
@@ -6806,7 +6790,7 @@ const aesthetics = [
     "id": "dark-culture",
     "name": "Dark Culture",
     "family": "Dark / Edgy",
-    "tagline": "A dark umbrella culture spanning goth, industrial, and fetish scenes",
+    "tagline": "A visualization of the relationship between various scenes. The dark center r...",
     "tags": [
       "Uncategorized"
     ],
@@ -6829,7 +6813,7 @@ const aesthetics = [
         "url": "https://www.blackcraftcult.com"
       }
     ],
-    "description": "Dark Culture is an umbrella aesthetic spanning goth, industrial, fetish, and medieval influences — united by a shared social network and dark aesthetic values. umbrella.",
+    "description": "A visualization of the relationship between various scenes. The dark center represents the shared social network and aesthetic values, while the outer \"spokes\" show the diverse musical and cultural pillars, ranging fromGothandIndustrialto BDSM-Fetish and Medieval influences, that coexist within the umbrella.",
     "references": [],
     "images": [
       "https://i.pinimg.com/564x/7a/a9/71/7aa971e9f19752b44b63d092da16e131.jpg",
@@ -8503,30 +8487,22 @@ const aesthetics = [
     "id": "jirai-kei",
     "name": "Jirai Kei",
     "family": "Dark / Edgy",
-    "tagline": "This article describes the subculture associated with mental illness that enc...",
+    "tagline": "Jirai Kei is a distinct aesthetic movement.",
     "tags": [
       "Uncategorized"
     ],
     "elements": [],
     "brands": [
       {
-        "name": "Killstar",
-        "url": "https://www.killstar.com"
+        "name": "Depop",
+        "url": "https://www.depop.com"
       },
       {
-        "name": "Disturbia",
-        "url": "https://www.disturbia.co.uk"
-      },
-      {
-        "name": "Punk Rave",
-        "url": "https://www.punkravestore.com"
-      },
-      {
-        "name": "BlackCraft Cult",
-        "url": "https://www.blackcraftcult.com"
+        "name": "Etsy",
+        "url": "https://www.etsy.com"
       }
     ],
-    "description": "This article describes the subculture associated with mental illness that encompasses multiple fashion styles. For the fashion style most associated with \"Jirai Kei,\" seeDark Girly & Sweet Girly.",
+    "description": "Jirai Kei is a distinct aesthetic movement.",
     "references": [],
     "images": [
       "https://i.pinimg.com/564x/a9/5d/ff/a95dff9dcaa0bf08604f0a0c9a3abc88.jpg",
@@ -9109,7 +9085,7 @@ const aesthetics = [
     "id": "mandrake",
     "name": "Mandrake",
     "family": "Vintage / Retro",
-    "tagline": "Brazilian street culture rooted in favela identity and social mobility",
+    "tagline": "A common phrase within the subculture is \"A favela venceu\" (\"The favela has w...",
     "tags": [
       "Uncategorized"
     ],
@@ -10009,30 +9985,30 @@ const aesthetics = [
     "id": "otaku",
     "name": "Otaku",
     "family": "Maximalist / Eclectic",
-    "tagline": "This article is about the subculture and how it exists in Japanese culture. F...",
+    "tagline": "Japanese fandom culture embracing anime, manga, and passionate collecting.",
     "tags": [
       "Uncategorized"
     ],
     "elements": [],
     "brands": [
       {
-        "name": "Hot Topic",
-        "url": "https://www.hottopic.com"
-      },
-      {
         "name": "BAPE",
         "url": "https://bape.com"
       },
       {
-        "name": "Patagonia",
-        "url": "https://www.patagonia.com"
-      },
-      {
         "name": "Muji",
         "url": "https://www.muji.com"
+      },
+      {
+        "name": "Uniqlo",
+        "url": "https://www.uniqlo.com"
+      },
+      {
+        "name": "Comme des Garçons",
+        "url": "https://www.comme-des-garcons.com"
       }
     ],
-    "description": "This article is about the subculture and how it exists in Japanese culture. For the internet aesthetic about obsessive anime-viewing, seeAnimecore. For Otaku in non-Japanese nations, seeWeeabooandNerd.",
+    "description": "Otaku is a Japanese aesthetic centered on passionate fandom culture, especially anime, manga, and video games. It embodies dedication to collecting, deep knowledge of niche media, and immersive engagement with fictional worlds.",
     "references": [],
     "images": [
       "https://i.pinimg.com/564x/d2/89/3c/d2893c2d4ff44f64bd2dea559a71f9dd.jpg",
@@ -10533,7 +10509,7 @@ const aesthetics = [
     "id": "preppy",
     "name": "Preppy",
     "family": "Maximalist / Eclectic",
-    "tagline": "This article is about the original American subculture. For other uses, seePr...",
+    "tagline": "Preppy is a distinct aesthetic movement.",
     "tags": [
       "Uncategorized"
     ],
@@ -10556,7 +10532,7 @@ const aesthetics = [
         "url": "https://www.lacoste.com"
       }
     ],
-    "description": "This article is about the original American subculture. For other uses, seePreppy (disambiguation).",
+    "description": "Preppy is a distinct aesthetic movement.",
     "references": [],
     "images": [
       "https://i.pinimg.com/564x/3d/a7/e4/3da7e47d75352db4d978bdf8211c43ca.jpg",
@@ -12641,7 +12617,7 @@ const aesthetics = [
     "id": "animecore",
     "name": "Animecore",
     "family": "Vintage / Retro",
-    "tagline": "This page is about a specific aesthetic with nostalgic themes for the art sty...",
+    "tagline": "Animecore is a distinct aesthetic movement.",
     "tags": [
       "Uncategorized"
     ],
@@ -12658,13 +12634,9 @@ const aesthetics = [
       {
         "name": "Eileen Fisher",
         "url": "https://www.eileenfisher.com"
-      },
-      {
-        "name": "COS",
-        "url": "https://www.cos.com"
       }
     ],
-    "description": "This page is about a specific aesthetic with nostalgic themes for the art style of 2000s anime. For other aesthetics that incorporate anime and manga imagery, see theanimecategory.",
+    "description": "Animecore is a distinct aesthetic movement.",
     "references": [],
     "images": [
       "https://i.pinimg.com/564x/45/41/6e/45416e090c807db13d4240c90ed3caf8.jpg",
@@ -13469,7 +13441,7 @@ const aesthetics = [
     "id": "bohemian",
     "name": "Bohemian",
     "family": "Maximalist / Eclectic",
-    "tagline": "This page is about the historical movement. For the contemporary fashion tren...",
+    "tagline": "Bohemian is a distinct aesthetic movement.",
     "tags": [
       "Uncategorized"
     ],
@@ -13492,7 +13464,7 @@ const aesthetics = [
         "url": "https://www.zimmermannwear.com"
       }
     ],
-    "description": "This page is about the historical movement. For the contemporary fashion trend, seeBoho-Chic.",
+    "description": "Bohemian is a distinct aesthetic movement.",
     "references": [],
     "images": [
       "https://i.pinimg.com/564x/cb/da/55/cbda5586045c9e65dab7c3bb7ee9de93.jpg",
@@ -16173,30 +16145,22 @@ const aesthetics = [
     "id": "dollcore",
     "name": "Dollcore",
     "family": "Cultural / Regional",
-    "tagline": "This page is about the culture of Japanese ball-jointed dolls. For other aest...",
+    "tagline": "Dollcore is a distinct aesthetic movement.",
     "tags": [
       "Uncategorized"
     ],
     "elements": [],
     "brands": [
       {
-        "name": "BAPE",
-        "url": "https://bape.com"
+        "name": "Depop",
+        "url": "https://www.depop.com"
       },
       {
-        "name": "Muji",
-        "url": "https://www.muji.com"
-      },
-      {
-        "name": "Uniqlo",
-        "url": "https://www.uniqlo.com"
-      },
-      {
-        "name": "Comme des Garçons",
-        "url": "https://www.comme-des-garcons.com"
+        "name": "Etsy",
+        "url": "https://www.etsy.com"
       }
     ],
-    "description": "This page is about the culture of Japanese ball-jointed dolls. For other aesthetics associated with the word \"doll,\" seeDoll (disambiguation).",
+    "description": "Dollcore is a distinct aesthetic movement.",
     "references": [],
     "images": [
       "https://i.pinimg.com/564x/a7/2c/b1/a72cb1e8230c37704144789f373c623a.jpg",
@@ -17322,7 +17286,7 @@ const aesthetics = [
     "id": "french-girly",
     "name": "French Girly",
     "family": "Vintage / Retro",
-    "tagline": "This page describes the French Girly aesthetic from Japan. For other similar ...",
+    "tagline": "French Girly is an aesthetic emerging in the late 2010s.",
     "tags": [
       "Uncategorized"
     ],
@@ -17345,7 +17309,7 @@ const aesthetics = [
         "url": "https://www.lacoste.com"
       }
     ],
-    "description": "This page describes the French Girly aesthetic from Japan. For other similar aesthetics, seeFrench Girl(Western counterpart),Pink Parisian(Western Tumblr aesthetic), orParisian Girly(children's depictions).French Girly. French Girly is an aesthetic emerging in the late 2010s. Key visual elements include vintage french architecture, roses, girly fashion.",
+    "description": "French Girly is an aesthetic emerging in the late 2010s. Key visual elements include vintage french architecture, roses, girly fashion.",
     "references": [],
     "images": [
       "https://i.pinimg.com/564x/87/41/29/8741296e6ea3c0b25814d9a54d8a1b23.jpg",
@@ -18547,22 +18511,22 @@ const aesthetics = [
     "id": "himekaji",
     "name": "Himekaji",
     "family": "Maximalist / Eclectic",
-    "tagline": "This article describes the early-to-mid 2010s fashion style from Japan. For t...",
+    "tagline": "Himekaji is a distinct aesthetic movement.",
     "tags": [
       "Uncategorized"
     ],
     "elements": [],
     "brands": [
       {
-        "name": "Maison Margiela",
-        "url": "https://www.maisonmargiela.com"
+        "name": "Depop",
+        "url": "https://www.depop.com"
       },
       {
-        "name": "Urban Outfitters",
-        "url": "https://www.urbanoutfitters.com"
+        "name": "Etsy",
+        "url": "https://www.etsy.com"
       }
     ],
-    "description": "This article describes the early-to-mid 2010s fashion style from Japan. For the 2020s TikTok interpretation, please seeShoujo Girl.",
+    "description": "Himekaji is a distinct aesthetic movement.",
     "references": [],
     "images": [
       "https://i.pinimg.com/564x/d7/34/a2/d734a2a23f947a7a85a66aaf84dbd770.jpg",
@@ -18891,7 +18855,7 @@ const aesthetics = [
     "id": "industrial-decay",
     "name": "Industrial Decay",
     "family": "Maximalist / Eclectic",
-    "tagline": "This page is about the visual aesthetic of decaying post-industrial enviromen...",
+    "tagline": "Industrial Decay is a distinct aesthetic movement.",
     "tags": [
       "Uncategorized"
     ],
@@ -18906,7 +18870,7 @@ const aesthetics = [
         "url": "https://www.etsy.com"
       }
     ],
-    "description": "This page is about the visual aesthetic of decaying post-industrial enviroments. For other aesthetics associated with the word \"industrial,\" seeIndustrial (disambiguation).",
+    "description": "Industrial Decay is a distinct aesthetic movement.",
     "references": [],
     "images": [
       "https://i.pinimg.com/564x/bc/c9/0f/bcc90fc02ef0b38072097ff2da8f5bc6.jpg",
@@ -18923,7 +18887,7 @@ const aesthetics = [
     "id": "industrial-gothic",
     "name": "Industrial Gothic",
     "family": "Dark / Edgy",
-    "tagline": "For other aesthetics associated with the word \"industrial,\" seeIndustrial (di...",
+    "tagline": "Industrial Gothic is a distinct aesthetic movement.",
     "tags": [
       "Uncategorized"
     ],
@@ -18946,7 +18910,7 @@ const aesthetics = [
         "url": "https://www.dollskill.com"
       }
     ],
-    "description": "For other aesthetics associated with the word \"industrial,\" seeIndustrial (disambiguation).",
+    "description": "Industrial Gothic is a distinct aesthetic movement.",
     "references": [],
     "images": [
       "https://i.pinimg.com/564x/5c/30/e1/5c30e1a270184cc1a7509c2e53c2eb53.jpg",
@@ -19079,7 +19043,7 @@ const aesthetics = [
     "id": "japonisme",
     "name": "Japonisme",
     "family": "Clean / Minimal",
-    "tagline": "Western art movement inspired by Japanese aesthetics and ukiyo-e prints",
+    "tagline": "Utagawa Hiroshige's \"Sudden Shower over Shin-Ōhashi bridge and Atake\" (1857).",
     "tags": [
       "Uncategorized"
     ],
@@ -19484,7 +19448,7 @@ const aesthetics = [
     "id": "living-doll",
     "name": "Living Doll",
     "family": "Maximalist / Eclectic",
-    "tagline": "For other aesthetics associated with the word \"doll,\" seeDoll (disambiguation).",
+    "tagline": "Living Doll is a distinct aesthetic movement.",
     "tags": [
       "Uncategorized"
     ],
@@ -19499,7 +19463,7 @@ const aesthetics = [
         "url": "https://www.etsy.com"
       }
     ],
-    "description": "For other aesthetics associated with the word \"doll,\" seeDoll (disambiguation).",
+    "description": "Living Doll is a distinct aesthetic movement.",
     "references": [],
     "images": [
       "https://i.pinimg.com/564x/d9/8e/ab/d98eabb0807bf968858d0f347315f2e5.jpg",
@@ -19705,7 +19669,7 @@ const aesthetics = [
     "id": "maidcore",
     "name": "Maidcore",
     "family": "Maximalist / Eclectic",
-    "tagline": "This page is about a music movement. For the aesthetic based on the maid unif...",
+    "tagline": "Maidcore is a distinct aesthetic movement.",
     "tags": [
       "Uncategorized"
     ],
@@ -19720,7 +19684,7 @@ const aesthetics = [
         "url": "https://www.etsy.com"
       }
     ],
-    "description": "This page is about a music movement. For the aesthetic based on the maid uniform, seeMaid.",
+    "description": "Maidcore is a distinct aesthetic movement.",
     "references": [],
     "images": [
       "https://i.pinimg.com/564x/bc/01/f8/bc01f899fee125d7c13fceccbbdcc5e5.jpg",
@@ -20377,7 +20341,7 @@ const aesthetics = [
     "id": "modernisme",
     "name": "Modernisme",
     "family": "Clean / Minimal",
-    "tagline": "This page is about an art movement that primarily took place in Catalonia (Sp...",
+    "tagline": "It is not to be confused with the broader international movement ofModernism.",
     "tags": [
       "Uncategorized"
     ],
@@ -20400,7 +20364,7 @@ const aesthetics = [
         "url": "https://www.stories.com"
       }
     ],
-    "description": "This page is about an art movement that primarily took place in Catalonia (Spain) in the 1880s-1910s. It is not to be confused with the broader international movement ofModernism.",
+    "description": "It is not to be confused with the broader international movement ofModernism.",
     "references": [],
     "images": [
       "https://i.pinimg.com/564x/62/06/dd/6206ddc3a7937a9c45338fdc415a70d5.jpg",
@@ -21693,30 +21657,22 @@ const aesthetics = [
     "id": "phonk",
     "name": "Phonk",
     "family": "Streetwear / Urban",
-    "tagline": "This page describes the original hip-hop subgenre inspired by Memphis Rap. Fo...",
+    "tagline": "Phonk is a distinct aesthetic movement.",
     "tags": [
       "Uncategorized"
     ],
     "elements": [],
     "brands": [
       {
-        "name": "BAPE",
-        "url": "https://bape.com"
+        "name": "Depop",
+        "url": "https://www.depop.com"
       },
       {
-        "name": "Nike",
-        "url": "https://www.nike.com"
-      },
-      {
-        "name": "Adidas",
-        "url": "https://www.adidas.com"
-      },
-      {
-        "name": "Jordan",
-        "url": "https://www.nike.com/jordan"
+        "name": "Etsy",
+        "url": "https://www.etsy.com"
       }
     ],
-    "description": "This page describes the original hip-hop subgenre inspired by Memphis Rap. For the high-tempo electronic subgenre popularized on TikTok, seeDrift Phonk.",
+    "description": "Phonk is a distinct aesthetic movement.",
     "references": [],
     "images": [
       "https://i.pinimg.com/564x/a0/12/56/a012562c6118cf813875666efefbbb53.jpg",
@@ -23753,7 +23709,7 @@ const aesthetics = [
     "id": "superflat",
     "name": "Superflat",
     "family": "Maximalist / Eclectic",
-    "tagline": "For the commercial mass-market derivative, seeSuperflat Pop.",
+    "tagline": "Superflat is a distinct aesthetic movement.",
     "tags": [
       "Uncategorized"
     ],
@@ -23768,7 +23724,7 @@ const aesthetics = [
         "url": "https://www.etsy.com"
       }
     ],
-    "description": "For the commercial mass-market derivative, seeSuperflat Pop.",
+    "description": "Superflat is a distinct aesthetic movement.",
     "references": [],
     "images": [
       "https://i.pinimg.com/564x/d1/3f/d6/d13fd61dfad5f77d7957901688ba593e.jpg",
@@ -26029,7 +25985,7 @@ const aesthetics = [
     "id": "2020s-preppy",
     "name": "2020s Preppy",
     "family": "Maximalist / Eclectic",
-    "tagline": "This article is about the contemporary trend. For other uses, seePreppy (disa...",
+    "tagline": "2020s Preppy is a distinct aesthetic movement.",
     "tags": [
       "Uncategorized"
     ],
@@ -26052,7 +26008,7 @@ const aesthetics = [
         "url": "https://www.lacoste.com"
       }
     ],
-    "description": "This article is about the contemporary trend. For other uses, seePreppy (disambiguation).",
+    "description": "2020s Preppy is a distinct aesthetic movement.",
     "references": [],
     "images": [
       "https://i.pinimg.com/564x/d6/ce/cc/d6cecc03178f76d212259f493fd37075.jpg",
@@ -28967,22 +28923,22 @@ const aesthetics = [
     "id": "denpa",
     "name": "Denpa",
     "family": "Romantic / Soft",
-    "tagline": "This page is about a literary genre and its associated visual aesthetic. For ...",
+    "tagline": "Denpa is a distinct aesthetic movement.",
     "tags": [
       "Uncategorized"
     ],
     "elements": [],
     "brands": [
       {
-        "name": "Sanrio",
-        "url": "https://www.sanrio.com"
+        "name": "Depop",
+        "url": "https://www.depop.com"
       },
       {
-        "name": "Chuu",
-        "url": "https://www.chuu.co.kr"
+        "name": "Etsy",
+        "url": "https://www.etsy.com"
       }
     ],
-    "description": "This page is about a literary genre and its associated visual aesthetic. For the music genre of the same name, characterized by cutesy imagery, seeAkibapop.",
+    "description": "Denpa is a distinct aesthetic movement.",
     "references": [],
     "images": [
       "https://i.pinimg.com/564x/3e/f4/8d/3ef48d19733589c01a6373cd3f7a39af.jpg",
@@ -29167,30 +29123,22 @@ const aesthetics = [
     "id": "dolly-girl",
     "name": "Dolly Girl",
     "family": "Dark / Edgy",
-    "tagline": "This page describes a 60s fashion trend associated with theModsubculture. For...",
+    "tagline": "Dolly Girl is a distinct aesthetic movement.",
     "tags": [
       "Uncategorized"
     ],
     "elements": [],
     "brands": [
       {
-        "name": "Ben Sherman",
-        "url": "https://www.bensherman.com"
+        "name": "Depop",
+        "url": "https://www.depop.com"
       },
       {
-        "name": "Hot Topic",
-        "url": "https://www.hottopic.com"
-      },
-      {
-        "name": "Dr. Martens",
-        "url": "https://www.drmartens.com"
-      },
-      {
-        "name": "Converse",
-        "url": "https://www.converse.com"
+        "name": "Etsy",
+        "url": "https://www.etsy.com"
       }
     ],
-    "description": "This page describes a 60s fashion trend associated with theModsubculture. For other aesthetics associated with the word \"doll,\" seeDoll (disambiguation).",
+    "description": "Dolly Girl is a distinct aesthetic movement.",
     "references": [],
     "images": [
       "https://i.pinimg.com/564x/48/39/55/48395530210f7a12eb250cd05671ab5d.jpg",
@@ -29207,30 +29155,22 @@ const aesthetics = [
     "id": "dolly-kei",
     "name": "Dolly Kei",
     "family": "Cultural / Regional",
-    "tagline": "This page is about a Japanese fashion style. For the aesthetic based on ball-...",
+    "tagline": "Dolly Kei is a distinct aesthetic movement.",
     "tags": [
       "Uncategorized"
     ],
     "elements": [],
     "brands": [
       {
-        "name": "BAPE",
-        "url": "https://bape.com"
+        "name": "Depop",
+        "url": "https://www.depop.com"
       },
       {
-        "name": "Muji",
-        "url": "https://www.muji.com"
-      },
-      {
-        "name": "Uniqlo",
-        "url": "https://www.uniqlo.com"
-      },
-      {
-        "name": "Comme des Garçons",
-        "url": "https://www.comme-des-garcons.com"
+        "name": "Etsy",
+        "url": "https://www.etsy.com"
       }
     ],
-    "description": "This page is about a Japanese fashion style. For the aesthetic based on ball-jointed dolls, seeDollcore. For other aesthetics associated with the word \"doll,\" seeDoll (disambiguation).",
+    "description": "Dolly Kei is a distinct aesthetic movement.",
     "references": [],
     "images": [
       "https://i.pinimg.com/564x/ce/5d/8c/ce5d8c653e4fb298dd5b32f42a5f58e4.jpg",
@@ -34955,7 +34895,7 @@ const aesthetics = [
     "id": "raw-industrial",
     "name": "Raw Industrial",
     "family": "Maximalist / Eclectic",
-    "tagline": "This page is about the interior design style. For other aesthetics associated...",
+    "tagline": "Raw Industrial is a distinct aesthetic movement.",
     "tags": [
       "Uncategorized"
     ],
@@ -34970,7 +34910,7 @@ const aesthetics = [
         "url": "https://www.etsy.com"
       }
     ],
-    "description": "This page is about the interior design style. For other aesthetics associated with the word \"industrial,\" seeIndustrial (disambiguation).",
+    "description": "Raw Industrial is a distinct aesthetic movement.",
     "references": [],
     "images": [
       "https://i.pinimg.com/564x/a3/71/30/a37130cc112bd05981c7022cd4bac9ca.jpg",
@@ -38915,11 +38855,11 @@ const connections = [
   },
   {
     "source": "afrofuturism",
-    "target": "cyber-ghetto"
+    "target": "indigenous-futurisms"
   },
   {
     "source": "afrofuturism",
-    "target": "indigenous-futurisms"
+    "target": "cyber-ghetto"
   },
   {
     "source": "appalachian-gothic",
@@ -39019,11 +38959,11 @@ const connections = [
   },
   {
     "source": "aristocrat",
-    "target": "ouji"
+    "target": "gothic-lolita"
   },
   {
     "source": "aristocrat",
-    "target": "gothic-lolita"
+    "target": "ouji"
   },
   {
     "source": "auroracore",
@@ -39059,11 +38999,11 @@ const connections = [
   },
   {
     "source": "film-noir",
-    "target": "french-new-wave"
+    "target": "golden-age-of-detective-fiction"
   },
   {
     "source": "film-noir",
-    "target": "golden-age-of-detective-fiction"
+    "target": "french-new-wave"
   },
   {
     "source": "furry",
@@ -39146,11 +39086,11 @@ const connections = [
     "target": "regional-gothic"
   },
   {
-    "source": "new-england-gothic",
+    "source": "appalachian-gothic",
     "target": "regional-gothic"
   },
   {
-    "source": "appalachian-gothic",
+    "source": "new-england-gothic",
     "target": "regional-gothic"
   },
   {
@@ -39275,11 +39215,11 @@ const connections = [
   },
   {
     "source": "cyber-doll",
-    "target": "living-doll"
+    "target": "nanchatte-seifuku"
   },
   {
     "source": "cyber-doll",
-    "target": "nanchatte-seifuku"
+    "target": "living-doll"
   },
   {
     "source": "erokawa",
@@ -39326,12 +39266,12 @@ const connections = [
     "target": "spanish-golden-age"
   },
   {
-    "source": "midwest-gothic",
-    "target": "regional-gothic"
-  },
-  {
     "source": "regional-gothic",
     "target": "southern-gothic"
+  },
+  {
+    "source": "midwest-gothic",
+    "target": "regional-gothic"
   },
   {
     "source": "2000s-preppy",
@@ -39355,11 +39295,11 @@ const connections = [
   },
   {
     "source": "candycore",
-    "target": "snackwave"
+    "target": "choco-girl"
   },
   {
     "source": "candycore",
-    "target": "choco-girl"
+    "target": "snackwave"
   },
   {
     "source": "claymorphism",
@@ -39447,11 +39387,11 @@ const connections = [
   },
   {
     "source": "americana",
-    "target": "southern-belle"
+    "target": "route-66"
   },
   {
     "source": "americana",
-    "target": "route-66"
+    "target": "southern-belle"
   },
   {
     "source": "2010s-summer-nostalgia",
@@ -39507,11 +39447,11 @@ const connections = [
   },
   {
     "source": "fantasy",
-    "target": "urban-fantasy"
+    "target": "nautical-fantasy"
   },
   {
     "source": "fantasy",
-    "target": "nautical-fantasy"
+    "target": "urban-fantasy"
   },
   {
     "source": "film-noir",
@@ -39643,11 +39583,11 @@ const connections = [
   },
   {
     "source": "gothic",
-    "target": "gothic-architecture"
+    "target": "vampire"
   },
   {
     "source": "gothic",
-    "target": "vampire"
+    "target": "gothic-architecture"
   },
   {
     "source": "hellenic",
@@ -39710,12 +39650,12 @@ const connections = [
     "target": "tweencore"
   },
   {
-    "source": "americana",
-    "target": "western"
-  },
-  {
     "source": "50s-suburbia",
     "target": "americana"
+  },
+  {
+    "source": "americana",
+    "target": "western"
   },
   {
     "source": "atompunk",
@@ -39751,11 +39691,11 @@ const connections = [
   },
   {
     "source": "fantasy",
-    "target": "medieval-fantasy"
+    "target": "knightcore"
   },
   {
     "source": "fantasy",
-    "target": "knightcore"
+    "target": "medieval-fantasy"
   },
   {
     "source": "flower-power",
@@ -40003,11 +39943,11 @@ const connections = [
   },
   {
     "source": "nautical",
-    "target": "vacation-dadcore"
+    "target": "pirate"
   },
   {
     "source": "nautical",
-    "target": "pirate"
+    "target": "vacation-dadcore"
   },
   {
     "source": "utopian-scholastic",
@@ -40023,11 +39963,11 @@ const connections = [
   },
   {
     "source": "agejo",
-    "target": "amekaji"
+    "target": "ganguro"
   },
   {
     "source": "agejo",
-    "target": "ganguro"
+    "target": "amekaji"
   },
   {
     "source": "amekaji",
@@ -40071,11 +40011,11 @@ const connections = [
   },
   {
     "source": "decopunk",
-    "target": "streamline-moderne"
+    "target": "dieselpunk"
   },
   {
     "source": "decopunk",
-    "target": "dieselpunk"
+    "target": "streamline-moderne"
   },
   {
     "source": "diner",
@@ -40275,11 +40215,11 @@ const connections = [
   },
   {
     "source": "earth-tones",
-    "target": "supergraphic-ultramodern"
+    "target": "global-village-coffeehouse"
   },
   {
     "source": "earth-tones",
-    "target": "global-village-coffeehouse"
+    "target": "supergraphic-ultramodern"
   },
   {
     "source": "factory-pomo",
@@ -40303,11 +40243,11 @@ const connections = [
   },
   {
     "source": "geek-chic",
-    "target": "indie-sleaze"
+    "target": "twee"
   },
   {
     "source": "geek-chic",
-    "target": "twee"
+    "target": "indie-sleaze"
   },
   {
     "source": "googie",
@@ -40459,11 +40399,11 @@ const connections = [
   },
   {
     "source": "mid-century-modern",
-    "target": "supergraphic-ultramodern"
+    "target": "scandinavian-design"
   },
   {
     "source": "mid-century-modern",
-    "target": "scandinavian-design"
+    "target": "supergraphic-ultramodern"
   },
   {
     "source": "mid-century-modern",
@@ -40531,11 +40471,11 @@ const connections = [
   },
   {
     "source": "corporate",
-    "target": "metrosexual"
+    "target": "power-dressing"
   },
   {
     "source": "corporate",
-    "target": "power-dressing"
+    "target": "metrosexual"
   },
   {
     "source": "corporate",
@@ -40551,11 +40491,11 @@ const connections = [
   },
   {
     "source": "dieselpunk",
-    "target": "steampunk"
+    "target": "raygun-gothic"
   },
   {
     "source": "dieselpunk",
-    "target": "raygun-gothic"
+    "target": "steampunk"
   },
   {
     "source": "earth-tones",
@@ -40563,11 +40503,11 @@ const connections = [
   },
   {
     "source": "fantasy2k",
-    "target": "twilightcore"
+    "target": "renaissance-revival"
   },
   {
     "source": "fantasy2k",
-    "target": "renaissance-revival"
+    "target": "twilightcore"
   },
   {
     "source": "googie",
@@ -40591,11 +40531,11 @@ const connections = [
   },
   {
     "source": "raygun-gothic",
-    "target": "supergraphic-ultramodern"
+    "target": "streamline-moderne"
   },
   {
     "source": "raygun-gothic",
-    "target": "streamline-moderne"
+    "target": "supergraphic-ultramodern"
   },
   {
     "source": "steampunk",
@@ -40643,11 +40583,11 @@ const connections = [
   },
   {
     "source": "cassette-futurism",
-    "target": "mid-century-modern"
+    "target": "early-cyber"
   },
   {
     "source": "cassette-futurism",
-    "target": "early-cyber"
+    "target": "mid-century-modern"
   },
   {
     "source": "chic-modernist",
@@ -40663,11 +40603,11 @@ const connections = [
   },
   {
     "source": "earth-tones",
-    "target": "memphis-lite"
+    "target": "space-age"
   },
   {
     "source": "earth-tones",
-    "target": "space-age"
+    "target": "memphis-lite"
   },
   {
     "source": "global-village-coffeehouse",
@@ -40871,11 +40811,11 @@ const connections = [
   },
   {
     "source": "cyberpunk",
-    "target": "neo-tokyo"
+    "target": "punk-derivatives"
   },
   {
     "source": "cyberpunk",
-    "target": "punk-derivatives"
+    "target": "neo-tokyo"
   },
   {
     "source": "erokawa",
@@ -40919,19 +40859,19 @@ const connections = [
   },
   {
     "source": "hexatron",
-    "target": "neo-vectorheart"
-  },
-  {
-    "source": "hexatron",
     "target": "monochrome-luxe"
   },
   {
-    "source": "kawaii",
-    "target": "yume-kawaii"
+    "source": "hexatron",
+    "target": "neo-vectorheart"
   },
   {
     "source": "kawaii",
     "target": "kuromicore"
+  },
+  {
+    "source": "kawaii",
+    "target": "yume-kawaii"
   },
   {
     "source": "kawaii",
@@ -40987,11 +40927,11 @@ const connections = [
   },
   {
     "source": "ethnogoth",
-    "target": "white-goth"
+    "target": "perky-goth"
   },
   {
     "source": "ethnogoth",
-    "target": "perky-goth"
+    "target": "white-goth"
   },
   {
     "source": "flat-design",
@@ -41003,11 +40943,11 @@ const connections = [
   },
   {
     "source": "cyberpunk",
-    "target": "cybertwee"
+    "target": "warcore"
   },
   {
     "source": "cyberpunk",
-    "target": "warcore"
+    "target": "cybertwee"
   },
   {
     "source": "abstract-tech",
@@ -41047,11 +40987,11 @@ const connections = [
   },
   {
     "source": "health-goth",
-    "target": "perky-goth"
+    "target": "white-goth"
   },
   {
     "source": "health-goth",
-    "target": "white-goth"
+    "target": "perky-goth"
   },
   {
     "source": "perky-goth",
@@ -41071,11 +41011,11 @@ const connections = [
   },
   {
     "source": "corporate-goth",
-    "target": "health-goth"
+    "target": "romantic-goth"
   },
   {
     "source": "corporate-goth",
-    "target": "romantic-goth"
+    "target": "health-goth"
   },
   {
     "source": "cyberdelia",
@@ -41091,11 +41031,11 @@ const connections = [
   },
   {
     "source": "ethnogoth",
-    "target": "nu-goth"
+    "target": "victorian-goth"
   },
   {
     "source": "ethnogoth",
-    "target": "victorian-goth"
+    "target": "nu-goth"
   },
   {
     "source": "health-goth",
@@ -41163,11 +41103,11 @@ const connections = [
   },
   {
     "source": "fetish-goth",
-    "target": "perky-goth"
+    "target": "white-goth"
   },
   {
     "source": "fetish-goth",
-    "target": "white-goth"
+    "target": "perky-goth"
   },
   {
     "source": "health-goth",
@@ -41194,19 +41134,19 @@ const connections = [
     "target": "vectorbloom"
   },
   {
-    "source": "urbling",
-    "target": "y2k"
-  },
-  {
     "source": "shibuya-punk",
     "target": "y2k"
   },
   {
-    "source": "low-poly",
+    "source": "fantasy2k",
     "target": "y2k"
   },
   {
-    "source": "fantasy2k",
+    "source": "urbling",
+    "target": "y2k"
+  },
+  {
+    "source": "low-poly",
     "target": "y2k"
   },
   {
@@ -41219,7 +41159,7 @@ const connections = [
   },
   {
     "source": "corporate-goth",
-    "target": "trad-goth"
+    "target": "fetish-goth"
   },
   {
     "source": "dark-aero",
@@ -41283,11 +41223,11 @@ const connections = [
   },
   {
     "source": "mcbling",
-    "target": "tweencore"
+    "target": "swag"
   },
   {
     "source": "mcbling",
-    "target": "swag"
+    "target": "tweencore"
   },
   {
     "source": "new-romantic",
@@ -41371,19 +41311,19 @@ const connections = [
   },
   {
     "source": "chromecore",
-    "target": "urbling"
-  },
-  {
-    "source": "chromecore",
     "target": "shibuya-punk"
   },
   {
     "source": "chromecore",
-    "target": "low-poly"
+    "target": "fantasy2k"
   },
   {
     "source": "chromecore",
-    "target": "fantasy2k"
+    "target": "urbling"
+  },
+  {
+    "source": "chromecore",
+    "target": "low-poly"
   },
   {
     "source": "dorfic",
@@ -41415,7 +41355,7 @@ const connections = [
   },
   {
     "source": "90s-cool",
-    "target": "low-poly"
+    "target": "fantasy2k"
   },
   {
     "source": "90s-cool",
@@ -41443,10 +41383,6 @@ const connections = [
   },
   {
     "source": "fantasy2k",
-    "target": "low-poly"
-  },
-  {
-    "source": "fantasy2k",
     "target": "shibuya-punk"
   },
   {
@@ -41455,11 +41391,11 @@ const connections = [
   },
   {
     "source": "fashioncore",
-    "target": "nu-punk"
+    "target": "skate-punk"
   },
   {
     "source": "fashioncore",
-    "target": "skate-punk"
+    "target": "nu-punk"
   },
   {
     "source": "low-poly",
@@ -41567,11 +41503,11 @@ const connections = [
   },
   {
     "source": "kinderwhore",
-    "target": "nu-punk"
+    "target": "skate-punk"
   },
   {
     "source": "kinderwhore",
-    "target": "skate-punk"
+    "target": "nu-punk"
   },
   {
     "source": "low-poly",
@@ -41610,6 +41546,10 @@ const connections = [
     "target": "straight-edge"
   },
   {
+    "source": "low-poly",
+    "target": "metalheart"
+  },
+  {
     "source": "post-punk",
     "target": "trad-goth"
   },
@@ -41632,6 +41572,10 @@ const connections = [
   {
     "source": "corporate-grunge",
     "target": "teenpunk"
+  },
+  {
+    "source": "cyber-grunge",
+    "target": "low-poly"
   },
   {
     "source": "fashioncore",
@@ -41706,10 +41650,6 @@ const connections = [
     "target": "old-money"
   },
   {
-    "source": "cyber-grunge",
-    "target": "metalheart"
-  },
-  {
     "source": "dark-nymphet",
     "target": "succubus-chic"
   },
@@ -41735,7 +41675,7 @@ const connections = [
   },
   {
     "source": "blokette",
-    "target": "trailer-park-princess"
+    "target": "bubblegum-coquette"
   },
   {
     "source": "blokette",
@@ -41743,7 +41683,7 @@ const connections = [
   },
   {
     "source": "blokette",
-    "target": "bubblegum-coquette"
+    "target": "trailer-park-princess"
   },
   {
     "source": "anarcho-punk",
@@ -41751,11 +41691,11 @@ const connections = [
   },
   {
     "source": "anarcho-punk",
-    "target": "fashioncore"
+    "target": "skate-punk"
   },
   {
     "source": "anarcho-punk",
-    "target": "skate-punk"
+    "target": "fashioncore"
   },
   {
     "source": "anarcho-punk",
@@ -41819,11 +41759,11 @@ const connections = [
   },
   {
     "source": "byzantine",
-    "target": "romanesque"
+    "target": "classicism"
   },
   {
     "source": "byzantine",
-    "target": "classicism"
+    "target": "romanesque"
   },
   {
     "source": "clockpunk",
@@ -41891,11 +41831,7 @@ const connections = [
   },
   {
     "source": "arts-and-crafts",
-    "target": "modernisme"
-  },
-  {
-    "source": "arts-and-crafts",
-    "target": "young-poland"
+    "target": "zakopane-style"
   },
   {
     "source": "arts-and-crafts",
@@ -41903,7 +41839,11 @@ const connections = [
   },
   {
     "source": "arts-and-crafts",
-    "target": "zakopane-style"
+    "target": "modernisme"
+  },
+  {
+    "source": "arts-and-crafts",
+    "target": "young-poland"
   },
   {
     "source": "arts-and-crafts",
@@ -41935,15 +41875,15 @@ const connections = [
   },
   {
     "source": "blueberry-girl",
-    "target": "cinnamon-girl"
-  },
-  {
-    "source": "blueberry-girl",
     "target": "sad-beige"
   },
   {
     "source": "blueberry-girl",
     "target": "frazzled-english-woman"
+  },
+  {
+    "source": "blueberry-girl",
+    "target": "cinnamon-girl"
   },
   {
     "source": "cinnamon-girl",
@@ -41955,11 +41895,15 @@ const connections = [
   },
   {
     "source": "dadaism",
-    "target": "dau-al-set"
+    "target": "futurism"
   },
   {
     "source": "dadaism",
     "target": "sots-art"
+  },
+  {
+    "source": "dadaism",
+    "target": "dau-al-set"
   },
   {
     "source": "dadaism",
@@ -41968,10 +41912,6 @@ const connections = [
   {
     "source": "dadaism",
     "target": "neo-pop"
-  },
-  {
-    "source": "dadaism",
-    "target": "futurism"
   },
   {
     "source": "frazzled-english-woman",
@@ -41999,27 +41939,23 @@ const connections = [
   },
   {
     "source": "blueberry-girl",
-    "target": "earthy-black-girl"
-  },
-  {
-    "source": "blueberry-girl",
-    "target": "peach-girl"
-  },
-  {
-    "source": "blueberry-girl",
     "target": "pearlcore"
   },
   {
     "source": "blueberry-girl",
-    "target": "christian-girl-autumn"
+    "target": "earthy-black-girl"
   },
   {
     "source": "blueberry-girl",
     "target": "brazilian-bombshell"
   },
   {
-    "source": "brazilian-bombshell",
-    "target": "cinnamon-girl"
+    "source": "blueberry-girl",
+    "target": "tumbette"
+  },
+  {
+    "source": "blueberry-girl",
+    "target": "peach-girl"
   },
   {
     "source": "brazilian-bombshell",
@@ -42030,7 +41966,7 @@ const connections = [
     "target": "frazzled-english-woman"
   },
   {
-    "source": "christian-girl-autumn",
+    "source": "brazilian-bombshell",
     "target": "cinnamon-girl"
   },
   {
@@ -42040,6 +41976,14 @@ const connections = [
   {
     "source": "christian-girl-autumn",
     "target": "frazzled-english-woman"
+  },
+  {
+    "source": "christian-girl-autumn",
+    "target": "cinnamon-girl"
+  },
+  {
+    "source": "cinnamon-girl",
+    "target": "pearlcore"
   },
   {
     "source": "cinnamon-girl",
@@ -42047,11 +41991,7 @@ const connections = [
   },
   {
     "source": "cinnamon-girl",
-    "target": "peach-girl"
-  },
-  {
-    "source": "cinnamon-girl",
-    "target": "pearlcore"
+    "target": "tumbette"
   },
   {
     "source": "dokukawaii",
@@ -42067,11 +42007,11 @@ const connections = [
   },
   {
     "source": "frazzled-english-woman",
-    "target": "peach-girl"
+    "target": "pearlcore"
   },
   {
     "source": "frazzled-english-woman",
-    "target": "pearlcore"
+    "target": "tumbette"
   },
   {
     "source": "gothic",
@@ -42091,14 +42031,18 @@ const connections = [
   },
   {
     "source": "brazilian-bombshell",
+    "target": "pearlcore"
+  },
+  {
+    "source": "brazilian-bombshell",
     "target": "earthy-black-girl"
   },
   {
     "source": "brazilian-bombshell",
-    "target": "peach-girl"
+    "target": "tumbette"
   },
   {
-    "source": "brazilian-bombshell",
+    "source": "christian-girl-autumn",
     "target": "pearlcore"
   },
   {
@@ -42107,22 +42051,26 @@ const connections = [
   },
   {
     "source": "christian-girl-autumn",
-    "target": "peach-girl"
+    "target": "tumbette"
   },
   {
     "source": "christian-girl-autumn",
-    "target": "pearlcore"
+    "target": "peach-girl"
   },
   {
     "source": "earthy-black-girl",
-    "target": "peach-girl"
+    "target": "pearlcore"
   },
   {
     "source": "nautical",
     "target": "newlyn-school"
   },
   {
-    "source": "pearlcore",
+    "source": "peach-girl",
+    "target": "tumbette"
+  },
+  {
+    "source": "peach-girl",
     "target": "tenniscore"
   },
   {
@@ -42147,11 +42095,11 @@ const connections = [
   },
   {
     "source": "maillard-style",
-    "target": "tenniscore"
+    "target": "peach-girl"
   },
   {
     "source": "maillard-style",
-    "target": "tumbette"
+    "target": "tenniscore"
   },
   {
     "source": "art-deco",
@@ -42171,7 +42119,7 @@ const connections = [
   },
   {
     "source": "international-typographic-style",
-    "target": "plakatstil"
+    "target": "suprematism"
   },
   {
     "source": "international-typographic-style",
@@ -42190,12 +42138,12 @@ const connections = [
     "target": "surrealism"
   },
   {
-    "source": "scandi-girl-winter",
-    "target": "tenniscore"
+    "source": "peach-girl",
+    "target": "scandi-girl-winter"
   },
   {
     "source": "scandi-girl-winter",
-    "target": "tumbette"
+    "target": "tenniscore"
   },
   {
     "source": "surrealism",
@@ -42216,10 +42164,6 @@ const connections = [
   {
     "source": "blokecore",
     "target": "tenniscore"
-  },
-  {
-    "source": "blokecore",
-    "target": "tumbette"
   },
   {
     "source": "dau-al-set",
@@ -42246,20 +42190,8 @@ const connections = [
     "target": "tenniscore"
   },
   {
-    "source": "cayetana",
-    "target": "tumbette"
-  },
-  {
     "source": "grocery-girl-fall",
     "target": "tenniscore"
-  },
-  {
-    "source": "grocery-girl-fall",
-    "target": "tumbette"
-  },
-  {
-    "source": "succubus-chic",
-    "target": "tumbette"
   },
   {
     "source": "blokecore",
@@ -42282,12 +42214,12 @@ const connections = [
     "target": "superflat-pop"
   },
   {
-    "source": "cyberminimalism",
-    "target": "minimalism"
-  },
-  {
     "source": "minimalism",
     "target": "power-dressing"
+  },
+  {
+    "source": "cyberminimalism",
+    "target": "minimalism"
   },
   {
     "source": "animecore",
@@ -42307,6 +42239,10 @@ const connections = [
   },
   {
     "source": "blokecore",
+    "target": "grocery-girl-fall"
+  },
+  {
+    "source": "blokecore",
     "target": "succubus-chic"
   },
   {
@@ -42314,15 +42250,11 @@ const connections = [
     "target": "cayetana"
   },
   {
-    "source": "blokecore",
-    "target": "grocery-girl-fall"
-  },
-  {
-    "source": "chic-modernist",
+    "source": "hygge",
     "target": "minimalism"
   },
   {
-    "source": "hygge",
+    "source": "chic-modernist",
     "target": "minimalism"
   },
   {
@@ -42334,8 +42266,20 @@ const connections = [
     "target": "cacareco-girl"
   },
   {
+    "source": "cayetana",
+    "target": "succubus-chic"
+  },
+  {
     "source": "corporate-memphis",
     "target": "memphis-design"
+  },
+  {
+    "source": "grocery-girl-fall",
+    "target": "succubus-chic"
+  },
+  {
+    "source": "barbiecore",
+    "target": "blokecore"
   },
   {
     "source": "cacareco-girl",
@@ -42348,10 +42292,6 @@ const connections = [
   {
     "source": "coastal-style",
     "target": "minimalism"
-  },
-  {
-    "source": "barbiecore",
-    "target": "succubus-chic"
   },
   {
     "source": "barbiecore",
@@ -42375,11 +42315,11 @@ const connections = [
   },
   {
     "source": "memphis-design",
-    "target": "neubrutalism"
+    "target": "utopian-scholastic"
   },
   {
     "source": "memphis-design",
-    "target": "utopian-scholastic"
+    "target": "neubrutalism"
   },
   {
     "source": "barbiecore",
@@ -42651,43 +42591,35 @@ const connections = [
   },
   {
     "source": "cubism",
-    "target": "symbolism"
-  },
-  {
-    "source": "cubism",
-    "target": "ukiyo-e"
-  },
-  {
-    "source": "cubism",
     "target": "post-impressionism"
   },
   {
     "source": "cubism",
-    "target": "pont-aven-school"
-  },
-  {
-    "source": "cubism",
-    "target": "fauvism"
-  },
-  {
-    "source": "cubism",
-    "target": "photorealism"
-  },
-  {
-    "source": "cubism",
-    "target": "realism"
+    "target": "impressionism"
   },
   {
     "source": "cubism",
     "target": "social-realism"
   },
   {
-    "source": "decadence",
-    "target": "symbolism"
+    "source": "cubism",
+    "target": "decadence"
   },
   {
-    "source": "decadence",
+    "source": "cubism",
+    "target": "figuration-narrative"
+  },
+  {
+    "source": "cubism",
+    "target": "pont-aven-school"
+  },
+  {
+    "source": "cubism",
     "target": "ukiyo-e"
+  },
+  {
+    "source": "cubism",
+    "target": "realism"
   },
   {
     "source": "decadence",
@@ -42695,31 +42627,27 @@ const connections = [
   },
   {
     "source": "decadence",
-    "target": "pont-aven-school"
-  },
-  {
-    "source": "decadence",
-    "target": "fauvism"
-  },
-  {
-    "source": "decadence",
-    "target": "photorealism"
-  },
-  {
-    "source": "decadence",
-    "target": "realism"
+    "target": "impressionism"
   },
   {
     "source": "decadence",
     "target": "social-realism"
   },
   {
-    "source": "fauvism",
-    "target": "symbolism"
+    "source": "decadence",
+    "target": "figuration-narrative"
   },
   {
-    "source": "fauvism",
+    "source": "decadence",
+    "target": "pont-aven-school"
+  },
+  {
+    "source": "decadence",
     "target": "ukiyo-e"
+  },
+  {
+    "source": "decadence",
+    "target": "realism"
   },
   {
     "source": "fauvism",
@@ -42727,23 +42655,31 @@ const connections = [
   },
   {
     "source": "fauvism",
+    "target": "impressionism"
+  },
+  {
+    "source": "fauvism",
+    "target": "social-realism"
+  },
+  {
+    "source": "fauvism",
+    "target": "figuration-narrative"
+  },
+  {
+    "source": "fauvism",
     "target": "pont-aven-school"
   },
   {
     "source": "fauvism",
-    "target": "photorealism"
+    "target": "ukiyo-e"
   },
   {
     "source": "fauvism",
     "target": "realism"
   },
   {
-    "source": "figuration-narrative",
-    "target": "symbolism"
-  },
-  {
-    "source": "figuration-narrative",
-    "target": "ukiyo-e"
+    "source": "fauvism",
+    "target": "radical-design"
   },
   {
     "source": "figuration-narrative",
@@ -42751,11 +42687,7 @@ const connections = [
   },
   {
     "source": "figuration-narrative",
-    "target": "pont-aven-school"
-  },
-  {
-    "source": "figuration-narrative",
-    "target": "photorealism"
+    "target": "impressionism"
   },
   {
     "source": "figuration-narrative",
@@ -42763,71 +42695,71 @@ const connections = [
   },
   {
     "source": "figuration-narrative",
-    "target": "realism"
+    "target": "pont-aven-school"
   },
   {
     "source": "figuration-narrative",
+    "target": "ukiyo-e"
+  },
+  {
+    "source": "impressionism",
+    "target": "post-impressionism"
+  },
+  {
+    "source": "impressionism",
+    "target": "social-realism"
+  },
+  {
+    "source": "impressionism",
+    "target": "pont-aven-school"
+  },
+  {
+    "source": "impressionism",
+    "target": "ukiyo-e"
+  },
+  {
+    "source": "photorealism",
+    "target": "post-impressionism"
+  },
+  {
+    "source": "photorealism",
+    "target": "social-realism"
+  },
+  {
+    "source": "photorealism",
+    "target": "pont-aven-school"
+  },
+  {
+    "source": "photorealism",
+    "target": "ukiyo-e"
+  },
+  {
+    "source": "photorealism",
+    "target": "realism"
+  },
+  {
+    "source": "photorealism",
+    "target": "radical-design"
+  },
+  {
+    "source": "photorealism",
     "target": "vorticism"
   },
   {
-    "source": "impressionism",
+    "source": "photorealism",
     "target": "symbolism"
   },
   {
-    "source": "impressionism",
-    "target": "ukiyo-e"
-  },
-  {
-    "source": "impressionism",
+    "source": "pont-aven-school",
     "target": "post-impressionism"
   },
   {
-    "source": "impressionism",
-    "target": "pont-aven-school"
-  },
-  {
-    "source": "impressionism",
-    "target": "photorealism"
-  },
-  {
-    "source": "impressionism",
-    "target": "realism"
-  },
-  {
-    "source": "impressionism",
+    "source": "pont-aven-school",
     "target": "social-realism"
-  },
-  {
-    "source": "impressionism",
-    "target": "vorticism"
-  },
-  {
-    "source": "photorealism",
-    "target": "symbolism"
-  },
-  {
-    "source": "photorealism",
-    "target": "ukiyo-e"
-  },
-  {
-    "source": "photorealism",
-    "target": "post-impressionism"
-  },
-  {
-    "source": "pont-aven-school",
-    "target": "symbolism"
-  },
-  {
-    "source": "pont-aven-school",
-    "target": "ukiyo-e"
-  },
-  {
-    "source": "pont-aven-school",
-    "target": "post-impressionism"
   },
   {
     "source": "post-impressionism",
-    "target": "symbolism"
+    "target": "social-realism"
   },
   {
     "source": "radical-design",
@@ -42839,27 +42771,31 @@ const connections = [
   },
   {
     "source": "radical-design",
-    "target": "social-realism"
+    "target": "vorticism"
   },
   {
     "source": "radical-design",
+    "target": "symbolism"
+  },
+  {
+    "source": "realism",
+    "target": "ukiyo-e"
+  },
+  {
+    "source": "realism",
     "target": "vorticism"
   },
   {
     "source": "realism",
-    "target": "social-realism"
+    "target": "symbolism"
   },
   {
-    "source": "realism",
-    "target": "vorticism"
-  },
-  {
-    "source": "social-realism",
+    "source": "symbolism",
     "target": "vorticism"
   },
   {
     "source": "aestheticism",
-    "target": "social-realism"
+    "target": "radical-design"
   },
   {
     "source": "aestheticism",
@@ -42867,6 +42803,10 @@ const connections = [
   },
   {
     "source": "aestheticism",
+    "target": "symbolism"
+  },
+  {
+    "source": "art-singulier",
     "target": "radical-design"
   },
   {
@@ -42875,7 +42815,7 @@ const connections = [
   },
   {
     "source": "art-singulier",
-    "target": "radical-design"
+    "target": "symbolism"
   },
   {
     "source": "costumbrismo",
@@ -42883,7 +42823,7 @@ const connections = [
   },
   {
     "source": "costumbrismo",
-    "target": "radical-design"
+    "target": "symbolism"
   },
   {
     "source": "crust-punk",
@@ -42891,7 +42831,11 @@ const connections = [
   },
   {
     "source": "de-stijl",
-    "target": "radical-design"
+    "target": "vorticism"
+  },
+  {
+    "source": "de-stijl",
+    "target": "symbolism"
   },
   {
     "source": "aestheticism",
@@ -42899,11 +42843,11 @@ const connections = [
   },
   {
     "source": "aestheticism",
-    "target": "costumbrismo"
+    "target": "seiz-breur"
   },
   {
     "source": "aestheticism",
-    "target": "purism"
+    "target": "zakopane-style"
   },
   {
     "source": "aestheticism",
@@ -42915,15 +42859,11 @@ const connections = [
   },
   {
     "source": "art-singulier",
-    "target": "costumbrismo"
+    "target": "seiz-breur"
   },
   {
     "source": "art-singulier",
-    "target": "purism"
-  },
-  {
-    "source": "art-singulier",
-    "target": "zenitism"
+    "target": "zakopane-style"
   },
   {
     "source": "beatnik",
@@ -42935,11 +42875,19 @@ const connections = [
   },
   {
     "source": "costumbrismo",
-    "target": "purism"
+    "target": "seiz-breur"
   },
   {
     "source": "costumbrismo",
-    "target": "zenitism"
+    "target": "zakopane-style"
+  },
+  {
+    "source": "costumbrismo",
+    "target": "plakatstil"
+  },
+  {
+    "source": "costumbrismo",
+    "target": "newlyn-school"
   },
   {
     "source": "de-stijl",
@@ -42947,23 +42895,19 @@ const connections = [
   },
   {
     "source": "de-stijl",
-    "target": "purism"
-  },
-  {
-    "source": "de-stijl",
-    "target": "zenitism"
-  },
-  {
-    "source": "de-stijl",
     "target": "seiz-breur"
   },
   {
     "source": "de-stijl",
-    "target": "modernisme"
+    "target": "zakopane-style"
   },
   {
     "source": "de-stijl",
-    "target": "young-poland"
+    "target": "plakatstil"
+  },
+  {
+    "source": "de-stijl",
+    "target": "newlyn-school"
   },
   {
     "source": "expressionism",
@@ -42971,27 +42915,27 @@ const connections = [
   },
   {
     "source": "expressionism",
-    "target": "purism"
-  },
-  {
-    "source": "expressionism",
-    "target": "zenitism"
-  },
-  {
-    "source": "expressionism",
     "target": "seiz-breur"
   },
   {
     "source": "expressionism",
-    "target": "modernisme"
+    "target": "zakopane-style"
   },
   {
     "source": "expressionism",
-    "target": "young-poland"
+    "target": "plakatstil"
   },
   {
     "source": "expressionism",
-    "target": "noucentisme"
+    "target": "newlyn-school"
+  },
+  {
+    "source": "expressionism",
+    "target": "pre-raphaelite"
+  },
+  {
+    "source": "expressionism",
+    "target": "suprematism"
   },
   {
     "source": "japonisme",
@@ -42999,27 +42943,27 @@ const connections = [
   },
   {
     "source": "japonisme",
-    "target": "purism"
-  },
-  {
-    "source": "japonisme",
-    "target": "zenitism"
-  },
-  {
-    "source": "japonisme",
     "target": "seiz-breur"
   },
   {
     "source": "japonisme",
-    "target": "modernisme"
+    "target": "zakopane-style"
   },
   {
     "source": "japonisme",
-    "target": "young-poland"
+    "target": "plakatstil"
   },
   {
     "source": "japonisme",
-    "target": "noucentisme"
+    "target": "newlyn-school"
+  },
+  {
+    "source": "japonisme",
+    "target": "pre-raphaelite"
+  },
+  {
+    "source": "japonisme",
+    "target": "suprematism"
   },
   {
     "source": "mexican-muralism",
@@ -43027,54 +42971,54 @@ const connections = [
   },
   {
     "source": "mexican-muralism",
-    "target": "purism"
-  },
-  {
-    "source": "mexican-muralism",
-    "target": "zenitism"
-  },
-  {
-    "source": "mexican-muralism",
     "target": "seiz-breur"
   },
   {
     "source": "mexican-muralism",
-    "target": "modernisme"
+    "target": "zakopane-style"
   },
   {
     "source": "mexican-muralism",
-    "target": "young-poland"
+    "target": "plakatstil"
   },
   {
     "source": "mexican-muralism",
+    "target": "newlyn-school"
+  },
+  {
+    "source": "mexican-muralism",
+    "target": "pre-raphaelite"
+  },
+  {
+    "source": "mexican-muralism",
+    "target": "suprematism"
+  },
+  {
+    "source": "modernisme",
+    "target": "plakatstil"
+  },
+  {
+    "source": "modernisme",
+    "target": "newlyn-school"
+  },
+  {
+    "source": "modernisme",
+    "target": "pre-raphaelite"
+  },
+  {
+    "source": "modernisme",
+    "target": "suprematism"
+  },
+  {
+    "source": "modernisme",
     "target": "noucentisme"
   },
   {
     "source": "modernisme",
-    "target": "zenitism"
+    "target": "purism"
   },
   {
     "source": "modernisme",
-    "target": "seiz-breur"
-  },
-  {
-    "source": "modernisme",
-    "target": "young-poland"
-  },
-  {
-    "source": "newlyn-school",
-    "target": "seiz-breur"
-  },
-  {
-    "source": "newlyn-school",
-    "target": "young-poland"
-  },
-  {
-    "source": "newlyn-school",
-    "target": "noucentisme"
-  },
-  {
-    "source": "newlyn-school",
     "target": "toyism"
   },
   {
@@ -43082,64 +43026,64 @@ const connections = [
     "target": "plakatstil"
   },
   {
-    "source": "newlyn-school",
-    "target": "pre-raphaelite"
-  },
-  {
-    "source": "newlyn-school",
-    "target": "zakopane-style"
+    "source": "noucentisme",
+    "target": "plakatstil"
   },
   {
     "source": "noucentisme",
-    "target": "seiz-breur"
+    "target": "pre-raphaelite"
+  },
+  {
+    "source": "noucentisme",
+    "target": "suprematism"
+  },
+  {
+    "source": "noucentisme",
+    "target": "purism"
+  },
+  {
+    "source": "noucentisme",
+    "target": "toyism"
   },
   {
     "source": "noucentisme",
     "target": "young-poland"
   },
   {
-    "source": "noucentisme",
-    "target": "toyism"
-  },
-  {
-    "source": "plakatstil",
-    "target": "toyism"
-  },
-  {
-    "source": "plakatstil",
-    "target": "pre-raphaelite"
-  },
-  {
-    "source": "plakatstil",
-    "target": "zakopane-style"
-  },
-  {
-    "source": "plakatstil",
-    "target": "suprematism"
-  },
-  {
-    "source": "pre-raphaelite",
-    "target": "toyism"
-  },
-  {
-    "source": "pre-raphaelite",
-    "target": "zakopane-style"
-  },
-  {
     "source": "pre-raphaelite",
     "target": "suprematism"
   },
   {
-    "source": "suprematism",
+    "source": "pre-raphaelite",
+    "target": "purism"
+  },
+  {
+    "source": "purism",
+    "target": "suprematism"
+  },
+  {
+    "source": "purism",
     "target": "toyism"
   },
   {
-    "source": "suprematism",
-    "target": "zakopane-style"
+    "source": "purism",
+    "target": "young-poland"
+  },
+  {
+    "source": "purism",
+    "target": "zenitism"
   },
   {
     "source": "toyism",
-    "target": "zakopane-style"
+    "target": "young-poland"
+  },
+  {
+    "source": "toyism",
+    "target": "zenitism"
+  },
+  {
+    "source": "young-poland",
+    "target": "zenitism"
   },
   {
     "source": "arte-povera",
@@ -43147,43 +43091,35 @@ const connections = [
   },
   {
     "source": "arte-povera",
-    "target": "plakatstil"
+    "target": "young-poland"
   },
   {
     "source": "arte-povera",
-    "target": "pre-raphaelite"
-  },
-  {
-    "source": "arte-povera",
-    "target": "zakopane-style"
-  },
-  {
-    "source": "arte-povera",
-    "target": "suprematism"
+    "target": "zenitism"
   },
   {
     "source": "classicism",
-    "target": "plakatstil"
+    "target": "toyism"
   },
   {
     "source": "classicism",
-    "target": "pre-raphaelite"
+    "target": "young-poland"
   },
   {
     "source": "classicism",
-    "target": "zakopane-style"
-  },
-  {
-    "source": "classicism",
-    "target": "suprematism"
+    "target": "zenitism"
   },
   {
     "source": "constructivism",
-    "target": "suprematism"
+    "target": "young-poland"
+  },
+  {
+    "source": "constructivism",
+    "target": "zenitism"
   },
   {
     "source": "dau-al-set",
-    "target": "suprematism"
+    "target": "zenitism"
   },
   {
     "source": "gabber",
@@ -43195,23 +43131,27 @@ const connections = [
   },
   {
     "source": "arte-povera",
-    "target": "dau-al-set"
+    "target": "futurism"
+  },
+  {
+    "source": "arte-povera",
+    "target": "sots-art"
+  },
+  {
+    "source": "arte-povera",
+    "target": "classicism"
   },
   {
     "source": "classicism",
-    "target": "dau-al-set"
+    "target": "futurism"
   },
   {
     "source": "classicism",
-    "target": "romanesque"
+    "target": "sots-art"
   },
   {
     "source": "constructivism",
-    "target": "dau-al-set"
-  },
-  {
-    "source": "constructivism",
-    "target": "romanesque"
+    "target": "futurism"
   },
   {
     "source": "constructivism",
@@ -43219,51 +43159,43 @@ const connections = [
   },
   {
     "source": "constructivism",
-    "target": "signalism"
+    "target": "dau-al-set"
+  },
+  {
+    "source": "constructivism",
+    "target": "st-ives-school"
   },
   {
     "source": "constructivism",
     "target": "precisionism"
   },
   {
-    "source": "constructivism",
-    "target": "neo-pop"
-  },
-  {
     "source": "dau-al-set",
-    "target": "romanesque"
+    "target": "futurism"
   },
   {
     "source": "dau-al-set",
     "target": "sots-art"
   },
   {
-    "source": "futurism",
-    "target": "romanesque"
+    "source": "dau-al-set",
+    "target": "st-ives-school"
   },
   {
-    "source": "futurism",
-    "target": "sots-art"
-  },
-  {
-    "source": "futurism",
-    "target": "signalism"
-  },
-  {
-    "source": "futurism",
+    "source": "dau-al-set",
     "target": "precisionism"
   },
   {
     "source": "futurism",
-    "target": "neo-pop"
+    "target": "sots-art"
   },
   {
     "source": "futurism",
     "target": "st-ives-school"
   },
   {
-    "source": "neo-pop",
-    "target": "romanesque"
+    "source": "futurism",
+    "target": "precisionism"
   },
   {
     "source": "neo-pop",
@@ -43271,19 +43203,23 @@ const connections = [
   },
   {
     "source": "neo-pop",
-    "target": "signalism"
+    "target": "st-ives-school"
   },
   {
     "source": "neo-pop",
     "target": "precisionism"
   },
   {
-    "source": "precisionism",
+    "source": "neo-pop",
+    "target": "signalism"
+  },
+  {
+    "source": "neo-pop",
     "target": "romanesque"
   },
   {
     "source": "precisionism",
-    "target": "sots-art"
+    "target": "st-ives-school"
   },
   {
     "source": "precisionism",
@@ -43291,11 +43227,15 @@ const connections = [
   },
   {
     "source": "precisionism",
+    "target": "romanesque"
+  },
+  {
+    "source": "romanesque",
     "target": "st-ives-school"
   },
   {
-    "source": "signalism",
-    "target": "sots-art"
+    "source": "romanesque",
+    "target": "signalism"
   },
   {
     "source": "signalism",
@@ -43307,39 +43247,43 @@ const connections = [
   },
   {
     "source": "art-nouveau",
-    "target": "signalism"
-  },
-  {
-    "source": "art-nouveau",
     "target": "precisionism"
   },
   {
     "source": "art-nouveau",
-    "target": "st-ives-school"
+    "target": "signalism"
   },
   {
     "source": "art-nouveau",
-    "target": "futurism"
+    "target": "romanesque"
+  },
+  {
+    "source": "art-nouveau",
+    "target": "neo-pop"
   },
   {
     "source": "bauhaus",
-    "target": "st-ives-school"
+    "target": "signalism"
+  },
+  {
+    "source": "bauhaus",
+    "target": "romanesque"
   },
   {
     "source": "dutch-golden-age",
-    "target": "st-ives-school"
+    "target": "signalism"
   },
   {
-    "source": "pop-art",
-    "target": "st-ives-school"
+    "source": "art-nouveau",
+    "target": "pop-art"
   },
   {
     "source": "art-nouveau",
     "target": "romanticism"
   },
   {
-    "source": "art-nouveau",
-    "target": "bauhaus"
+    "source": "bauhaus",
+    "target": "pop-art"
   },
   {
     "source": "bauhaus",
@@ -43350,16 +43294,12 @@ const connections = [
     "target": "dutch-golden-age"
   },
   {
-    "source": "bauhaus",
+    "source": "dutch-golden-age",
     "target": "pop-art"
   },
   {
     "source": "dutch-golden-age",
     "target": "romanticism"
-  },
-  {
-    "source": "dutch-golden-age",
-    "target": "pop-art"
   },
   {
     "source": "pop-art",
@@ -43387,11 +43327,11 @@ const connections = [
   },
   {
     "source": "italian-renaissance",
-    "target": "romanticism"
+    "target": "pop-art"
   },
   {
     "source": "italian-renaissance",
-    "target": "pop-art"
+    "target": "romanticism"
   },
   {
     "source": "mandrake",
@@ -43439,11 +43379,11 @@ const connections = [
   },
   {
     "source": "bauhaus",
-    "target": "lowbrow"
+    "target": "socialist-realism"
   },
   {
     "source": "bauhaus",
-    "target": "socialist-realism"
+    "target": "lowbrow"
   },
   {
     "source": "b-boy",
@@ -43627,11 +43567,11 @@ const connections = [
   },
   {
     "source": "chav",
-    "target": "eshay"
+    "target": "talahon"
   },
   {
     "source": "chav",
-    "target": "talahon"
+    "target": "eshay"
   },
   {
     "source": "crust-punk",
@@ -43679,11 +43619,11 @@ const connections = [
   },
   {
     "source": "chav",
-    "target": "roadman"
+    "target": "cocalar"
   },
   {
     "source": "chav",
-    "target": "cocalar"
+    "target": "roadman"
   },
   {
     "source": "dolly-girl",
@@ -43739,7 +43679,7 @@ const connections = [
   },
   {
     "source": "dandy",
-    "target": "zazou"
+    "target": "pachuco"
   },
   {
     "source": "dandy",
@@ -43747,7 +43687,7 @@ const connections = [
   },
   {
     "source": "dandy",
-    "target": "swenkas"
+    "target": "zazou"
   },
   {
     "source": "jirai-kei",
@@ -43939,11 +43879,11 @@ const connections = [
   },
   {
     "source": "geek-chic",
-    "target": "preppy"
+    "target": "scene"
   },
   {
     "source": "geek-chic",
-    "target": "scene"
+    "target": "preppy"
   },
   {
     "source": "gyaru",
@@ -43967,15 +43907,11 @@ const connections = [
   },
   {
     "source": "deathrock",
-    "target": "gothabilly"
-  },
-  {
-    "source": "deathrock",
     "target": "trad-goth"
   },
   {
     "source": "deathrock",
-    "target": "fetish-goth"
+    "target": "gothabilly"
   },
   {
     "source": "decora",
@@ -44071,11 +44007,11 @@ const connections = [
   },
   {
     "source": "lolita",
-    "target": "sweet-lolita"
+    "target": "military-lolita"
   },
   {
     "source": "lolita",
-    "target": "ouji"
+    "target": "sweet-lolita"
   },
   {
     "source": "gothic-lolita",
@@ -44083,7 +44019,7 @@ const connections = [
   },
   {
     "source": "lolita",
-    "target": "military-lolita"
+    "target": "ouji"
   },
   {
     "source": "agejo",
@@ -44098,11 +44034,11 @@ const connections = [
     "target": "neue-slowenische-kunst"
   },
   {
-    "source": "hime-lolita",
+    "source": "aristocrat",
     "target": "lolita"
   },
   {
-    "source": "aristocrat",
+    "source": "hime-lolita",
     "target": "lolita"
   },
   {
@@ -44127,11 +44063,11 @@ const connections = [
   },
   {
     "source": "kandi-raver",
-    "target": "krocha"
+    "target": "tecktonik"
   },
   {
     "source": "kandi-raver",
-    "target": "tecktonik"
+    "target": "krocha"
   },
   {
     "source": "rude-boy",
@@ -44227,11 +44163,11 @@ const connections = [
   },
   {
     "source": "romantic-academia",
-    "target": "romantic-italian"
+    "target": "theatre-academia"
   },
   {
     "source": "romantic-academia",
-    "target": "theatre-academia"
+    "target": "romantic-italian"
   },
   {
     "source": "arabfunny",
@@ -44259,11 +44195,11 @@ const connections = [
   },
   {
     "source": "dark-naturalism",
-    "target": "gloomcore"
+    "target": "mushroomcore"
   },
   {
     "source": "dark-naturalism",
-    "target": "mushroomcore"
+    "target": "gloomcore"
   },
   {
     "source": "fantasy-astronomy",
@@ -44447,11 +44383,11 @@ const connections = [
   },
   {
     "source": "dead-inside",
-    "target": "sadboi"
+    "target": "trxsh"
   },
   {
     "source": "dead-inside",
-    "target": "trxsh"
+    "target": "sadboi"
   },
   {
     "source": "devilcore",
@@ -44463,11 +44399,11 @@ const connections = [
   },
   {
     "source": "ethereal",
-    "target": "royalcore"
+    "target": "princesscore"
   },
   {
     "source": "ethereal",
-    "target": "princesscore"
+    "target": "royalcore"
   },
   {
     "source": "fairy-grunge",
@@ -44519,11 +44455,11 @@ const connections = [
   },
   {
     "source": "gorpcore",
-    "target": "normcore"
+    "target": "granola"
   },
   {
     "source": "gorpcore",
-    "target": "granola"
+    "target": "normcore"
   },
   {
     "source": "gothabilly",
@@ -44540,6 +44476,10 @@ const connections = [
   {
     "source": "kawaii-gamer",
     "target": "living-doll"
+  },
+  {
+    "source": "mallgoth",
+    "target": "trad-goth"
   },
   {
     "source": "medieval-fantasy",
@@ -44687,15 +44627,15 @@ const connections = [
   },
   {
     "source": "avant-apocalypse",
-    "target": "fairy-grunge"
-  },
-  {
-    "source": "avant-apocalypse",
     "target": "solarpunk"
   },
   {
+    "source": "avant-apocalypse",
+    "target": "fairy-grunge"
+  },
+  {
     "source": "balletcore",
-    "target": "wonyoungism"
+    "target": "wishcore"
   },
   {
     "source": "chic-modernist",
@@ -44771,11 +44711,11 @@ const connections = [
   },
   {
     "source": "2014-tumblr",
-    "target": "swag"
+    "target": "galaxy-print"
   },
   {
     "source": "2014-tumblr",
-    "target": "galaxy-print"
+    "target": "swag"
   },
   {
     "source": "aggrotech",
@@ -44939,11 +44879,11 @@ const connections = [
   },
   {
     "source": "coquette",
-    "target": "winter-bimbo"
+    "target": "vintage-americana"
   },
   {
     "source": "coquette",
-    "target": "vintage-americana"
+    "target": "winter-bimbo"
   },
   {
     "source": "acid-design",
@@ -44974,16 +44914,16 @@ const connections = [
     "target": "normcore"
   },
   {
+    "source": "coquette",
+    "target": "delicate-sweet"
+  },
+  {
     "source": "buckle-bunny",
     "target": "coquette"
   },
   {
     "source": "coquette",
     "target": "dollcore"
-  },
-  {
-    "source": "coquette",
-    "target": "delicate-sweet"
   },
   {
     "source": "aliyahcore",
@@ -45050,16 +44990,8 @@ const connections = [
     "target": "tropical"
   },
   {
-    "source": "dungeon-synth",
-    "target": "lithuanian-eurodisco"
-  },
-  {
     "source": "darksynth",
     "target": "dungeon-synth"
-  },
-  {
-    "source": "dungeon-synth",
-    "target": "manguebeat"
   },
   {
     "source": "dungeon-synth",
@@ -45067,7 +44999,7 @@ const connections = [
   },
   {
     "source": "dungeon-synth",
-    "target": "tango"
+    "target": "lithuanian-eurodisco"
   },
   {
     "source": "dungeon-rap",
@@ -45076,6 +45008,14 @@ const connections = [
   {
     "source": "dungeon-synth",
     "target": "phonk"
+  },
+  {
+    "source": "dungeon-synth",
+    "target": "manguebeat"
+  },
+  {
+    "source": "dungeon-synth",
+    "target": "tango"
   },
   {
     "source": "avant-basic",
@@ -45087,19 +45027,11 @@ const connections = [
   },
   {
     "source": "darksynth",
-    "target": "lithuanian-eurodisco"
-  },
-  {
-    "source": "darksynth",
-    "target": "manguebeat"
-  },
-  {
-    "source": "darksynth",
     "target": "kawaii-metal"
   },
   {
     "source": "darksynth",
-    "target": "tango"
+    "target": "lithuanian-eurodisco"
   },
   {
     "source": "darksynth",
@@ -45110,12 +45042,12 @@ const connections = [
     "target": "phonk"
   },
   {
-    "source": "dungeon-rap",
-    "target": "lithuanian-eurodisco"
+    "source": "darksynth",
+    "target": "manguebeat"
   },
   {
-    "source": "dungeon-rap",
-    "target": "manguebeat"
+    "source": "darksynth",
+    "target": "tango"
   },
   {
     "source": "dungeon-rap",
@@ -45123,18 +45055,30 @@ const connections = [
   },
   {
     "source": "dungeon-rap",
-    "target": "tango"
+    "target": "lithuanian-eurodisco"
   },
   {
     "source": "dungeon-rap",
     "target": "phonk"
   },
   {
+    "source": "dungeon-rap",
+    "target": "manguebeat"
+  },
+  {
+    "source": "dungeon-rap",
+    "target": "tango"
+  },
+  {
     "source": "kawaii-metal",
     "target": "lithuanian-eurodisco"
   },
   {
     "source": "kawaii-metal",
+    "target": "phonk"
+  },
+  {
+    "source": "kawaii-metal",
     "target": "manguebeat"
   },
   {
@@ -45142,7 +45086,7 @@ const connections = [
     "target": "tango"
   },
   {
-    "source": "kawaii-metal",
+    "source": "lithuanian-eurodisco",
     "target": "phonk"
   },
   {
@@ -45154,28 +45098,20 @@ const connections = [
     "target": "tango"
   },
   {
-    "source": "lithuanian-eurodisco",
+    "source": "manguebeat",
     "target": "phonk"
   },
   {
     "source": "manguebeat",
     "target": "tango"
-  },
-  {
-    "source": "manguebeat",
-    "target": "phonk"
   },
   {
     "source": "phonk",
     "target": "tango"
   },
   {
-    "source": "disco-polo",
-    "target": "dungeon-synth"
-  },
-  {
-    "source": "akibapop",
-    "target": "lithuanian-eurodisco"
+    "source": "dungeon-synth",
+    "target": "slimepunk"
   },
   {
     "source": "akibapop",
@@ -45183,15 +45119,11 @@ const connections = [
   },
   {
     "source": "akibapop",
-    "target": "manguebeat"
-  },
-  {
-    "source": "akibapop",
     "target": "kawaii-metal"
   },
   {
     "source": "akibapop",
-    "target": "tango"
+    "target": "lithuanian-eurodisco"
   },
   {
     "source": "akibapop",
@@ -45200,6 +45132,14 @@ const connections = [
   {
     "source": "akibapop",
     "target": "phonk"
+  },
+  {
+    "source": "akibapop",
+    "target": "manguebeat"
+  },
+  {
+    "source": "akibapop",
+    "target": "tango"
   },
   {
     "source": "heroin-chic",
@@ -45211,51 +45151,51 @@ const connections = [
   },
   {
     "source": "chicago-drill",
+    "target": "slimepunk"
+  },
+  {
+    "source": "chicago-drill",
+    "target": "necrotrap"
+  },
+  {
+    "source": "chicago-drill",
+    "target": "midwest-emo"
+  },
+  {
+    "source": "chicago-drill",
+    "target": "reggae"
+  },
+  {
+    "source": "chicago-drill",
+    "target": "flamenco"
+  },
+  {
+    "source": "chicago-drill",
     "target": "disco-polo"
   },
   {
-    "source": "chicago-drill",
-    "target": "flamenco"
+    "source": "disco-polo",
+    "target": "slimepunk"
   },
   {
-    "source": "chicago-drill",
-    "target": "reggae"
-  },
-  {
-    "source": "chicago-drill",
+    "source": "disco-polo",
     "target": "necrotrap"
   },
   {
-    "source": "chicago-drill",
+    "source": "disco-polo",
     "target": "midwest-emo"
   },
   {
-    "source": "chicago-drill",
-    "target": "slimepunk"
+    "source": "disco-polo",
+    "target": "reggae"
   },
   {
     "source": "disco-polo",
     "target": "flamenco"
   },
   {
-    "source": "disco-polo",
-    "target": "reggae"
-  },
-  {
-    "source": "disco-polo",
-    "target": "necrotrap"
-  },
-  {
-    "source": "disco-polo",
-    "target": "midwest-emo"
-  },
-  {
-    "source": "disco-polo",
-    "target": "slimepunk"
-  },
-  {
     "source": "flamenco",
-    "target": "reggae"
+    "target": "slimepunk"
   },
   {
     "source": "flamenco",
@@ -45267,7 +45207,7 @@ const connections = [
   },
   {
     "source": "flamenco",
-    "target": "slimepunk"
+    "target": "reggae"
   },
   {
     "source": "frutiger-aero",
@@ -45275,7 +45215,7 @@ const connections = [
   },
   {
     "source": "midwest-emo",
-    "target": "reggae"
+    "target": "slimepunk"
   },
   {
     "source": "midwest-emo",
@@ -45283,15 +45223,15 @@ const connections = [
   },
   {
     "source": "midwest-emo",
-    "target": "slimepunk"
-  },
-  {
-    "source": "necrotrap",
     "target": "reggae"
   },
   {
     "source": "necrotrap",
     "target": "slimepunk"
+  },
+  {
+    "source": "necrotrap",
+    "target": "reggae"
   },
   {
     "source": "reggae",
@@ -45299,19 +45239,7 @@ const connections = [
   },
   {
     "source": "2-tone",
-    "target": "disco-polo"
-  },
-  {
-    "source": "2-tone",
     "target": "chicago-drill"
-  },
-  {
-    "source": "2-tone",
-    "target": "flamenco"
-  },
-  {
-    "source": "2-tone",
-    "target": "reggae"
   },
   {
     "source": "2-tone",
@@ -45323,7 +45251,15 @@ const connections = [
   },
   {
     "source": "2-tone",
-    "target": "slimepunk"
+    "target": "reggae"
+  },
+  {
+    "source": "2-tone",
+    "target": "flamenco"
+  },
+  {
+    "source": "2-tone",
+    "target": "disco-polo"
   },
   {
     "source": "artcore",
@@ -45335,11 +45271,15 @@ const connections = [
   },
   {
     "source": "artcore",
-    "target": "trap-metal"
+    "target": "disco-polo"
+  },
+  {
+    "source": "2-tone",
+    "target": "italo-disco"
   },
   {
     "source": "artcore",
-    "target": "horrorcore"
+    "target": "italo-disco"
   },
   {
     "source": "artcore",
@@ -45347,15 +45287,11 @@ const connections = [
   },
   {
     "source": "artcore",
-    "target": "nerdcore"
+    "target": "keller-synth"
   },
   {
     "source": "black-metal",
-    "target": "trap-metal"
-  },
-  {
-    "source": "black-metal",
-    "target": "horrorcore"
+    "target": "italo-disco"
   },
   {
     "source": "black-metal",
@@ -45363,15 +45299,19 @@ const connections = [
   },
   {
     "source": "black-metal",
-    "target": "nerdcore"
-  },
-  {
-    "source": "black-metal",
-    "target": "hair-metal"
+    "target": "keller-synth"
   },
   {
     "source": "black-metal",
     "target": "hauntology"
+  },
+  {
+    "source": "black-metal",
+    "target": "pc-music"
+  },
+  {
+    "source": "black-metal",
+    "target": "nerdcore"
   },
   {
     "source": "frutiger-aero",
@@ -45379,11 +45319,7 @@ const connections = [
   },
   {
     "source": "hair-metal",
-    "target": "trap-metal"
-  },
-  {
-    "source": "hair-metal",
-    "target": "horrorcore"
+    "target": "italo-disco"
   },
   {
     "source": "hair-metal",
@@ -45391,7 +45327,7 @@ const connections = [
   },
   {
     "source": "hair-metal",
-    "target": "nerdcore"
+    "target": "keller-synth"
   },
   {
     "source": "hair-metal",
@@ -45399,83 +45335,91 @@ const connections = [
   },
   {
     "source": "hair-metal",
-    "target": "hexd"
+    "target": "pc-music"
   },
   {
-    "source": "hauntology",
-    "target": "trap-metal"
-  },
-  {
-    "source": "hauntology",
-    "target": "horrorcore"
-  },
-  {
-    "source": "hauntology",
-    "target": "meme-rap"
-  },
-  {
-    "source": "hauntology",
+    "source": "hair-metal",
     "target": "nerdcore"
   },
   {
+    "source": "hair-metal",
+    "target": "trap-metal"
+  },
+  {
     "source": "hauntology",
-    "target": "hexd"
+    "target": "italo-disco"
   },
   {
     "source": "hauntology",
-    "target": "sunshine-pop"
-  },
-  {
-    "source": "hexd",
-    "target": "trap-metal"
-  },
-  {
-    "source": "hexd",
-    "target": "horrorcore"
-  },
-  {
-    "source": "hexd",
     "target": "meme-rap"
   },
   {
-    "source": "hexd",
-    "target": "nerdcore"
-  },
-  {
-    "source": "hexd",
-    "target": "sunshine-pop"
-  },
-  {
-    "source": "horrorcore",
-    "target": "trap-metal"
-  },
-  {
-    "source": "horrorcore",
-    "target": "meme-rap"
-  },
-  {
-    "source": "italo-disco",
-    "target": "trap-metal"
-  },
-  {
-    "source": "italo-disco",
-    "target": "meme-rap"
-  },
-  {
-    "source": "italo-disco",
-    "target": "nerdcore"
-  },
-  {
-    "source": "italo-disco",
-    "target": "sunshine-pop"
-  },
-  {
-    "source": "italo-disco",
+    "source": "hauntology",
     "target": "keller-synth"
   },
   {
-    "source": "italo-disco",
+    "source": "hauntology",
     "target": "pc-music"
+  },
+  {
+    "source": "hauntology",
+    "target": "nerdcore"
+  },
+  {
+    "source": "hauntology",
+    "target": "trap-metal"
+  },
+  {
+    "source": "hexd",
+    "target": "italo-disco"
+  },
+  {
+    "source": "hexd",
+    "target": "meme-rap"
+  },
+  {
+    "source": "hexd",
+    "target": "keller-synth"
+  },
+  {
+    "source": "hexd",
+    "target": "pc-music"
+  },
+  {
+    "source": "hexd",
+    "target": "nerdcore"
+  },
+  {
+    "source": "hexd",
+    "target": "trap-metal"
+  },
+  {
+    "source": "hexd",
+    "target": "horrorcore"
+  },
+  {
+    "source": "horrorcore",
+    "target": "italo-disco"
+  },
+  {
+    "source": "horrorcore",
+    "target": "meme-rap"
+  },
+  {
+    "source": "horrorcore",
+    "target": "keller-synth"
+  },
+  {
+    "source": "horrorcore",
+    "target": "pc-music"
+  },
+  {
+    "source": "horrorcore",
+    "target": "nerdcore"
+  },
+  {
+    "source": "horrorcore",
+    "target": "trap-metal"
   },
   {
     "source": "keller-synth",
@@ -45483,59 +45427,51 @@ const connections = [
   },
   {
     "source": "keller-synth",
-    "target": "nerdcore"
-  },
-  {
-    "source": "keller-synth",
-    "target": "sunshine-pop"
-  },
-  {
-    "source": "keller-synth",
     "target": "pc-music"
+  },
+  {
+    "source": "meme-rap",
+    "target": "pc-music"
+  },
+  {
+    "source": "nerdcore",
+    "target": "trap-metal"
   },
   {
     "source": "nerdcore",
     "target": "sunshine-pop"
   },
   {
-    "source": "pc-music",
-    "target": "sunshine-pop"
+    "source": "sunshine-pop",
+    "target": "trap-metal"
+  },
+  {
+    "source": "chicha",
+    "target": "nerdcore"
+  },
+  {
+    "source": "chicha",
+    "target": "trap-metal"
   },
   {
     "source": "chicha",
     "target": "sunshine-pop"
-  },
-  {
-    "source": "chicha",
-    "target": "keller-synth"
-  },
-  {
-    "source": "chicha",
-    "target": "pc-music"
-  },
-  {
-    "source": "chicha",
-    "target": "italo-disco"
-  },
-  {
-    "source": "keller-synth",
-    "target": "minimal-wave"
   },
   {
     "source": "minimal-wave",
-    "target": "pc-music"
+    "target": "sunshine-pop"
   },
   {
     "source": "hyperpop",
-    "target": "keller-synth"
-  },
-  {
-    "source": "hyperpop",
-    "target": "pc-music"
+    "target": "sunshine-pop"
   },
   {
     "source": "britpop",
-    "target": "pc-music"
+    "target": "sunshine-pop"
+  },
+  {
+    "source": "brostep",
+    "target": "sunshine-pop"
   },
   {
     "source": "chicha",
@@ -45546,11 +45482,15 @@ const connections = [
     "target": "y2k-futurism"
   },
   {
+    "source": "hyperpop",
+    "target": "minimal-wave"
+  },
+  {
     "source": "chicha",
     "target": "hyperpop"
   },
   {
-    "source": "hyperpop",
+    "source": "britpop",
     "target": "minimal-wave"
   },
   {
@@ -45558,64 +45498,52 @@ const connections = [
     "target": "chicha"
   },
   {
-    "source": "britpop",
+    "source": "brostep",
     "target": "minimal-wave"
   },
   {
     "source": "brostep",
-    "target": "minimal-wave"
+    "target": "chicha"
   },
   {
     "source": "city-pop",
     "target": "minimal-wave"
   },
   {
+    "source": "dark-cabaret",
+    "target": "minimal-wave"
+  },
+  {
     "source": "britpop",
     "target": "hyperpop"
   },
   {
-    "source": "dark-cabaret",
+    "source": "city-pop",
+    "target": "hyperpop"
+  },
+  {
+    "source": "brostep",
     "target": "hyperpop"
   },
   {
     "source": "hyperpop",
-    "target": "martial-industrial"
+    "target": "neoperreo"
   },
   {
     "source": "britpop",
-    "target": "dark-cabaret"
-  },
-  {
-    "source": "britpop",
-    "target": "martial-industrial"
+    "target": "city-pop"
   },
   {
     "source": "britpop",
     "target": "brostep"
   },
   {
-    "source": "brostep",
-    "target": "dark-cabaret"
-  },
-  {
-    "source": "brostep",
-    "target": "martial-industrial"
-  },
-  {
-    "source": "brostep",
+    "source": "britpop",
     "target": "neoperreo"
   },
   {
     "source": "brostep",
-    "target": "electroclash"
-  },
-  {
-    "source": "city-pop",
-    "target": "dark-cabaret"
-  },
-  {
-    "source": "city-pop",
-    "target": "martial-industrial"
+    "target": "city-pop"
   },
   {
     "source": "city-pop",
@@ -45623,19 +45551,27 @@ const connections = [
   },
   {
     "source": "city-pop",
-    "target": "electroclash"
+    "target": "martial-industrial"
+  },
+  {
+    "source": "dark-cabaret",
+    "target": "neoperreo"
   },
   {
     "source": "dark-cabaret",
     "target": "martial-industrial"
   },
   {
-    "source": "electroclash",
-    "target": "martial-industrial"
+    "source": "dark-cabaret",
+    "target": "electroclash"
   },
   {
     "source": "electroclash",
     "target": "neoperreo"
+  },
+  {
+    "source": "electroclash",
+    "target": "martial-industrial"
   },
   {
     "source": "martial-industrial",
@@ -45647,7 +45583,7 @@ const connections = [
   },
   {
     "source": "aggrotech",
-    "target": "neoperreo"
+    "target": "martial-industrial"
   },
   {
     "source": "aggrotech",
@@ -45655,19 +45591,23 @@ const connections = [
   },
   {
     "source": "aggrotech",
-    "target": "city-pop"
+    "target": "dark-cabaret"
   },
   {
     "source": "bardcore",
-    "target": "neoperreo"
+    "target": "martial-industrial"
   },
   {
     "source": "bardcore",
     "target": "electroclash"
   },
   {
-    "source": "aggrotech",
-    "target": "new-wave"
+    "source": "electroclash",
+    "target": "synthwave"
+  },
+  {
+    "source": "emo-rap",
+    "target": "martial-industrial"
   },
   {
     "source": "aggrotech",
@@ -45679,6 +45619,10 @@ const connections = [
   },
   {
     "source": "aggrotech",
+    "target": "new-wave"
+  },
+  {
+    "source": "aggrotech",
     "target": "emo-rap"
   },
   {
@@ -45687,11 +45631,11 @@ const connections = [
   },
   {
     "source": "emo-rap",
-    "target": "new-wave"
+    "target": "synthwave"
   },
   {
     "source": "emo-rap",
-    "target": "synthwave"
+    "target": "new-wave"
   },
   {
     "source": "neo-y2k",
@@ -45707,11 +45651,11 @@ const connections = [
   },
   {
     "source": "country",
-    "target": "new-wave"
+    "target": "synthwave"
   },
   {
     "source": "country",
-    "target": "synthwave"
+    "target": "new-wave"
   },
   {
     "source": "country",
@@ -45723,27 +45667,23 @@ const connections = [
   },
   {
     "source": "emo-rap",
-    "target": "neofolk"
-  },
-  {
-    "source": "emo-rap",
     "target": "metal"
   },
   {
-    "source": "lolicore",
-    "target": "new-wave"
+    "source": "emo-rap",
+    "target": "neofolk"
   },
   {
     "source": "lolicore",
     "target": "synthwave"
   },
   {
-    "source": "metal",
+    "source": "lolicore",
     "target": "new-wave"
   },
   {
     "source": "metal",
-    "target": "synthwave"
+    "target": "new-wave"
   },
   {
     "source": "neofolk",
@@ -45754,12 +45694,8 @@ const connections = [
     "target": "lolicore"
   },
   {
-    "source": "dreampunk",
-    "target": "emo-rap"
-  },
-  {
     "source": "lolicore",
-    "target": "neofolk"
+    "target": "metal"
   },
   {
     "source": "pixel-ui",
@@ -45782,6 +45718,10 @@ const connections = [
     "target": "neofolk"
   },
   {
+    "source": "mallsoft",
+    "target": "neofolk"
+  },
+  {
     "source": "neue-slowenische-kunst",
     "target": "rivethead"
   },
@@ -45795,7 +45735,7 @@ const connections = [
   },
   {
     "source": "dreampunk",
-    "target": "mallsoft"
+    "target": "funk"
   },
   {
     "source": "dreampunk",
@@ -45803,7 +45743,7 @@ const connections = [
   },
   {
     "source": "dreampunk",
-    "target": "funk"
+    "target": "mallsoft"
   },
   {
     "source": "factory-pomo",
@@ -45819,23 +45759,23 @@ const connections = [
   },
   {
     "source": "indie",
-    "target": "mallsoft"
+    "target": "nu-metal"
   },
   {
     "source": "indie",
-    "target": "nu-metal"
+    "target": "mallsoft"
   },
   {
     "source": "four-colors",
-    "target": "neo-aero"
+    "target": "frutiger-eco"
+  },
+  {
+    "source": "funk",
+    "target": "nu-metal"
   },
   {
     "source": "funk",
     "target": "mallsoft"
-  },
-  {
-    "source": "funk",
-    "target": "nu-metal"
   },
   {
     "source": "mallsoft",
@@ -45862,6 +45802,10 @@ const connections = [
     "target": "shibuya-kei"
   },
   {
+    "source": "dreampunk",
+    "target": "queercore"
+  },
+  {
     "source": "mallsoft",
     "target": "uk-garage"
   },
@@ -45876,10 +45820,6 @@ const connections = [
   {
     "source": "mallsoft",
     "target": "queercore"
-  },
-  {
-    "source": "basque-radical-rock",
-    "target": "mallsoft"
   },
   {
     "source": "shibuya-kei",
@@ -45938,10 +45878,6 @@ const connections = [
     "target": "rockabilly"
   },
   {
-    "source": "horror-punk",
-    "target": "queercore"
-  },
-  {
     "source": "old-hollywood",
     "target": "rockabilly"
   },
@@ -45998,6 +45934,10 @@ const connections = [
     "target": "glitchcore"
   },
   {
+    "source": "basque-radical-rock",
+    "target": "hands-up"
+  },
+  {
     "source": "b-movie-horror",
     "target": "psychobilly"
   },
@@ -46042,6 +45982,10 @@ const connections = [
     "target": "psychobilly"
   },
   {
+    "source": "hands-up",
+    "target": "horror-punk"
+  },
+  {
     "source": "goth",
     "target": "gothic-belly-dance"
   },
@@ -46082,24 +46026,16 @@ const connections = [
     "target": "sigilkore"
   },
   {
-    "source": "aesthetic-rap",
-    "target": "soundcloud-rap"
-  },
-  {
     "source": "soundcloud-rap",
     "target": "trillwave"
   },
   {
-    "source": "hands-up",
-    "target": "partille-johnny"
+    "source": "aesthetic-rap",
+    "target": "soundcloud-rap"
   },
   {
     "source": "cybersigilism",
     "target": "sigilkore"
-  },
-  {
-    "source": "fjortis",
-    "target": "hands-up"
   },
   {
     "source": "glitchbreak",
@@ -46147,15 +46083,15 @@ const connections = [
   },
   {
     "source": "ah-beng",
-    "target": "zef"
+    "target": "oi-skinhead"
   },
   {
     "source": "ah-beng",
-    "target": "rolinga"
+    "target": "poppers"
   },
   {
     "source": "ah-beng",
-    "target": "chonga"
+    "target": "halbstarke"
   },
   {
     "source": "ah-beng",
@@ -46163,15 +46099,15 @@ const connections = [
   },
   {
     "source": "ah-beng",
-    "target": "cumbiero"
+    "target": "cholombiano"
   },
   {
     "source": "ah-beng",
-    "target": "rockers"
+    "target": "new-primitivism"
   },
   {
     "source": "ah-beng",
-    "target": "poppers"
+    "target": "chonga"
   },
   {
     "source": "ah-beng",
@@ -46179,15 +46115,15 @@ const connections = [
   },
   {
     "source": "black-ivy",
-    "target": "zef"
+    "target": "oi-skinhead"
   },
   {
     "source": "black-ivy",
-    "target": "rolinga"
+    "target": "poppers"
   },
   {
     "source": "black-ivy",
-    "target": "chonga"
+    "target": "halbstarke"
   },
   {
     "source": "black-ivy",
@@ -46195,15 +46131,15 @@ const connections = [
   },
   {
     "source": "black-ivy",
-    "target": "cumbiero"
+    "target": "cholombiano"
   },
   {
     "source": "black-ivy",
-    "target": "rockers"
+    "target": "new-primitivism"
   },
   {
     "source": "black-ivy",
-    "target": "poppers"
+    "target": "chonga"
   },
   {
     "source": "black-ivy",
@@ -46211,15 +46147,15 @@ const connections = [
   },
   {
     "source": "bobby-soxer",
-    "target": "zef"
+    "target": "oi-skinhead"
   },
   {
     "source": "bobby-soxer",
-    "target": "rolinga"
+    "target": "poppers"
   },
   {
     "source": "bobby-soxer",
-    "target": "chonga"
+    "target": "halbstarke"
   },
   {
     "source": "bobby-soxer",
@@ -46227,15 +46163,15 @@ const connections = [
   },
   {
     "source": "bobby-soxer",
-    "target": "cumbiero"
+    "target": "cholombiano"
   },
   {
     "source": "bobby-soxer",
-    "target": "rockers"
+    "target": "new-primitivism"
   },
   {
     "source": "bobby-soxer",
-    "target": "poppers"
+    "target": "chonga"
   },
   {
     "source": "bobby-soxer",
@@ -46243,15 +46179,15 @@ const connections = [
   },
   {
     "source": "botswana-metalheads",
-    "target": "zef"
+    "target": "oi-skinhead"
   },
   {
     "source": "botswana-metalheads",
-    "target": "rolinga"
+    "target": "poppers"
   },
   {
     "source": "botswana-metalheads",
-    "target": "chonga"
+    "target": "halbstarke"
   },
   {
     "source": "botswana-metalheads",
@@ -46259,51 +46195,31 @@ const connections = [
   },
   {
     "source": "botswana-metalheads",
-    "target": "cumbiero"
+    "target": "cholombiano"
   },
   {
     "source": "cholo",
-    "target": "zef"
+    "target": "oi-skinhead"
   },
   {
     "source": "cholo",
-    "target": "rolinga"
+    "target": "poppers"
   },
   {
     "source": "cholo",
-    "target": "chonga"
+    "target": "halbstarke"
   },
   {
     "source": "cholo",
-    "target": "cumbiero"
+    "target": "cholombiano"
   },
   {
     "source": "cholombiano",
-    "target": "zef"
-  },
-  {
-    "source": "cholombiano",
-    "target": "rolinga"
-  },
-  {
-    "source": "cholombiano",
-    "target": "chonga"
-  },
-  {
-    "source": "cholombiano",
-    "target": "cumbiero"
-  },
-  {
-    "source": "cholombiano",
-    "target": "rockers"
+    "target": "oi-skinhead"
   },
   {
     "source": "cholombiano",
     "target": "poppers"
-  },
-  {
-    "source": "cholombiano",
-    "target": "flaite"
   },
   {
     "source": "cholombiano",
@@ -46311,31 +46227,51 @@ const connections = [
   },
   {
     "source": "chonga",
-    "target": "zef"
+    "target": "oi-skinhead"
   },
   {
     "source": "chonga",
-    "target": "rolinga"
-  },
-  {
-    "source": "cumbiero",
-    "target": "zef"
-  },
-  {
-    "source": "cumbiero",
-    "target": "rolinga"
-  },
-  {
-    "source": "flaite",
-    "target": "rockers"
-  },
-  {
-    "source": "flaite",
     "target": "poppers"
   },
   {
-    "source": "flaite",
+    "source": "chonga",
     "target": "halbstarke"
+  },
+  {
+    "source": "chonga",
+    "target": "new-primitivism"
+  },
+  {
+    "source": "chonga",
+    "target": "cumbiero"
+  },
+  {
+    "source": "cumbiero",
+    "target": "oi-skinhead"
+  },
+  {
+    "source": "cumbiero",
+    "target": "poppers"
+  },
+  {
+    "source": "cumbiero",
+    "target": "halbstarke"
+  },
+  {
+    "source": "cumbiero",
+    "target": "new-primitivism"
+  },
+  {
+    "source": "cumbiero",
+    "target": "parisian-apaches"
+  },
+  {
+    "source": "cumbiero",
+    "target": "skhothane"
+  },
+  {
+    "source": "cumbiero",
+    "target": "swingjugend"
   },
   {
     "source": "flaite",
@@ -46343,27 +46279,31 @@ const connections = [
   },
   {
     "source": "flaite",
+    "target": "parisian-apaches"
+  },
+  {
+    "source": "flaite",
+    "target": "skhothane"
+  },
+  {
+    "source": "flaite",
     "target": "swingjugend"
   },
   {
     "source": "flaite",
-    "target": "parisian-apaches"
+    "target": "suedehead"
   },
   {
     "source": "flaite",
     "target": "leather-subculture"
   },
   {
-    "source": "flogger",
+    "source": "flaite",
+    "target": "sharpies"
+  },
+  {
+    "source": "flaite",
     "target": "rockers"
-  },
-  {
-    "source": "flogger",
-    "target": "poppers"
-  },
-  {
-    "source": "flogger",
-    "target": "halbstarke"
   },
   {
     "source": "flogger",
@@ -46371,11 +46311,19 @@ const connections = [
   },
   {
     "source": "flogger",
+    "target": "parisian-apaches"
+  },
+  {
+    "source": "flogger",
+    "target": "skhothane"
+  },
+  {
+    "source": "flogger",
     "target": "swingjugend"
   },
   {
     "source": "flogger",
-    "target": "parisian-apaches"
+    "target": "suedehead"
   },
   {
     "source": "flogger",
@@ -46383,35 +46331,11 @@ const connections = [
   },
   {
     "source": "flogger",
-    "target": "suedehead"
+    "target": "sharpies"
   },
   {
-    "source": "halbstarke",
+    "source": "flogger",
     "target": "rockers"
-  },
-  {
-    "source": "halbstarke",
-    "target": "poppers"
-  },
-  {
-    "source": "halbstarke",
-    "target": "new-primitivism"
-  },
-  {
-    "source": "halbstarke",
-    "target": "swingjugend"
-  },
-  {
-    "source": "halbstarke",
-    "target": "parisian-apaches"
-  },
-  {
-    "source": "leather-subculture",
-    "target": "rockers"
-  },
-  {
-    "source": "leather-subculture",
-    "target": "poppers"
   },
   {
     "source": "leather-subculture",
@@ -46419,50 +46343,26 @@ const connections = [
   },
   {
     "source": "leather-subculture",
-    "target": "swingjugend"
-  },
-  {
-    "source": "leather-subculture",
     "target": "parisian-apaches"
   },
   {
     "source": "leather-subculture",
-    "target": "suedehead"
+    "target": "skhothane"
   },
   {
-    "source": "new-primitivism",
+    "source": "leather-subculture",
     "target": "swingjugend"
   },
   {
-    "source": "new-primitivism",
-    "target": "parisian-apaches"
-  },
-  {
-    "source": "new-primitivism",
+    "source": "leather-subculture",
     "target": "suedehead"
   },
   {
-    "source": "new-primitivism",
+    "source": "leather-subculture",
     "target": "sharpies"
   },
   {
-    "source": "oi-skinhead",
-    "target": "swingjugend"
-  },
-  {
-    "source": "oi-skinhead",
-    "target": "parisian-apaches"
-  },
-  {
-    "source": "oi-skinhead",
-    "target": "suedehead"
-  },
-  {
-    "source": "oi-skinhead",
-    "target": "sharpies"
-  },
-  {
-    "source": "oi-skinhead",
+    "source": "parisian-apaches",
     "target": "skhothane"
   },
   {
@@ -46472,6 +46372,54 @@ const connections = [
   {
     "source": "parisian-apaches",
     "target": "suedehead"
+  },
+  {
+    "source": "parisian-apaches",
+    "target": "sharpies"
+  },
+  {
+    "source": "rockers",
+    "target": "skhothane"
+  },
+  {
+    "source": "rockers",
+    "target": "swingjugend"
+  },
+  {
+    "source": "rockers",
+    "target": "suedehead"
+  },
+  {
+    "source": "rockers",
+    "target": "sharpies"
+  },
+  {
+    "source": "rockers",
+    "target": "zef"
+  },
+  {
+    "source": "rockers",
+    "target": "rolinga"
+  },
+  {
+    "source": "rolinga",
+    "target": "skhothane"
+  },
+  {
+    "source": "rolinga",
+    "target": "swingjugend"
+  },
+  {
+    "source": "rolinga",
+    "target": "suedehead"
+  },
+  {
+    "source": "rolinga",
+    "target": "sharpies"
+  },
+  {
+    "source": "rolinga",
+    "target": "zef"
   },
   {
     "source": "seapunk",
@@ -46479,19 +46427,15 @@ const connections = [
   },
   {
     "source": "sharpies",
-    "target": "swingjugend"
-  },
-  {
-    "source": "sharpies",
-    "target": "suedehead"
-  },
-  {
-    "source": "sharpies",
     "target": "skhothane"
   },
   {
-    "source": "skhothane",
-    "target": "suedehead"
+    "source": "sharpies",
+    "target": "swingjugend"
+  },
+  {
+    "source": "suedehead",
+    "target": "zef"
   },
   {
     "source": "cleancore",
@@ -46503,47 +46447,31 @@ const connections = [
   },
   {
     "source": "angura-kei",
-    "target": "sharpies"
+    "target": "zef"
   },
   {
     "source": "angura-kei",
-    "target": "oi-skinhead"
-  },
-  {
-    "source": "angura-kei",
-    "target": "skhothane"
+    "target": "rolinga"
   },
   {
     "source": "ballroom-culture",
-    "target": "sharpies"
+    "target": "zef"
   },
   {
     "source": "ballroom-culture",
-    "target": "oi-skinhead"
-  },
-  {
-    "source": "ballroom-culture",
-    "target": "skhothane"
+    "target": "rolinga"
   },
   {
     "source": "bills",
-    "target": "sharpies"
-  },
-  {
-    "source": "bills",
-    "target": "oi-skinhead"
-  },
-  {
-    "source": "bills",
-    "target": "skhothane"
+    "target": "zef"
   },
   {
     "source": "bodikon",
-    "target": "skhothane"
+    "target": "zef"
   },
   {
     "source": "choni",
-    "target": "skhothane"
+    "target": "zef"
   },
   {
     "source": "soviet-nostalgia",
@@ -46555,67 +46483,87 @@ const connections = [
   },
   {
     "source": "angura-kei",
-    "target": "pmc-ryodan"
+    "target": "maranza"
   },
   {
     "source": "angura-kei",
-    "target": "zazou"
+    "target": "pachuco"
   },
   {
     "source": "angura-kei",
-    "target": "sloanie"
+    "target": "gopnik"
   },
   {
     "source": "angura-kei",
-    "target": "teddy-boys"
+    "target": "la-sape"
+  },
+  {
+    "source": "angura-kei",
+    "target": "club-kids"
   },
   {
     "source": "ballroom-culture",
-    "target": "pmc-ryodan"
+    "target": "maranza"
   },
   {
     "source": "ballroom-culture",
-    "target": "zazou"
+    "target": "pachuco"
   },
   {
     "source": "ballroom-culture",
-    "target": "sloanie"
+    "target": "gopnik"
   },
   {
     "source": "ballroom-culture",
-    "target": "teddy-boys"
+    "target": "la-sape"
+  },
+  {
+    "source": "ballroom-culture",
+    "target": "club-kids"
   },
   {
     "source": "bills",
-    "target": "pmc-ryodan"
+    "target": "maranza"
   },
   {
     "source": "bills",
-    "target": "zazou"
+    "target": "pachuco"
   },
   {
     "source": "bills",
-    "target": "sloanie"
+    "target": "gopnik"
   },
   {
     "source": "bills",
-    "target": "teddy-boys"
+    "target": "la-sape"
+  },
+  {
+    "source": "bills",
+    "target": "club-kids"
+  },
+  {
+    "source": "bills",
+    "target": "surfer"
   },
   {
     "source": "bodikon",
-    "target": "pmc-ryodan"
+    "target": "maranza"
   },
   {
     "source": "bodikon",
-    "target": "zazou"
+    "target": "pachuco"
   },
   {
     "source": "bodikon",
-    "target": "sloanie"
+    "target": "gopnik"
   },
   {
     "source": "bodikon",
-    "target": "teddy-boys"
+    "target": "la-sape"
+  },
+  {
+    "source": "bodikon",
+    "target": "club-kids"
   },
   {
     "source": "bodikon",
@@ -46626,118 +46574,74 @@ const connections = [
     "target": "raxet"
   },
   {
-    "source": "bodikon",
-    "target": "partille-johnny"
+    "source": "choni",
+    "target": "maranza"
   },
   {
     "source": "choni",
-    "target": "pmc-ryodan"
+    "target": "pachuco"
   },
   {
     "source": "choni",
-    "target": "zazou"
+    "target": "gopnik"
   },
   {
     "source": "choni",
-    "target": "sloanie"
+    "target": "la-sape"
   },
   {
     "source": "choni",
-    "target": "teddy-boys"
+    "target": "club-kids"
   },
   {
     "source": "choni",
     "target": "surfer"
   },
   {
-    "source": "choni",
-    "target": "raxet"
+    "source": "club-kids",
+    "target": "maranza"
   },
   {
     "source": "club-kids",
-    "target": "pmc-ryodan"
-  },
-  {
-    "source": "club-kids",
-    "target": "zazou"
-  },
-  {
-    "source": "club-kids",
-    "target": "sloanie"
-  },
-  {
-    "source": "club-kids",
-    "target": "teddy-boys"
-  },
-  {
-    "source": "club-kids",
-    "target": "surfer"
-  },
-  {
-    "source": "club-kids",
-    "target": "raxet"
-  },
-  {
-    "source": "club-kids",
-    "target": "partille-johnny"
+    "target": "pachuco"
   },
   {
     "source": "dresiarz",
-    "target": "pmc-ryodan"
+    "target": "maranza"
   },
   {
     "source": "dresiarz",
-    "target": "zazou"
-  },
-  {
-    "source": "dresiarz",
-    "target": "sloanie"
-  },
-  {
-    "source": "dresiarz",
-    "target": "teddy-boys"
-  },
-  {
-    "source": "dresiarz",
-    "target": "surfer"
-  },
-  {
-    "source": "dresiarz",
-    "target": "raxet"
-  },
-  {
-    "source": "dresiarz",
-    "target": "partille-johnny"
+    "target": "pachuco"
   },
   {
     "source": "dresiarz",
     "target": "gopnik"
   },
   {
-    "source": "gopnik",
+    "source": "dresiarz",
+    "target": "la-sape"
+  },
+  {
+    "source": "dresiarz",
     "target": "surfer"
   },
   {
-    "source": "gopnik",
+    "source": "dresiarz",
     "target": "raxet"
   },
   {
-    "source": "gopnik",
-    "target": "partille-johnny"
+    "source": "dresiarz",
+    "target": "nerd"
+  },
+  {
+    "source": "dresiarz",
+    "target": "sloanie"
   },
   {
     "source": "gopnik",
     "target": "la-sape"
   },
   {
-    "source": "gopnik",
-    "target": "jejemon"
-  },
-  {
-    "source": "gopnik",
-    "target": "swenkas"
-  },
-  {
     "source": "jejemon",
     "target": "surfer"
   },
@@ -46747,11 +46651,15 @@ const connections = [
   },
   {
     "source": "jejemon",
-    "target": "partille-johnny"
+    "target": "nerd"
   },
   {
     "source": "jejemon",
-    "target": "la-sape"
+    "target": "sloanie"
+  },
+  {
+    "source": "jejemon",
+    "target": "zazou"
   },
   {
     "source": "jejemon",
@@ -46759,27 +46667,7 @@ const connections = [
   },
   {
     "source": "jejemon",
-    "target": "maranza"
-  },
-  {
-    "source": "la-sape",
-    "target": "surfer"
-  },
-  {
-    "source": "la-sape",
-    "target": "raxet"
-  },
-  {
-    "source": "la-sape",
-    "target": "partille-johnny"
-  },
-  {
-    "source": "la-sape",
-    "target": "swenkas"
-  },
-  {
-    "source": "la-sape",
-    "target": "maranza"
+    "target": "mall-ninja"
   },
   {
     "source": "mall-ninja",
@@ -46788,18 +46676,6 @@ const connections = [
   {
     "source": "mall-ninja",
     "target": "raxet"
-  },
-  {
-    "source": "mall-ninja",
-    "target": "partille-johnny"
-  },
-  {
-    "source": "mall-ninja",
-    "target": "swenkas"
-  },
-  {
-    "source": "mall-ninja",
-    "target": "maranza"
   },
   {
     "source": "mall-ninja",
@@ -46807,31 +46683,99 @@ const connections = [
   },
   {
     "source": "mall-ninja",
-    "target": "pachuco"
+    "target": "sloanie"
   },
   {
-    "source": "maranza",
+    "source": "mall-ninja",
+    "target": "zazou"
+  },
+  {
+    "source": "mall-ninja",
     "target": "swenkas"
   },
   {
-    "source": "maranza",
-    "target": "nerd"
+    "source": "nerd",
+    "target": "surfer"
   },
   {
-    "source": "maranza",
-    "target": "pachuco"
+    "source": "nerd",
+    "target": "raxet"
+  },
+  {
+    "source": "nerd",
+    "target": "sloanie"
+  },
+  {
+    "source": "nerd",
+    "target": "zazou"
   },
   {
     "source": "nerd",
     "target": "swenkas"
   },
   {
-    "source": "nerd",
-    "target": "pachuco"
+    "source": "partille-johnny",
+    "target": "surfer"
   },
   {
-    "source": "pachuco",
+    "source": "partille-johnny",
+    "target": "raxet"
+  },
+  {
+    "source": "partille-johnny",
+    "target": "sloanie"
+  },
+  {
+    "source": "partille-johnny",
+    "target": "zazou"
+  },
+  {
+    "source": "partille-johnny",
     "target": "swenkas"
+  },
+  {
+    "source": "partille-johnny",
+    "target": "teddy-boys"
+  },
+  {
+    "source": "partille-johnny",
+    "target": "pmc-ryodan"
+  },
+  {
+    "source": "pmc-ryodan",
+    "target": "raxet"
+  },
+  {
+    "source": "pmc-ryodan",
+    "target": "sloanie"
+  },
+  {
+    "source": "pmc-ryodan",
+    "target": "zazou"
+  },
+  {
+    "source": "pmc-ryodan",
+    "target": "swenkas"
+  },
+  {
+    "source": "pmc-ryodan",
+    "target": "teddy-boys"
+  },
+  {
+    "source": "raxet",
+    "target": "sloanie"
+  },
+  {
+    "source": "swenkas",
+    "target": "zazou"
+  },
+  {
+    "source": "swenkas",
+    "target": "teddy-boys"
+  },
+  {
+    "source": "teddy-boys",
+    "target": "zazou"
   },
   {
     "source": "surreal-meme",
@@ -46839,55 +46783,47 @@ const connections = [
   },
   {
     "source": "dark-culture",
-    "target": "maranza"
+    "target": "swenkas"
   },
   {
     "source": "dark-culture",
-    "target": "nerd"
+    "target": "partille-johnny"
   },
   {
     "source": "dark-culture",
-    "target": "pachuco"
+    "target": "teddy-boys"
+  },
+  {
+    "source": "dark-culture",
+    "target": "pmc-ryodan"
   },
   {
     "source": "bro-culture",
-    "target": "nerd"
+    "target": "teddy-boys"
+  },
+  {
+    "source": "cani",
+    "target": "teddy-boys"
+  },
+  {
+    "source": "dark-culture",
+    "target": "stilyagi"
   },
   {
     "source": "bro-culture",
-    "target": "pachuco"
-  },
-  {
-    "source": "cani",
-    "target": "nerd"
-  },
-  {
-    "source": "cani",
-    "target": "pachuco"
-  },
-  {
-    "source": "fjortis",
-    "target": "nerd"
-  },
-  {
-    "source": "fjortis",
-    "target": "pachuco"
+    "target": "dark-culture"
   },
   {
     "source": "dark-culture",
-    "target": "tomboy"
+    "target": "pokero"
   },
   {
-    "source": "dark-culture",
-    "target": "metalhead"
+    "source": "bro-culture",
+    "target": "stilyagi"
   },
   {
-    "source": "dark-culture",
-    "target": "shamate"
-  },
-  {
-    "source": "dark-culture",
-    "target": "fjortis"
+    "source": "bro-culture",
+    "target": "pokero"
   },
   {
     "source": "bro-culture",
@@ -46895,63 +46831,79 @@ const connections = [
   },
   {
     "source": "bro-culture",
+    "target": "raggare"
+  },
+  {
+    "source": "bro-culture",
+    "target": "cani"
+  },
+  {
+    "source": "cani",
+    "target": "stilyagi"
+  },
+  {
+    "source": "cani",
+    "target": "pokero"
+  },
+  {
+    "source": "cani",
+    "target": "tomboy"
+  },
+  {
+    "source": "cani",
+    "target": "raggare"
+  },
+  {
+    "source": "fjortis",
+    "target": "stilyagi"
+  },
+  {
+    "source": "fjortis",
+    "target": "pokero"
+  },
+  {
+    "source": "fjortis",
+    "target": "tomboy"
+  },
+  {
+    "source": "fjortis",
+    "target": "raggare"
+  },
+  {
+    "source": "fjortis",
     "target": "metalhead"
   },
   {
-    "source": "bro-culture",
-    "target": "shamate"
+    "source": "fjortis",
+    "target": "paninaro"
   },
   {
-    "source": "bro-culture",
-    "target": "fjortis"
-  },
-  {
-    "source": "bro-culture",
+    "source": "fjortis",
     "target": "ultras"
   },
   {
-    "source": "cani",
-    "target": "tomboy"
-  },
-  {
-    "source": "cani",
-    "target": "metalhead"
-  },
-  {
-    "source": "cani",
-    "target": "shamate"
-  },
-  {
-    "source": "cani",
-    "target": "fjortis"
-  },
-  {
     "source": "fjortis",
-    "target": "tomboy"
-  },
-  {
-    "source": "fjortis",
-    "target": "metalhead"
-  },
-  {
-    "source": "mandrake",
-    "target": "tomboy"
-  },
-  {
-    "source": "mandrake",
-    "target": "metalhead"
-  },
-  {
-    "source": "mandrake",
     "target": "shamate"
-  },
-  {
-    "source": "mandrake",
-    "target": "ultras"
   },
   {
     "source": "mandrake",
     "target": "stilyagi"
+  },
+  {
+    "source": "mandrake",
+    "target": "pokero"
+  },
+  {
+    "source": "mandrake",
+    "target": "tomboy"
+  },
+  {
+    "source": "mandrake",
+    "target": "raggare"
+  },
+  {
+    "source": "mandrake",
+    "target": "metalhead"
   },
   {
     "source": "mandrake",
@@ -46959,6 +46911,14 @@ const connections = [
   },
   {
     "source": "mandrake",
+    "target": "ultras"
+  },
+  {
+    "source": "metalhead",
+    "target": "stilyagi"
+  },
+  {
+    "source": "metalhead",
     "target": "pokero"
   },
   {
@@ -46967,7 +46927,11 @@ const connections = [
   },
   {
     "source": "metalhead",
-    "target": "shamate"
+    "target": "raggare"
+  },
+  {
+    "source": "metalhead",
+    "target": "paninaro"
   },
   {
     "source": "metalhead",
@@ -46975,15 +46939,11 @@ const connections = [
   },
   {
     "source": "milipili",
-    "target": "shamate"
+    "target": "tomboy"
   },
   {
     "source": "milipili",
-    "target": "ultras"
-  },
-  {
-    "source": "milipili",
-    "target": "stilyagi"
+    "target": "raggare"
   },
   {
     "source": "milipili",
@@ -46991,14 +46951,10 @@ const connections = [
   },
   {
     "source": "milipili",
-    "target": "pokero"
+    "target": "ultras"
   },
   {
     "source": "milipili",
-    "target": "raggare"
-  },
-  {
-    "source": "paninaro",
     "target": "shamate"
   },
   {
@@ -47007,187 +46963,163 @@ const connections = [
   },
   {
     "source": "paninaro",
-    "target": "stilyagi"
+    "target": "shamate"
   },
   {
-    "source": "paninaro",
-    "target": "pokero"
-  },
-  {
-    "source": "paninaro",
-    "target": "raggare"
-  },
-  {
-    "source": "pokero",
+    "source": "shamate",
     "target": "ultras"
-  },
-  {
-    "source": "pokero",
-    "target": "stilyagi"
-  },
-  {
-    "source": "pokero",
-    "target": "raggare"
-  },
-  {
-    "source": "raggare",
-    "target": "ultras"
-  },
-  {
-    "source": "raggare",
-    "target": "stilyagi"
-  },
-  {
-    "source": "biker",
-    "target": "stilyagi"
   },
   {
     "source": "biker",
     "target": "paninaro"
+  },
+  {
+    "source": "biker",
+    "target": "ultras"
+  },
+  {
+    "source": "biker",
+    "target": "shamate"
   },
   {
     "source": "biker",
     "target": "milipili"
   },
   {
-    "source": "biker",
-    "target": "raggare"
+    "source": "bondage",
+    "target": "paninaro"
+  },
+  {
+    "source": "bondage",
+    "target": "shamate"
   },
   {
     "source": "bondage",
     "target": "milipili"
   },
   {
+    "source": "bosozoku",
+    "target": "shamate"
+  },
+  {
+    "source": "bosozoku",
+    "target": "milipili"
+  },
+  {
     "source": "biker",
-    "target": "bosozoku"
-  },
-  {
-    "source": "bondage",
-    "target": "bosozoku"
-  },
-  {
-    "source": "bondage",
-    "target": "flapper"
-  },
-  {
-    "source": "bondage",
-    "target": "juggalo"
-  },
-  {
-    "source": "bondage",
-    "target": "hypebeast"
-  },
-  {
-    "source": "bondage",
-    "target": "yuppie"
-  },
-  {
-    "source": "bondage",
-    "target": "poppare"
-  },
-  {
-    "source": "bosozoku",
-    "target": "flapper"
-  },
-  {
-    "source": "bosozoku",
-    "target": "juggalo"
-  },
-  {
-    "source": "bosozoku",
-    "target": "hypebeast"
-  },
-  {
-    "source": "casuals",
-    "target": "flapper"
-  },
-  {
-    "source": "casuals",
-    "target": "juggalo"
-  },
-  {
-    "source": "casuals",
-    "target": "hypebeast"
-  },
-  {
-    "source": "casuals",
-    "target": "yuppie"
-  },
-  {
-    "source": "casuals",
-    "target": "poppare"
-  },
-  {
-    "source": "casuals",
     "target": "minet"
   },
   {
-    "source": "casuals",
-    "target": "yabi"
-  },
-  {
-    "source": "flapper",
-    "target": "juggalo"
-  },
-  {
-    "source": "flapper",
-    "target": "hypebeast"
-  },
-  {
-    "source": "flapper",
-    "target": "yuppie"
-  },
-  {
-    "source": "hypebeast",
-    "target": "juggalo"
-  },
-  {
-    "source": "juggalo",
-    "target": "yuppie"
-  },
-  {
-    "source": "juggalo",
-    "target": "poppare"
-  },
-  {
-    "source": "juggalo",
+    "source": "bondage",
     "target": "minet"
   },
   {
-    "source": "minet",
-    "target": "yuppie"
+    "source": "bondage",
+    "target": "hypebeast"
   },
   {
-    "source": "minet",
-    "target": "poppare"
-  },
-  {
-    "source": "minet",
-    "target": "yabi"
-  },
-  {
-    "source": "minet",
+    "source": "bondage",
     "target": "new-partisans"
   },
   {
-    "source": "new-partisans",
+    "source": "bondage",
+    "target": "poppare"
+  },
+  {
+    "source": "bosozoku",
+    "target": "minet"
+  },
+  {
+    "source": "bosozoku",
+    "target": "hypebeast"
+  },
+  {
+    "source": "bosozoku",
+    "target": "new-partisans"
+  },
+  {
+    "source": "casuals",
+    "target": "minet"
+  },
+  {
+    "source": "casuals",
+    "target": "hypebeast"
+  },
+  {
+    "source": "casuals",
+    "target": "new-partisans"
+  },
+  {
+    "source": "casuals",
+    "target": "poppare"
+  },
+  {
+    "source": "casuals",
+    "target": "yabi"
+  },
+  {
+    "source": "casuals",
+    "target": "flapper"
+  },
+  {
+    "source": "casuals",
+    "target": "yuppie"
+  },
+  {
+    "source": "flapper",
+    "target": "minet"
+  },
+  {
+    "source": "flapper",
+    "target": "hypebeast"
+  },
+  {
+    "source": "flapper",
+    "target": "new-partisans"
+  },
+  {
+    "source": "flapper",
+    "target": "poppare"
+  },
+  {
+    "source": "flapper",
+    "target": "yabi"
+  },
+  {
+    "source": "hypebeast",
+    "target": "minet"
+  },
+  {
+    "source": "juggalo",
+    "target": "new-partisans"
+  },
+  {
+    "source": "juggalo",
+    "target": "poppare"
+  },
+  {
+    "source": "juggalo",
+    "target": "yabi"
+  },
+  {
+    "source": "juggalo",
     "target": "yuppie"
   },
   {
     "source": "new-partisans",
     "target": "poppare"
-  },
-  {
-    "source": "new-partisans",
-    "target": "yabi"
   },
   {
     "source": "poppare",
     "target": "yabi"
   },
   {
-    "source": "greaser",
-    "target": "poppare"
+    "source": "poppare",
+    "target": "yuppie"
+  },
+  {
+    "source": "yabi",
+    "target": "yuppie"
   },
   {
     "source": "greaser",
@@ -47195,15 +47127,23 @@ const connections = [
   },
   {
     "source": "greaser",
-    "target": "new-partisans"
+    "target": "yuppie"
+  },
+  {
+    "source": "greaser",
+    "target": "juggalo"
   },
   {
     "source": "guido",
-    "target": "yabi"
+    "target": "yuppie"
   },
   {
     "source": "guido",
-    "target": "new-partisans"
+    "target": "juggalo"
+  },
+  {
+    "source": "juggalo",
+    "target": "lad-culture"
   },
   {
     "source": "greaser",
@@ -47214,8 +47154,12 @@ const connections = [
     "target": "lad-culture"
   },
   {
+    "source": "gutter-punk",
+    "target": "juggalo"
+  },
+  {
     "source": "guido",
-    "target": "northern-soul"
+    "target": "otaku"
   },
   {
     "source": "guido",
@@ -47227,7 +47171,7 @@ const connections = [
   },
   {
     "source": "guido",
-    "target": "otaku"
+    "target": "northern-soul"
   },
   {
     "source": "gutter-punk",
@@ -47235,7 +47179,7 @@ const connections = [
   },
   {
     "source": "lad-culture",
-    "target": "northern-soul"
+    "target": "otaku"
   },
   {
     "source": "lad-culture",
@@ -47243,31 +47187,23 @@ const connections = [
   },
   {
     "source": "lad-culture",
-    "target": "otaku"
-  },
-  {
-    "source": "gutter-punk",
     "target": "northern-soul"
   },
   {
     "source": "gutter-punk",
-    "target": "pijo"
+    "target": "otaku"
   },
   {
     "source": "gutter-punk",
-    "target": "otaku"
-  },
-  {
-    "source": "krocha",
-    "target": "lad-culture"
-  },
-  {
-    "source": "northern-soul",
     "target": "pijo"
   },
   {
     "source": "northern-soul",
     "target": "otaku"
+  },
+  {
+    "source": "northern-soul",
+    "target": "pijo"
   },
   {
     "source": "otaku",
@@ -47278,32 +47214,44 @@ const connections = [
     "target": "northern-soul"
   },
   {
-    "source": "krocha",
-    "target": "tecktonik"
+    "source": "northern-soul",
+    "target": "skater"
   },
   {
     "source": "krocha",
     "target": "skater"
+  },
+  {
+    "source": "krocha",
+    "target": "tecktonik"
   },
   {
     "source": "skater",
     "target": "tecktonik"
   },
   {
+    "source": "deathrock",
+    "target": "herki"
+  },
+  {
     "source": "jirai-kei",
-    "target": "krocha"
+    "target": "skater"
   },
   {
     "source": "krocha",
     "target": "rivethead"
   },
   {
-    "source": "rivethead",
-    "target": "tecktonik"
+    "source": "krocha",
+    "target": "wixa"
   },
   {
     "source": "rivethead",
     "target": "skater"
+  },
+  {
+    "source": "rivethead",
+    "target": "tecktonik"
   },
   {
     "source": "skater",
@@ -47314,24 +47262,24 @@ const connections = [
     "target": "wixa"
   },
   {
-    "source": "mod",
-    "target": "tecktonik"
+    "source": "krocha",
+    "target": "visual-kei"
   },
   {
     "source": "mod",
-    "target": "skater"
+    "target": "tecktonik"
   },
   {
     "source": "rivethead",
     "target": "wixa"
   },
   {
-    "source": "skater",
-    "target": "visual-kei"
+    "source": "mod",
+    "target": "rivethead"
   },
   {
     "source": "mod",
-    "target": "rivethead"
+    "target": "wixa"
   },
   {
     "source": "rivethead",
@@ -47343,15 +47291,11 @@ const connections = [
   },
   {
     "source": "bakala",
-    "target": "wixa"
-  },
-  {
-    "source": "decora",
-    "target": "wixa"
+    "target": "decora"
   },
   {
     "source": "bakala",
-    "target": "hippie"
+    "target": "scene"
   },
   {
     "source": "bakala",
@@ -47359,7 +47303,7 @@ const connections = [
   },
   {
     "source": "bakala",
-    "target": "scene"
+    "target": "hippie"
   },
   {
     "source": "bubblegum-dance",
@@ -47367,11 +47311,11 @@ const connections = [
   },
   {
     "source": "bakala",
-    "target": "hipster"
+    "target": "herki"
   },
   {
     "source": "bakala",
-    "target": "herki"
+    "target": "hipster"
   },
   {
     "source": "hippie",
@@ -47379,11 +47323,11 @@ const connections = [
   },
   {
     "source": "herki",
-    "target": "hippie"
+    "target": "scene"
   },
   {
     "source": "herki",
-    "target": "scene"
+    "target": "hippie"
   },
   {
     "source": "bakala",
@@ -47392,10 +47336,6 @@ const connections = [
   {
     "source": "herki",
     "target": "rave"
-  },
-  {
-    "source": "herki",
-    "target": "skinhead"
   },
   {
     "source": "femboy",
@@ -47447,15 +47387,15 @@ const connections = [
   },
   {
     "source": "e-girl",
+    "target": "neko"
+  },
+  {
+    "source": "e-girl",
     "target": "puppygirl"
   },
   {
     "source": "e-girl",
     "target": "kuromicore"
-  },
-  {
-    "source": "e-girl",
-    "target": "neko"
   },
   {
     "source": "e-girl",
@@ -47475,223 +47415,251 @@ const connections = [
   },
   {
     "source": "bloomcore",
-    "target": "lo-fi-art"
+    "target": "goreweb"
   },
   {
     "source": "bloomcore",
-    "target": "plant-mom"
+    "target": "frogcore"
   },
   {
     "source": "bloomcore",
-    "target": "grandmacore"
-  },
-  {
-    "source": "bloomcore",
-    "target": "dreamcore"
-  },
-  {
-    "source": "bloomcore",
-    "target": "slavic-violence-tumblr"
-  },
-  {
-    "source": "bloomcore",
-    "target": "hyperborean"
-  },
-  {
-    "source": "bloomcore",
-    "target": "korean-cozy-beige"
-  },
-  {
-    "source": "bloomcore",
-    "target": "fallen-angel"
-  },
-  {
-    "source": "chaotic-academia",
-    "target": "lo-fi-art"
-  },
-  {
-    "source": "chaotic-academia",
-    "target": "plant-mom"
-  },
-  {
-    "source": "chaotic-academia",
-    "target": "grandmacore"
-  },
-  {
-    "source": "chaotic-academia",
-    "target": "dreamcore"
-  },
-  {
-    "source": "chaotic-academia",
-    "target": "slavic-violence-tumblr"
-  },
-  {
-    "source": "chaotic-academia",
-    "target": "hyperborean"
-  },
-  {
-    "source": "chaotic-academia",
-    "target": "korean-cozy-beige"
-  },
-  {
-    "source": "chaotic-academia",
-    "target": "fallen-angel"
-  },
-  {
-    "source": "cottagegoth",
-    "target": "lo-fi-art"
-  },
-  {
-    "source": "cottagegoth",
-    "target": "plant-mom"
-  },
-  {
-    "source": "cottagegoth",
-    "target": "grandmacore"
-  },
-  {
-    "source": "cottagegoth",
-    "target": "dreamcore"
-  },
-  {
-    "source": "cottagegoth",
-    "target": "slavic-violence-tumblr"
-  },
-  {
-    "source": "cottagegoth",
-    "target": "hyperborean"
-  },
-  {
-    "source": "cottagegoth",
-    "target": "korean-cozy-beige"
-  },
-  {
-    "source": "cottagegoth",
-    "target": "fallen-angel"
-  },
-  {
-    "source": "draincore",
-    "target": "lo-fi-art"
-  },
-  {
-    "source": "draincore",
-    "target": "plant-mom"
-  },
-  {
-    "source": "draincore",
-    "target": "grandmacore"
-  },
-  {
-    "source": "draincore",
-    "target": "dreamcore"
-  },
-  {
-    "source": "draincore",
-    "target": "slavic-violence-tumblr"
-  },
-  {
-    "source": "draincore",
-    "target": "hyperborean"
-  },
-  {
-    "source": "draincore",
-    "target": "korean-cozy-beige"
-  },
-  {
-    "source": "draincore",
-    "target": "fallen-angel"
-  },
-  {
-    "source": "dreamcore",
-    "target": "lo-fi-art"
-  },
-  {
-    "source": "dreamcore",
-    "target": "plant-mom"
-  },
-  {
-    "source": "dreamcore",
-    "target": "grandmacore"
-  },
-  {
-    "source": "dreamcore",
-    "target": "slavic-violence-tumblr"
-  },
-  {
-    "source": "fallen-angel",
-    "target": "lo-fi-art"
-  },
-  {
-    "source": "fallen-angel",
-    "target": "plant-mom"
-  },
-  {
-    "source": "fallen-angel",
-    "target": "grandmacore"
-  },
-  {
-    "source": "fallen-angel",
-    "target": "slavic-violence-tumblr"
-  },
-  {
-    "source": "frogcore",
-    "target": "lo-fi-art"
-  },
-  {
-    "source": "frogcore",
-    "target": "plant-mom"
-  },
-  {
-    "source": "frogcore",
-    "target": "grandmacore"
-  },
-  {
-    "source": "frogcore",
-    "target": "slavic-violence-tumblr"
-  },
-  {
-    "source": "frogcore",
-    "target": "hyperborean"
-  },
-  {
-    "source": "frogcore",
-    "target": "korean-cozy-beige"
-  },
-  {
-    "source": "frogcore",
     "target": "teethcore"
+  },
+  {
+    "source": "bloomcore",
+    "target": "plant-mom"
+  },
+  {
+    "source": "bloomcore",
+    "target": "slavic-violence-tumblr"
+  },
+  {
+    "source": "bloomcore",
+    "target": "mosscore"
+  },
+  {
+    "source": "bloomcore",
+    "target": "korean-cozy-beige"
+  },
+  {
+    "source": "bloomcore",
+    "target": "lo-fi-art"
+  },
+  {
+    "source": "chaotic-academia",
+    "target": "goreweb"
+  },
+  {
+    "source": "chaotic-academia",
+    "target": "frogcore"
+  },
+  {
+    "source": "chaotic-academia",
+    "target": "teethcore"
+  },
+  {
+    "source": "chaotic-academia",
+    "target": "plant-mom"
+  },
+  {
+    "source": "chaotic-academia",
+    "target": "slavic-violence-tumblr"
+  },
+  {
+    "source": "chaotic-academia",
+    "target": "mosscore"
+  },
+  {
+    "source": "chaotic-academia",
+    "target": "korean-cozy-beige"
+  },
+  {
+    "source": "chaotic-academia",
+    "target": "lo-fi-art"
+  },
+  {
+    "source": "cottagegoth",
+    "target": "goreweb"
+  },
+  {
+    "source": "cottagegoth",
+    "target": "frogcore"
+  },
+  {
+    "source": "cottagegoth",
+    "target": "teethcore"
+  },
+  {
+    "source": "cottagegoth",
+    "target": "plant-mom"
+  },
+  {
+    "source": "cottagegoth",
+    "target": "slavic-violence-tumblr"
+  },
+  {
+    "source": "cottagegoth",
+    "target": "mosscore"
+  },
+  {
+    "source": "cottagegoth",
+    "target": "korean-cozy-beige"
+  },
+  {
+    "source": "cottagegoth",
+    "target": "lo-fi-art"
+  },
+  {
+    "source": "draincore",
+    "target": "goreweb"
+  },
+  {
+    "source": "draincore",
+    "target": "frogcore"
+  },
+  {
+    "source": "draincore",
+    "target": "teethcore"
+  },
+  {
+    "source": "draincore",
+    "target": "plant-mom"
+  },
+  {
+    "source": "draincore",
+    "target": "slavic-violence-tumblr"
+  },
+  {
+    "source": "draincore",
+    "target": "mosscore"
+  },
+  {
+    "source": "draincore",
+    "target": "korean-cozy-beige"
+  },
+  {
+    "source": "draincore",
+    "target": "lo-fi-art"
+  },
+  {
+    "source": "dreamcore",
+    "target": "goreweb"
+  },
+  {
+    "source": "dreamcore",
+    "target": "frogcore"
+  },
+  {
+    "source": "dreamcore",
+    "target": "teethcore"
+  },
+  {
+    "source": "dreamcore",
+    "target": "plant-mom"
+  },
+  {
+    "source": "dreamcore",
+    "target": "slavic-violence-tumblr"
+  },
+  {
+    "source": "dreamcore",
+    "target": "mosscore"
+  },
+  {
+    "source": "dreamcore",
+    "target": "korean-cozy-beige"
+  },
+  {
+    "source": "dreamcore",
+    "target": "lo-fi-art"
+  },
+  {
+    "source": "fallen-angel",
+    "target": "goreweb"
+  },
+  {
+    "source": "fallen-angel",
+    "target": "frogcore"
+  },
+  {
+    "source": "fallen-angel",
+    "target": "teethcore"
+  },
+  {
+    "source": "fallen-angel",
+    "target": "plant-mom"
+  },
+  {
+    "source": "fallen-angel",
+    "target": "slavic-violence-tumblr"
+  },
+  {
+    "source": "fallen-angel",
+    "target": "mosscore"
+  },
+  {
+    "source": "fallen-angel",
+    "target": "korean-cozy-beige"
+  },
+  {
+    "source": "fallen-angel",
+    "target": "lo-fi-art"
   },
   {
     "source": "frogcore",
     "target": "goreweb"
   },
   {
-    "source": "goreweb",
-    "target": "lo-fi-art"
+    "source": "frogcore",
+    "target": "teethcore"
   },
   {
     "source": "goreweb",
+    "target": "teethcore"
+  },
+  {
+    "source": "grandmacore",
     "target": "plant-mom"
   },
   {
-    "source": "goreweb",
-    "target": "grandmacore"
-  },
-  {
-    "source": "goreweb",
+    "source": "grandmacore",
     "target": "slavic-violence-tumblr"
   },
   {
-    "source": "goreweb",
-    "target": "hyperborean"
+    "source": "grandmacore",
+    "target": "mosscore"
   },
   {
-    "source": "goreweb",
+    "source": "grandmacore",
     "target": "korean-cozy-beige"
   },
   {
-    "source": "goreweb",
-    "target": "teethcore"
+    "source": "grandmacore",
+    "target": "lo-fi-art"
+  },
+  {
+    "source": "grandmacore",
+    "target": "lunarpunk"
+  },
+  {
+    "source": "grandmacore",
+    "target": "regencycore"
+  },
+  {
+    "source": "grandmacore",
+    "target": "russian-2k17"
+  },
+  {
+    "source": "hyperborean",
+    "target": "plant-mom"
+  },
+  {
+    "source": "hyperborean",
+    "target": "slavic-violence-tumblr"
+  },
+  {
+    "source": "hyperborean",
+    "target": "mosscore"
   },
   {
     "source": "hyperborean",
@@ -47699,63 +47667,39 @@ const connections = [
   },
   {
     "source": "hyperborean",
-    "target": "teethcore"
+    "target": "lo-fi-art"
   },
   {
-    "source": "korean-cozy-beige",
-    "target": "teethcore"
+    "source": "hyperborean",
+    "target": "lunarpunk"
   },
   {
-    "source": "lunarpunk",
-    "target": "teethcore"
+    "source": "hyperborean",
+    "target": "regencycore"
   },
   {
-    "source": "lunarpunk",
+    "source": "hyperborean",
     "target": "russian-2k17"
   },
   {
     "source": "lunarpunk",
-    "target": "mosscore"
+    "target": "regencycore"
+  },
+  {
+    "source": "lunarpunk",
+    "target": "russian-2k17"
   },
   {
     "source": "lunarpunk",
     "target": "netart"
   },
   {
-    "source": "lunarpunk",
-    "target": "regencycore"
-  },
-  {
-    "source": "mosscore",
-    "target": "teethcore"
-  },
-  {
-    "source": "mosscore",
-    "target": "russian-2k17"
-  },
-  {
-    "source": "mosscore",
-    "target": "netart"
-  },
-  {
-    "source": "mosscore",
-    "target": "regencycore"
-  },
-  {
     "source": "netart",
-    "target": "teethcore"
+    "target": "regencycore"
   },
   {
     "source": "netart",
     "target": "russian-2k17"
-  },
-  {
-    "source": "netart",
-    "target": "regencycore"
-  },
-  {
-    "source": "regencycore",
-    "target": "teethcore"
   },
   {
     "source": "regencycore",
@@ -47763,22 +47707,26 @@ const connections = [
   },
   {
     "source": "2010s-soft-kawaii",
-    "target": "russian-2k17"
-  },
-  {
-    "source": "2010s-soft-kawaii",
     "target": "lunarpunk"
   },
   {
     "source": "2010s-soft-kawaii",
-    "target": "mosscore"
+    "target": "regencycore"
+  },
+  {
+    "source": "2010s-soft-kawaii",
+    "target": "russian-2k17"
   },
   {
     "source": "2010s-soft-kawaii",
     "target": "netart"
   },
   {
-    "source": "2010s-soft-kawaii",
+    "source": "2014-girly",
+    "target": "lunarpunk"
+  },
+  {
+    "source": "2014-girly",
     "target": "regencycore"
   },
   {
@@ -47787,18 +47735,14 @@ const connections = [
   },
   {
     "source": "2014-girly",
-    "target": "lunarpunk"
-  },
-  {
-    "source": "2014-girly",
-    "target": "mosscore"
-  },
-  {
-    "source": "2014-girly",
     "target": "netart"
   },
   {
-    "source": "2014-girly",
+    "source": "analog-horror",
+    "target": "lunarpunk"
+  },
+  {
+    "source": "analog-horror",
     "target": "regencycore"
   },
   {
@@ -47807,63 +47751,63 @@ const connections = [
   },
   {
     "source": "analog-horror",
-    "target": "lunarpunk"
-  },
-  {
-    "source": "analog-horror",
-    "target": "mosscore"
-  },
-  {
-    "source": "analog-horror",
     "target": "netart"
-  },
-  {
-    "source": "analog-horror",
-    "target": "regencycore"
   },
   {
     "source": "cozy-gamer",
-    "target": "russian-2k17"
+    "target": "netart"
+  },
+  {
+    "source": "cybercore",
+    "target": "netart"
   },
   {
     "source": "2010s-soft-kawaii",
-    "target": "gloomcore"
+    "target": "studyblr"
   },
   {
     "source": "2010s-soft-kawaii",
-    "target": "pink-pilates-princess"
+    "target": "old-web"
+  },
+  {
+    "source": "2010s-soft-kawaii",
+    "target": "danish-pastel"
   },
   {
     "source": "2014-girly",
-    "target": "gloomcore"
+    "target": "studyblr"
   },
   {
     "source": "2014-girly",
-    "target": "pink-pilates-princess"
+    "target": "old-web"
   },
   {
-    "source": "analog-horror",
-    "target": "gloomcore"
-  },
-  {
-    "source": "analog-horror",
-    "target": "pink-pilates-princess"
+    "source": "2014-girly",
+    "target": "danish-pastel"
   },
   {
     "source": "analog-horror",
     "target": "studyblr"
   },
   {
-    "source": "cozy-gamer",
+    "source": "analog-horror",
+    "target": "old-web"
+  },
+  {
+    "source": "analog-horror",
+    "target": "danish-pastel"
+  },
+  {
+    "source": "analog-horror",
     "target": "gloomcore"
   },
   {
     "source": "cozy-gamer",
-    "target": "pink-pilates-princess"
+    "target": "studyblr"
   },
   {
     "source": "cozy-gamer",
-    "target": "studyblr"
+    "target": "old-web"
   },
   {
     "source": "cozy-gamer",
@@ -47871,19 +47815,15 @@ const connections = [
   },
   {
     "source": "cozy-gamer",
-    "target": "poolcore"
-  },
-  {
-    "source": "cozy-gamer",
-    "target": "old-web"
-  },
-  {
-    "source": "cybercore",
     "target": "gloomcore"
   },
   {
-    "source": "cybercore",
-    "target": "pink-pilates-princess"
+    "source": "cozy-gamer",
+    "target": "mushroomcore"
+  },
+  {
+    "source": "cozy-gamer",
+    "target": "digital-horror"
   },
   {
     "source": "cybercore",
@@ -47891,15 +47831,19 @@ const connections = [
   },
   {
     "source": "cybercore",
+    "target": "old-web"
+  },
+  {
+    "source": "cybercore",
     "target": "danish-pastel"
   },
   {
     "source": "cybercore",
-    "target": "poolcore"
+    "target": "gloomcore"
   },
   {
     "source": "cybercore",
-    "target": "old-web"
+    "target": "mushroomcore"
   },
   {
     "source": "cybercore",
@@ -47907,22 +47851,18 @@ const connections = [
   },
   {
     "source": "danish-pastel",
-    "target": "gloomcore"
-  },
-  {
-    "source": "danish-pastel",
-    "target": "pink-pilates-princess"
-  },
-  {
-    "source": "danish-pastel",
     "target": "studyblr"
   },
   {
     "source": "danish-pastel",
-    "target": "poolcore"
+    "target": "old-web"
   },
   {
-    "source": "danish-pastel",
+    "source": "digital-horror",
+    "target": "studyblr"
+  },
+  {
+    "source": "digital-horror",
     "target": "old-web"
   },
   {
@@ -47931,51 +47871,47 @@ const connections = [
   },
   {
     "source": "digital-horror",
+    "target": "mushroomcore"
+  },
+  {
+    "source": "digital-horror",
+    "target": "ghostcore"
+  },
+  {
+    "source": "digital-horror",
+    "target": "poolcore"
+  },
+  {
+    "source": "ghostcore",
+    "target": "gloomcore"
+  },
+  {
+    "source": "ghostcore",
+    "target": "mushroomcore"
+  },
+  {
+    "source": "ghostcore",
+    "target": "poolcore"
+  },
+  {
+    "source": "ghostcore",
     "target": "pink-pilates-princess"
   },
   {
-    "source": "digital-horror",
-    "target": "studyblr"
-  },
-  {
-    "source": "digital-horror",
-    "target": "poolcore"
-  },
-  {
-    "source": "digital-horror",
-    "target": "old-web"
-  },
-  {
-    "source": "digital-horror",
-    "target": "mushroomcore"
-  },
-  {
-    "source": "digital-horror",
-    "target": "green-academia"
-  },
-  {
-    "source": "ghostcore",
-    "target": "studyblr"
-  },
-  {
-    "source": "ghostcore",
-    "target": "poolcore"
-  },
-  {
-    "source": "ghostcore",
-    "target": "old-web"
-  },
-  {
-    "source": "ghostcore",
-    "target": "mushroomcore"
-  },
-  {
     "source": "ghostcore",
     "target": "green-academia"
   },
   {
+    "source": "gloomcore",
+    "target": "mushroomcore"
+  },
+  {
+    "source": "gloomcore",
+    "target": "poolcore"
+  },
+  {
     "source": "green-academia",
-    "target": "studyblr"
+    "target": "mushroomcore"
   },
   {
     "source": "green-academia",
@@ -47983,55 +47919,71 @@ const connections = [
   },
   {
     "source": "green-academia",
-    "target": "old-web"
-  },
-  {
-    "source": "green-academia",
-    "target": "mushroomcore"
+    "target": "pink-pilates-princess"
   },
   {
     "source": "mushroomcore",
     "target": "poolcore"
   },
   {
-    "source": "mushroomcore",
-    "target": "old-web"
+    "source": "pink-pilates-princess",
+    "target": "poolcore"
   },
   {
     "source": "adventurecore",
-    "target": "mushroomcore"
+    "target": "ghostcore"
+  },
+  {
+    "source": "adventurecore",
+    "target": "poolcore"
+  },
+  {
+    "source": "adventurecore",
+    "target": "pink-pilates-princess"
   },
   {
     "source": "adventurecore",
     "target": "green-academia"
   },
   {
-    "source": "adventurecore",
-    "target": "ghostcore"
-  },
-  {
-    "source": "art-hoe",
-    "target": "mushroomcore"
-  },
-  {
     "source": "art-hoe",
     "target": "ghostcore"
   },
   {
+    "source": "art-hoe",
+    "target": "pink-pilates-princess"
+  },
+  {
+    "source": "art-hoe",
+    "target": "green-academia"
+  },
+  {
     "source": "barber-beats",
-    "target": "ghostcore"
+    "target": "pink-pilates-princess"
+  },
+  {
+    "source": "barber-beats",
+    "target": "green-academia"
+  },
+  {
+    "source": "bastardcore",
+    "target": "pink-pilates-princess"
   },
   {
     "source": "adventurecore",
-    "target": "nostalgiacore"
+    "target": "webcore"
   },
   {
     "source": "adventurecore",
-    "target": "mlg"
+    "target": "cabincore"
   },
   {
-    "source": "adventurecore",
-    "target": "royalcore"
+    "source": "art-hoe",
+    "target": "webcore"
+  },
+  {
+    "source": "art-hoe",
+    "target": "cabincore"
   },
   {
     "source": "art-hoe",
@@ -48039,19 +47991,15 @@ const connections = [
   },
   {
     "source": "art-hoe",
-    "target": "mlg"
+    "target": "trxsh"
   },
   {
-    "source": "art-hoe",
-    "target": "royalcore"
+    "source": "barber-beats",
+    "target": "webcore"
   },
   {
-    "source": "art-hoe",
-    "target": "opium"
-  },
-  {
-    "source": "art-hoe",
-    "target": "princesscore"
+    "source": "barber-beats",
+    "target": "cabincore"
   },
   {
     "source": "barber-beats",
@@ -48059,27 +48007,23 @@ const connections = [
   },
   {
     "source": "barber-beats",
-    "target": "mlg"
+    "target": "trxsh"
   },
   {
     "source": "barber-beats",
-    "target": "royalcore"
-  },
-  {
-    "source": "barber-beats",
-    "target": "opium"
+    "target": "y3k"
   },
   {
     "source": "barber-beats",
     "target": "princesscore"
   },
   {
-    "source": "barber-beats",
-    "target": "vaporgoth"
+    "source": "bastardcore",
+    "target": "webcore"
   },
   {
-    "source": "barber-beats",
-    "target": "simpsonwave"
+    "source": "bastardcore",
+    "target": "cabincore"
   },
   {
     "source": "bastardcore",
@@ -48087,51 +48031,27 @@ const connections = [
   },
   {
     "source": "bastardcore",
-    "target": "mlg"
+    "target": "trxsh"
   },
   {
     "source": "bastardcore",
-    "target": "royalcore"
-  },
-  {
-    "source": "bastardcore",
-    "target": "opium"
+    "target": "y3k"
   },
   {
     "source": "bastardcore",
     "target": "princesscore"
   },
   {
-    "source": "bastardcore",
-    "target": "vaporgoth"
-  },
-  {
-    "source": "bastardcore",
-    "target": "simpsonwave"
+    "source": "cabincore",
+    "target": "webcore"
   },
   {
     "source": "cabincore",
     "target": "nostalgiacore"
   },
   {
-    "source": "cabincore",
-    "target": "mlg"
-  },
-  {
-    "source": "cabincore",
-    "target": "royalcore"
-  },
-  {
-    "source": "cabincore",
-    "target": "opium"
-  },
-  {
-    "source": "cabincore",
-    "target": "princesscore"
-  },
-  {
-    "source": "cabincore",
-    "target": "vaporgoth"
+    "source": "forestpunk",
+    "target": "webcore"
   },
   {
     "source": "forestpunk",
@@ -48139,15 +48059,11 @@ const connections = [
   },
   {
     "source": "forestpunk",
-    "target": "mlg"
+    "target": "trxsh"
   },
   {
     "source": "forestpunk",
-    "target": "royalcore"
-  },
-  {
-    "source": "forestpunk",
-    "target": "opium"
+    "target": "y3k"
   },
   {
     "source": "forestpunk",
@@ -48155,15 +48071,47 @@ const connections = [
   },
   {
     "source": "forestpunk",
-    "target": "vaporgoth"
+    "target": "wishcore"
   },
   {
     "source": "mlg",
-    "target": "opium"
+    "target": "webcore"
+  },
+  {
+    "source": "mlg",
+    "target": "nostalgiacore"
+  },
+  {
+    "source": "mlg",
+    "target": "trxsh"
+  },
+  {
+    "source": "mlg",
+    "target": "y3k"
+  },
+  {
+    "source": "mlg",
+    "target": "princesscore"
+  },
+  {
+    "source": "mlg",
+    "target": "wishcore"
+  },
+  {
+    "source": "mlg",
+    "target": "spainwave"
   },
   {
     "source": "naturecore",
-    "target": "opium"
+    "target": "webcore"
+  },
+  {
+    "source": "naturecore",
+    "target": "trxsh"
+  },
+  {
+    "source": "naturecore",
+    "target": "y3k"
   },
   {
     "source": "naturecore",
@@ -48171,27 +48119,47 @@ const connections = [
   },
   {
     "source": "naturecore",
-    "target": "vaporgoth"
+    "target": "wishcore"
   },
   {
     "source": "naturecore",
-    "target": "simpsonwave"
+    "target": "spainwave"
   },
   {
-    "source": "naturecore",
-    "target": "wonyoungism"
+    "source": "opium",
+    "target": "trxsh"
   },
   {
-    "source": "naturecore",
+    "source": "opium",
     "target": "y3k"
   },
   {
-    "source": "pastel-gore",
-    "target": "vaporgoth"
+    "source": "opium",
+    "target": "princesscore"
+  },
+  {
+    "source": "opium",
+    "target": "wishcore"
+  },
+  {
+    "source": "opium",
+    "target": "spainwave"
+  },
+  {
+    "source": "opium",
+    "target": "wonyoungism"
+  },
+  {
+    "source": "opium",
+    "target": "traumacore"
   },
   {
     "source": "pastel-gore",
-    "target": "simpsonwave"
+    "target": "wishcore"
+  },
+  {
+    "source": "pastel-gore",
+    "target": "spainwave"
   },
   {
     "source": "pastel-gore",
@@ -48199,23 +48167,43 @@ const connections = [
   },
   {
     "source": "pastel-gore",
-    "target": "y3k"
+    "target": "traumacore"
   },
   {
     "source": "pastel-gore",
-    "target": "yabujincore"
+    "target": "wizardcore"
   },
   {
     "source": "pastel-gore",
-    "target": "webcore"
+    "target": "sadgirl"
+  },
+  {
+    "source": "royalcore",
+    "target": "wishcore"
+  },
+  {
+    "source": "royalcore",
+    "target": "spainwave"
+  },
+  {
+    "source": "royalcore",
+    "target": "wonyoungism"
+  },
+  {
+    "source": "royalcore",
+    "target": "traumacore"
+  },
+  {
+    "source": "royalcore",
+    "target": "wizardcore"
+  },
+  {
+    "source": "royalcore",
+    "target": "sadgirl"
   },
   {
     "source": "sadboi",
-    "target": "vaporgoth"
-  },
-  {
-    "source": "sadboi",
-    "target": "simpsonwave"
+    "target": "spainwave"
   },
   {
     "source": "sadboi",
@@ -48223,27 +48211,27 @@ const connections = [
   },
   {
     "source": "sadboi",
-    "target": "y3k"
-  },
-  {
-    "source": "sadboi",
-    "target": "yabujincore"
-  },
-  {
-    "source": "sadboi",
-    "target": "webcore"
+    "target": "traumacore"
   },
   {
     "source": "sadboi",
     "target": "wizardcore"
   },
   {
-    "source": "sadgirl",
+    "source": "sadboi",
+    "target": "sadgirl"
+  },
+  {
+    "source": "sadboi",
+    "target": "simpsonwave"
+  },
+  {
+    "source": "sadboi",
     "target": "vaporgoth"
   },
   {
     "source": "sadgirl",
-    "target": "simpsonwave"
+    "target": "spainwave"
   },
   {
     "source": "sadgirl",
@@ -48251,15 +48239,7 @@ const connections = [
   },
   {
     "source": "sadgirl",
-    "target": "y3k"
-  },
-  {
-    "source": "sadgirl",
-    "target": "yabujincore"
-  },
-  {
-    "source": "sadgirl",
-    "target": "webcore"
+    "target": "traumacore"
   },
   {
     "source": "sadgirl",
@@ -48267,31 +48247,35 @@ const connections = [
   },
   {
     "source": "sadgirl",
+    "target": "simpsonwave"
+  },
+  {
+    "source": "simpsonwave",
+    "target": "spainwave"
+  },
+  {
+    "source": "simpsonwave",
+    "target": "wonyoungism"
+  },
+  {
+    "source": "simpsonwave",
+    "target": "traumacore"
+  },
+  {
+    "source": "simpsonwave",
+    "target": "wizardcore"
+  },
+  {
+    "source": "simpsonwave",
+    "target": "vaporgoth"
+  },
+  {
+    "source": "simpsonwave",
     "target": "soft-grunge"
   },
   {
-    "source": "simpsonwave",
-    "target": "wonyoungism"
-  },
-  {
-    "source": "simpsonwave",
-    "target": "y3k"
-  },
-  {
     "source": "soft-grunge",
     "target": "wonyoungism"
-  },
-  {
-    "source": "soft-grunge",
-    "target": "y3k"
-  },
-  {
-    "source": "soft-grunge",
-    "target": "yabujincore"
-  },
-  {
-    "source": "soft-grunge",
-    "target": "webcore"
   },
   {
     "source": "soft-grunge",
@@ -48299,51 +48283,19 @@ const connections = [
   },
   {
     "source": "soft-grunge",
-    "target": "trxsh"
+    "target": "vaporgoth"
   },
   {
     "source": "soft-grunge",
-    "target": "traumacore"
-  },
-  {
-    "source": "spainwave",
     "target": "yabujincore"
   },
   {
-    "source": "spainwave",
-    "target": "webcore"
-  },
-  {
-    "source": "spainwave",
-    "target": "wizardcore"
-  },
-  {
-    "source": "spainwave",
-    "target": "trxsh"
-  },
-  {
-    "source": "spainwave",
-    "target": "traumacore"
-  },
-  {
-    "source": "spainwave",
-    "target": "wishcore"
-  },
-  {
-    "source": "spainwave",
-    "target": "weirdcore"
-  },
-  {
-    "source": "spainwave",
+    "source": "soft-grunge",
     "target": "tomato-girl-summer"
   },
   {
-    "source": "tomato-girl-summer",
-    "target": "yabujincore"
-  },
-  {
-    "source": "tomato-girl-summer",
-    "target": "webcore"
+    "source": "soft-grunge",
+    "target": "weirdcore"
   },
   {
     "source": "tomato-girl-summer",
@@ -48351,55 +48303,43 @@ const connections = [
   },
   {
     "source": "tomato-girl-summer",
-    "target": "trxsh"
+    "target": "vaporgoth"
   },
   {
     "source": "tomato-girl-summer",
-    "target": "traumacore"
-  },
-  {
-    "source": "tomato-girl-summer",
-    "target": "wishcore"
+    "target": "yabujincore"
   },
   {
     "source": "tomato-girl-summer",
     "target": "weirdcore"
   },
   {
-    "source": "traumacore",
+    "source": "vaporgoth",
     "target": "yabujincore"
   },
   {
-    "source": "traumacore",
-    "target": "webcore"
-  },
-  {
-    "source": "traumacore",
-    "target": "wizardcore"
-  },
-  {
-    "source": "trxsh",
-    "target": "webcore"
-  },
-  {
-    "source": "trxsh",
-    "target": "wizardcore"
-  },
-  {
-    "source": "trxsh",
-    "target": "wishcore"
-  },
-  {
-    "source": "trxsh",
+    "source": "vaporgoth",
     "target": "weirdcore"
   },
   {
     "source": "weirdcore",
-    "target": "wishcore"
+    "target": "yabujincore"
   },
   {
     "source": "2010s-meme-maximalism",
-    "target": "wishcore"
+    "target": "vaporgoth"
+  },
+  {
+    "source": "2010s-meme-maximalism",
+    "target": "soft-grunge"
+  },
+  {
+    "source": "2010s-meme-maximalism",
+    "target": "yabujincore"
+  },
+  {
+    "source": "2010s-meme-maximalism",
+    "target": "tomato-girl-summer"
   },
   {
     "source": "2010s-meme-maximalism",
@@ -48407,7 +48347,15 @@ const connections = [
   },
   {
     "source": "crowcore",
-    "target": "wishcore"
+    "target": "vaporgoth"
+  },
+  {
+    "source": "crowcore",
+    "target": "yabujincore"
+  },
+  {
+    "source": "crowcore",
+    "target": "tomato-girl-summer"
   },
   {
     "source": "crowcore",
@@ -48415,47 +48363,35 @@ const connections = [
   },
   {
     "source": "cryptidcore",
-    "target": "wishcore"
+    "target": "yabujincore"
+  },
+  {
+    "source": "cryptidcore",
+    "target": "tomato-girl-summer"
   },
   {
     "source": "cryptidcore",
     "target": "weirdcore"
   },
   {
-    "source": "2010s-meme-maximalism",
-    "target": "tradcath-coquette"
-  },
-  {
-    "source": "2010s-meme-maximalism",
-    "target": "indie-kid"
-  },
-  {
-    "source": "2010s-meme-maximalism",
-    "target": "light-academia"
-  },
-  {
     "source": "crowcore",
-    "target": "tradcath-coquette"
-  },
-  {
-    "source": "crowcore",
-    "target": "indie-kid"
-  },
-  {
-    "source": "crowcore",
-    "target": "light-academia"
+    "target": "signalwave"
   },
   {
     "source": "cryptidcore",
-    "target": "tradcath-coquette"
+    "target": "signalwave"
   },
   {
     "source": "cryptidcore",
-    "target": "indie-kid"
+    "target": "liminal-space"
   },
   {
-    "source": "cryptidcore",
-    "target": "light-academia"
+    "source": "deep-fried-meme",
+    "target": "signalwave"
+  },
+  {
+    "source": "deep-fried-meme",
+    "target": "liminal-space"
   },
   {
     "source": "deep-fried-meme",
@@ -48463,15 +48399,7 @@ const connections = [
   },
   {
     "source": "deep-fried-meme",
-    "target": "indie-kid"
-  },
-  {
-    "source": "deep-fried-meme",
-    "target": "light-academia"
-  },
-  {
-    "source": "deep-fried-meme",
-    "target": "goblincore"
+    "target": "nightcore-aesthetic"
   },
   {
     "source": "deep-fried-meme",
@@ -48479,7 +48407,15 @@ const connections = [
   },
   {
     "source": "deep-fried-meme",
+    "target": "internet-awesomesauce"
+  },
+  {
+    "source": "goblincore",
     "target": "signalwave"
+  },
+  {
+    "source": "goblincore",
+    "target": "liminal-space"
   },
   {
     "source": "goblincore",
@@ -48487,11 +48423,7 @@ const connections = [
   },
   {
     "source": "goblincore",
-    "target": "indie-kid"
-  },
-  {
-    "source": "goblincore",
-    "target": "light-academia"
+    "target": "nightcore-aesthetic"
   },
   {
     "source": "goblincore",
@@ -48499,19 +48431,31 @@ const connections = [
   },
   {
     "source": "goblincore",
+    "target": "internet-awesomesauce"
+  },
+  {
+    "source": "indie-kid",
     "target": "signalwave"
+  },
+  {
+    "source": "indie-kid",
+    "target": "liminal-space"
   },
   {
     "source": "indie-kid",
     "target": "tradcath-coquette"
   },
   {
-    "source": "internet-awesomesauce",
-    "target": "light-academia"
+    "source": "indie-kid",
+    "target": "nightcore-aesthetic"
   },
   {
-    "source": "internet-awesomesauce",
+    "source": "indie-kid",
     "target": "medicalcore"
+  },
+  {
+    "source": "indie-kid",
+    "target": "internet-awesomesauce"
   },
   {
     "source": "internet-awesomesauce",
@@ -48519,123 +48463,111 @@ const connections = [
   },
   {
     "source": "internet-awesomesauce",
-    "target": "mizuiro"
+    "target": "liminal-space"
   },
   {
-    "source": "internet-awesomesauce",
-    "target": "romantic-academia"
+    "source": "light-academia",
+    "target": "signalwave"
+  },
+  {
+    "source": "light-academia",
+    "target": "liminal-space"
+  },
+  {
+    "source": "light-academia",
+    "target": "tradcath-coquette"
+  },
+  {
+    "source": "light-academia",
+    "target": "nightcore-aesthetic"
   },
   {
     "source": "light-academia",
     "target": "medicalcore"
   },
   {
-    "source": "liminal-space",
-    "target": "medicalcore"
+    "source": "light-academia",
+    "target": "neo-chinese-style"
+  },
+  {
+    "source": "light-academia",
+    "target": "romantic-academia"
   },
   {
     "source": "liminal-space",
     "target": "signalwave"
   },
   {
-    "source": "liminal-space",
+    "source": "medicalcore",
+    "target": "tradcath-coquette"
+  },
+  {
+    "source": "mizuiro",
+    "target": "tradcath-coquette"
+  },
+  {
+    "source": "mizuiro",
+    "target": "nightcore-aesthetic"
+  },
+  {
+    "source": "mizuiro",
+    "target": "neo-chinese-style"
+  },
+  {
+    "source": "mizuiro",
+    "target": "romantic-academia"
+  },
+  {
+    "source": "mizuiro",
+    "target": "spacecore"
+  },
+  {
+    "source": "mizuiro",
+    "target": "vsco-girl"
+  },
+  {
+    "source": "neo-chinese-style",
+    "target": "nightcore-aesthetic"
+  },
+  {
+    "source": "neo-chinese-style",
+    "target": "romantic-academia"
+  },
+  {
+    "source": "neo-chinese-style",
+    "target": "spacecore"
+  },
+  {
+    "source": "neo-chinese-style",
+    "target": "vsco-girl"
+  },
+  {
+    "source": "romantic-academia",
+    "target": "spacecore"
+  },
+  {
+    "source": "romantic-academia",
+    "target": "vsco-girl"
+  },
+  {
+    "source": "spacecore",
+    "target": "vsco-girl"
+  },
+  {
+    "source": "clowncore",
+    "target": "neo-chinese-style"
+  },
+  {
+    "source": "clowncore",
+    "target": "spacecore"
+  },
+  {
+    "source": "clowncore",
+    "target": "vsco-girl"
+  },
+  {
+    "source": "clowncore",
     "target": "mizuiro"
-  },
-  {
-    "source": "liminal-space",
-    "target": "romantic-academia"
-  },
-  {
-    "source": "liminal-space",
-    "target": "vsco-girl"
-  },
-  {
-    "source": "liminal-space",
-    "target": "spacecore"
-  },
-  {
-    "source": "liminal-space",
-    "target": "neo-chinese-style"
-  },
-  {
-    "source": "mizuiro",
-    "target": "signalwave"
-  },
-  {
-    "source": "mizuiro",
-    "target": "romantic-academia"
-  },
-  {
-    "source": "mizuiro",
-    "target": "vsco-girl"
-  },
-  {
-    "source": "mizuiro",
-    "target": "spacecore"
-  },
-  {
-    "source": "mizuiro",
-    "target": "neo-chinese-style"
-  },
-  {
-    "source": "neo-chinese-style",
-    "target": "signalwave"
-  },
-  {
-    "source": "neo-chinese-style",
-    "target": "romantic-academia"
-  },
-  {
-    "source": "neo-chinese-style",
-    "target": "vsco-girl"
-  },
-  {
-    "source": "neo-chinese-style",
-    "target": "spacecore"
-  },
-  {
-    "source": "neo-chinese-style",
-    "target": "nightcore-aesthetic"
-  },
-  {
-    "source": "nightcore-aesthetic",
-    "target": "signalwave"
-  },
-  {
-    "source": "nightcore-aesthetic",
-    "target": "romantic-academia"
-  },
-  {
-    "source": "nightcore-aesthetic",
-    "target": "vsco-girl"
-  },
-  {
-    "source": "nightcore-aesthetic",
-    "target": "spacecore"
-  },
-  {
-    "source": "signalwave",
-    "target": "vsco-girl"
-  },
-  {
-    "source": "clowncore",
-    "target": "spacecore"
-  },
-  {
-    "source": "clowncore",
-    "target": "nightcore-aesthetic"
-  },
-  {
-    "source": "clowncore",
-    "target": "haunted-mound"
-  },
-  {
-    "source": "clowncore",
-    "target": "fairycore"
-  },
-  {
-    "source": "clowncore",
-    "target": "kawaii-gamer"
   },
   {
     "source": "clowncore",
@@ -48643,6 +48575,18 @@ const connections = [
   },
   {
     "source": "clowncore",
+    "target": "gorecore"
+  },
+  {
+    "source": "clowncore",
+    "target": "haunted-mound"
+  },
+  {
+    "source": "fairycore",
+    "target": "xpiritualism"
+  },
+  {
+    "source": "fairycore",
     "target": "gorecore"
   },
   {
@@ -48654,7 +48598,7 @@ const connections = [
     "target": "kawaii-gamer"
   },
   {
-    "source": "fairycore",
+    "source": "gorecore",
     "target": "xpiritualism"
   },
   {
@@ -48666,16 +48610,12 @@ const connections = [
     "target": "kawaii-gamer"
   },
   {
-    "source": "gorecore",
+    "source": "haunted-mound",
     "target": "xpiritualism"
   },
   {
     "source": "haunted-mound",
     "target": "kawaii-gamer"
-  },
-  {
-    "source": "haunted-mound",
-    "target": "xpiritualism"
   },
   {
     "source": "kawaii-gamer",
@@ -48683,39 +48623,35 @@ const connections = [
   },
   {
     "source": "after-hours",
-    "target": "haunted-mound"
-  },
-  {
-    "source": "after-hours",
     "target": "xpiritualism"
   },
   {
     "source": "after-hours",
-    "target": "gorecore"
+    "target": "haunted-mound"
   },
   {
-    "source": "angelcore",
-    "target": "haunted-mound"
+    "source": "after-hours",
+    "target": "kawaii-gamer"
   },
   {
     "source": "angelcore",
     "target": "xpiritualism"
   },
   {
-    "source": "after-hours",
-    "target": "bimbocore"
-  },
-  {
-    "source": "after-hours",
-    "target": "juminocore"
-  },
-  {
     "source": "angelcore",
-    "target": "bimbocore"
+    "target": "haunted-mound"
+  },
+  {
+    "source": "after-hours",
+    "target": "cutecore"
+  },
+  {
+    "source": "after-hours",
+    "target": "angelcore"
   },
   {
     "source": "babycore",
-    "target": "bimbocore"
+    "target": "cutecore"
   },
   {
     "source": "babycore",
@@ -48727,6 +48663,10 @@ const connections = [
   },
   {
     "source": "babycore",
+    "target": "bimbocore"
+  },
+  {
+    "source": "bimbocore",
     "target": "cutecore"
   },
   {
@@ -48736,10 +48676,6 @@ const connections = [
   {
     "source": "bimbocore",
     "target": "witchcore"
-  },
-  {
-    "source": "bimbocore",
-    "target": "cutecore"
   },
   {
     "source": "cutecore",
@@ -48750,32 +48686,36 @@ const connections = [
     "target": "witchcore"
   },
   {
-    "source": "mallgoth",
-    "target": "pastel-goth"
-  },
-  {
     "source": "cottagecore",
-    "target": "cutecore"
+    "target": "juminocore"
   },
   {
-    "source": "cottagecore",
-    "target": "pink-parisian"
-  },
-  {
-    "source": "baddie",
-    "target": "pink-parisian"
+    "source": "bimbocore",
+    "target": "cottagecore"
   },
   {
     "source": "baddie",
-    "target": "solarpunk"
+    "target": "bimbocore"
   },
   {
     "source": "baddie",
-    "target": "whimsigothic"
+    "target": "fairy-grunge"
   },
   {
     "source": "baddie",
     "target": "dark-academia"
+  },
+  {
+    "source": "baddie",
+    "target": "pink-parisian"
+  },
+  {
+    "source": "dark-academia",
+    "target": "fairy-grunge"
+  },
+  {
+    "source": "dark-academia",
+    "target": "pink-parisian"
   },
   {
     "source": "dark-academia",
@@ -48788,10 +48728,6 @@ const connections = [
   {
     "source": "dark-academia",
     "target": "gorpcore"
-  },
-  {
-    "source": "dark-academia",
-    "target": "fairy-grunge"
   },
   {
     "source": "fairy-grunge",
@@ -48807,35 +48743,39 @@ const connections = [
   },
   {
     "source": "gorpcore",
+    "target": "solarpunk"
+  },
+  {
+    "source": "gorpcore",
     "target": "whimsigothic"
   },
   {
     "source": "2014-tumblr",
     "target": "whimsigothic"
-  },
-  {
-    "source": "2014-tumblr",
-    "target": "dark-academia"
-  },
-  {
-    "source": "2014-tumblr",
-    "target": "gorpcore"
-  },
-  {
-    "source": "2014-tumblr",
-    "target": "fairy-grunge"
   },
   {
     "source": "acid-design",
     "target": "cybergoth"
   },
   {
-    "source": "cybergoth",
-    "target": "pastel-goth"
+    "source": "coconut-girl",
+    "target": "whimsigothic"
   },
   {
-    "source": "coconut-girl",
+    "source": "2014-tumblr",
+    "target": "coconut-girl"
+  },
+  {
+    "source": "2014-tumblr",
+    "target": "scenecore"
+  },
+  {
+    "source": "2014-tumblr",
     "target": "silicon-dreams"
+  },
+  {
+    "source": "cybergoth",
+    "target": "pastel-goth"
   },
   {
     "source": "coconut-girl",
@@ -48844,10 +48784,6 @@ const connections = [
   {
     "source": "coconut-girl",
     "target": "morute"
-  },
-  {
-    "source": "coconut-girl",
-    "target": "technoneko2000"
   },
   {
     "source": "scenecore",
@@ -48862,10 +48798,6 @@ const connections = [
     "target": "scenecore"
   },
   {
-    "source": "nymphet",
-    "target": "scenecore"
-  },
-  {
     "source": "frutiger-eco",
     "target": "technoneko2000"
   },
@@ -48876,6 +48808,10 @@ const connections = [
   {
     "source": "frutiger-eco",
     "target": "neo-aero"
+  },
+  {
+    "source": "nymphet",
+    "target": "technoneko2000"
   },
   {
     "source": "acid-design",
@@ -48907,14 +48843,14 @@ const connections = [
   },
   {
     "source": "frutiger-eco",
-    "target": "mermaidcore"
-  },
-  {
-    "source": "frutiger-eco",
-    "target": "lulicore"
+    "target": "that-girl"
   },
   {
     "source": "lulicore",
+    "target": "neo-aero"
+  },
+  {
+    "source": "mermaidcore",
     "target": "neo-aero"
   },
   {
@@ -48923,11 +48859,11 @@ const connections = [
   },
   {
     "source": "acid-design",
-    "target": "mermaidcore"
+    "target": "that-girl"
   },
   {
     "source": "acid-design",
-    "target": "lulicore"
+    "target": "mermaidcore"
   },
   {
     "source": "reggaetonero",
@@ -48946,6 +48882,14 @@ const connections = [
     "target": "uk-drill"
   },
   {
+    "source": "disco",
+    "target": "skinhead"
+  },
+  {
+    "source": "lulicore",
+    "target": "that-girl"
+  },
+  {
     "source": "lulicore",
     "target": "mermaidcore"
   },
@@ -48954,16 +48898,12 @@ const connections = [
     "target": "pastel-goth"
   },
   {
-    "source": "lulicore",
+    "source": "mermaidcore",
     "target": "that-girl"
   },
   {
     "source": "mermaidcore",
     "target": "pastel-goth"
-  },
-  {
-    "source": "mermaidcore",
-    "target": "that-girl"
   },
   {
     "source": "pastel-goth",
@@ -48979,11 +48919,11 @@ const connections = [
   },
   {
     "source": "aliyahcore",
-    "target": "mermaidcore"
+    "target": "that-girl"
   },
   {
     "source": "aliyahcore",
-    "target": "lulicore"
+    "target": "mermaidcore"
   },
   {
     "source": "aliyahcore",
@@ -48991,6 +48931,10 @@ const connections = [
   },
   {
     "source": "aliyahcore",
+    "target": "lulicore"
+  },
+  {
+    "source": "brat-summer",
     "target": "that-girl"
   },
   {
@@ -48999,6 +48943,14 @@ const connections = [
   },
   {
     "source": "brat-summer",
+    "target": "pastel-goth"
+  },
+  {
+    "source": "brat-summer",
+    "target": "lulicore"
+  },
+  {
+    "source": "clean-girl",
     "target": "that-girl"
   },
   {
@@ -49007,15 +48959,7 @@ const connections = [
   },
   {
     "source": "clean-girl",
-    "target": "that-girl"
-  },
-  {
-    "source": "coastal-cowgirl",
-    "target": "that-girl"
-  },
-  {
-    "source": "coastal-grandmother",
-    "target": "that-girl"
+    "target": "lulicore"
   },
   {
     "source": "aliyahcore",
@@ -49023,63 +48967,59 @@ const connections = [
   },
   {
     "source": "aliyahcore",
-    "target": "brat-summer"
+    "target": "vanilla-girl"
   },
   {
     "source": "aliyahcore",
+    "target": "eclectic-grandpa"
+  },
+  {
+    "source": "brat-summer",
+    "target": "coastal-cowgirl"
+  },
+  {
+    "source": "brat-summer",
+    "target": "vanilla-girl"
+  },
+  {
+    "source": "brat-summer",
+    "target": "eclectic-grandpa"
+  },
+  {
+    "source": "brat-summer",
     "target": "clean-girl"
   },
   {
-    "source": "brat-summer",
-    "target": "coastal-cowgirl"
-  },
-  {
-    "source": "brat-summer",
-    "target": "clean-girl"
-  },
-  {
-    "source": "brat-summer",
-    "target": "coastal-grandmother"
-  },
-  {
-    "source": "brat-summer",
-    "target": "dopamine-dressing"
-  },
-  {
-    "source": "brat-summer",
-    "target": "vanilla-girl"
-  },
-  {
     "source": "clean-girl",
     "target": "coastal-cowgirl"
   },
   {
     "source": "clean-girl",
-    "target": "coastal-grandmother"
-  },
-  {
-    "source": "clean-girl",
-    "target": "dopamine-dressing"
-  },
-  {
-    "source": "clean-girl",
     "target": "vanilla-girl"
   },
   {
-    "source": "coastal-cowgirl",
-    "target": "coastal-grandmother"
+    "source": "clean-girl",
+    "target": "eclectic-grandpa"
   },
   {
-    "source": "coastal-cowgirl",
-    "target": "dopamine-dressing"
+    "source": "clean-girl",
+    "target": "plazacore"
   },
   {
     "source": "coastal-cowgirl",
     "target": "vanilla-girl"
   },
   {
-    "source": "coastal-grandmother",
-    "target": "dopamine-dressing"
+    "source": "coastal-cowgirl",
+    "target": "eclectic-grandpa"
+  },
+  {
+    "source": "coastal-cowgirl",
+    "target": "plazacore"
+  },
+  {
+    "source": "coastal-cowgirl",
+    "target": "coastal-grandmother"
   },
   {
     "source": "coastal-grandmother",
@@ -49088,6 +49028,14 @@ const connections = [
   {
     "source": "coastal-grandmother",
     "target": "eclectic-grandpa"
+  },
+  {
+    "source": "coastal-grandmother",
+    "target": "plazacore"
+  },
+  {
+    "source": "coastal-grandmother",
+    "target": "dopamine-dressing"
   },
   {
     "source": "dopamine-dressing",
@@ -49104,30 +49052,26 @@ const connections = [
   {
     "source": "eclectic-grandpa",
     "target": "vanilla-girl"
-  },
-  {
-    "source": "eclectic-grandpa",
-    "target": "plazacore"
   },
   {
     "source": "plazacore",
     "target": "vanilla-girl"
   },
   {
+    "source": "coastal-grandmother",
+    "target": "office-siren"
+  },
+  {
+    "source": "coastal-grandmother",
+    "target": "slavic-doll"
+  },
+  {
     "source": "dopamine-dressing",
     "target": "office-siren"
   },
   {
-    "source": "eclectic-grandpa",
-    "target": "office-siren"
-  },
-  {
-    "source": "eclectic-grandpa",
+    "source": "dopamine-dressing",
     "target": "slavic-doll"
-  },
-  {
-    "source": "office-siren",
-    "target": "vanilla-girl"
   },
   {
     "source": "office-siren",
@@ -49139,27 +49083,23 @@ const connections = [
   },
   {
     "source": "avant-basic",
-    "target": "eclectic-grandpa"
+    "target": "plazacore"
   },
   {
     "source": "avant-basic",
-    "target": "plazacore"
+    "target": "dopamine-dressing"
   },
   {
     "source": "cybergoth",
     "target": "reggaetonero"
   },
   {
-    "source": "frutiger-aero",
-    "target": "plazacore"
+    "source": "dopamine-dressing",
+    "target": "frutiger-aero"
   },
   {
     "source": "cybergoth",
     "target": "uk-drill"
-  },
-  {
-    "source": "mob-wife",
-    "target": "plazacore"
   },
   {
     "source": "office-siren",
@@ -49175,6 +49115,10 @@ const connections = [
   },
   {
     "source": "frutiger-aero",
+    "target": "office-siren"
+  },
+  {
+    "source": "mob-wife",
     "target": "office-siren"
   },
   {
@@ -49184,10 +49128,6 @@ const connections = [
   {
     "source": "avant-basic",
     "target": "mob-wife"
-  },
-  {
-    "source": "glitch-art",
-    "target": "slavic-doll"
   },
   {
     "source": "avant-basic",
@@ -49258,10 +49198,6 @@ const connections = [
     "target": "madchester"
   },
   {
-    "source": "disco",
-    "target": "new-rave"
-  },
-  {
     "source": "electronic-body-music",
     "target": "new-rave"
   },
@@ -49283,7 +49219,7 @@ const connections = [
   },
   {
     "source": "acid-house",
-    "target": "rockabilly"
+    "target": "new-beat"
   },
   {
     "source": "madchester",
@@ -49291,11 +49227,11 @@ const connections = [
   },
   {
     "source": "madchester",
-    "target": "rockabilly"
+    "target": "new-beat"
   },
   {
     "source": "madchester",
-    "target": "new-beat"
+    "target": "rockabilly"
   },
   {
     "source": "new-beat",
@@ -49319,11 +49255,11 @@ const connections = [
   },
   {
     "source": "grunge",
-    "target": "rockabilly"
+    "target": "new-beat"
   },
   {
     "source": "grunge",
-    "target": "new-beat"
+    "target": "rockabilly"
   },
   {
     "source": "new-beat",
@@ -49334,12 +49270,16 @@ const connections = [
     "target": "riot-grrrl"
   },
   {
-    "source": "emo",
-    "target": "new-beat"
+    "source": "riot-grrrl",
+    "target": "rockabilly"
   },
   {
-    "source": "new-beat",
-    "target": "psychobilly"
+    "source": "emo",
+    "target": "new-rave"
+  },
+  {
+    "source": "emo",
+    "target": "new-beat"
   },
   {
     "source": "emo",
@@ -49379,14 +49319,6 @@ const connections = [
   },
   {
     "source": "drift-phonk",
-    "target": "riot-grrrl"
-  },
-  {
-    "source": "drift-phonk",
-    "target": "emo"
-  },
-  {
-    "source": "drift-phonk",
     "target": "glitch-art"
   },
   {
@@ -49396,6 +49328,14 @@ const connections = [
   {
     "source": "aesthetic-rap",
     "target": "glitch-art"
+  },
+  {
+    "source": "brazilian-phonk",
+    "target": "glitch-art"
+  },
+  {
+    "source": "drift-phonk",
+    "target": "psychobilly"
   },
   {
     "source": "future-funk",
@@ -49423,14 +49363,10 @@ const connections = [
   },
   {
     "source": "drift-phonk",
-    "target": "krushclub"
+    "target": "trillwave"
   },
   {
     "source": "drift-phonk",
-    "target": "trillwave"
-  },
-  {
-    "source": "future-funk",
     "target": "krushclub"
   },
   {
@@ -49438,7 +49374,7 @@ const connections = [
     "target": "trillwave"
   },
   {
-    "source": "aesthetic-rap",
+    "source": "future-funk",
     "target": "krushclub"
   },
   {
@@ -49450,12 +49386,20 @@ const connections = [
     "target": "trillwave"
   },
   {
-    "source": "brazilian-phonk",
+    "source": "aesthetic-rap",
     "target": "krushclub"
   },
   {
     "source": "brazilian-phonk",
     "target": "trillwave"
+  },
+  {
+    "source": "brazilian-phonk",
+    "target": "krushclub"
+  },
+  {
+    "source": "drift-phonk",
+    "target": "sigilkore"
   },
   {
     "source": "future-funk",
@@ -49486,24 +49430,16 @@ const connections = [
     "target": "witch-house"
   },
   {
-    "source": "brazilian-phonk",
-    "target": "glitchbreak"
+    "source": "glitchbreak",
+    "target": "trillwave"
   },
   {
     "source": "glitchbreak",
     "target": "krushclub"
   },
   {
-    "source": "glitchbreak",
-    "target": "trillwave"
-  },
-  {
     "source": "krushclub",
     "target": "witch-house"
-  },
-  {
-    "source": "glitchbreak",
-    "target": "sigilkore"
   },
   {
     "source": "glitchbreak",
@@ -49518,6 +49454,10 @@ const connections = [
     "target": "witch-house"
   },
   {
+    "source": "glitchbreak",
+    "target": "sovietwave"
+  },
+  {
     "source": "sovietwave",
     "target": "witch-house"
   },
@@ -49526,15 +49466,15 @@ const connections = [
     "target": "witch-house"
   },
   {
+    "source": "glitchbreak",
+    "target": "vaporwave"
+  },
+  {
     "source": "seapunk",
     "target": "sovietwave"
   },
   {
     "source": "seapunk",
-    "target": "vaporwave"
-  },
-  {
-    "source": "sovietwave",
     "target": "vaporwave"
   },
   {

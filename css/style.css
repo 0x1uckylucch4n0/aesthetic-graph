@@ -561,9 +561,13 @@ body {
     width: 140px;
   }
 
-  /* Brand cards — full width stack */
+  /* Brand cards — full width rows */
   .brand-grid {
     flex-direction: column;
+  }
+  .brand-card {
+    width: 100%;
+    min-width: 0;
   }
 
   /* Footer */

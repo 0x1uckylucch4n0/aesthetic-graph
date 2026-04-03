@@ -128,6 +128,98 @@ FAMILIES = {
 DEFAULT_FAMILY = "Maximalist / Eclectic"
 
 
+WIKI_SECTION_HEADERS = [
+    'Origins', 'Other names', 'Decade of origin', 'Location of origin',
+    'Visuals & Themes', 'Key motifs', 'Key colours', 'Key colors',
+    'Key values', 'Connections', 'Relatedaesthetics', 'ConnectionsRelated',
+    'Related aesthetics', 'Creator(s)', 'Subcategories', 'Sub-genres',
+    'Notable figures', 'See also', 'External links', 'References',
+    'Gallery', 'Music', 'Films', 'Literature', 'Activities',
+    'Behavior', 'Lifestyle', 'Fashion', 'Key figures', 'Notable people',
+    'Types of', 'Media',
+]
+HEADER_PATTERN = '|'.join(re.escape(h) for h in WIKI_SECTION_HEADERS)
+
+
+def extract_wiki_field(text, field_name):
+    """Extract value after a wiki section header."""
+    pattern = re.escape(field_name) + r'(.*?)(?=' + HEADER_PATTERN + r'|$)'
+    match = re.search(pattern, text)
+    if match:
+        return match.group(1).strip()
+    return ""
+
+
+def clean_wiki_description(name, raw_desc):
+    """Parse raw wiki dump into a clean description and tagline."""
+    if not raw_desc or len(raw_desc) < 5:
+        return f"{name} is a distinct aesthetic movement.", f"The {name} aesthetic"
+
+    decade = extract_wiki_field(raw_desc, 'Decade of origin')
+    location = extract_wiki_field(raw_desc, 'Location of origin')
+    motifs = extract_wiki_field(raw_desc, 'Key motifs')
+    values = extract_wiki_field(raw_desc, 'Key values')
+    other_names = extract_wiki_field(raw_desc, 'Other names')
+
+    # Get intro text (before first wiki header)
+    intro_parts = re.split(HEADER_PATTERN, raw_desc)
+    intro = intro_parts[0].strip() if intro_parts else ""
+
+    # Strip wiki disambiguation notices
+    intro = re.sub(r'This (?:article|page) (?:is about|describes)[^.]*\.\s*', '', intro)
+    intro = re.sub(r'For (?:other|the)[^.]*(?:see|See)[^.]*\.\s*', '', intro)
+    intro = intro.strip()
+
+    if intro.startswith(name):
+        intro = intro[len(name):].strip()
+
+    # Remove image captions
+    intro = re.sub(
+        r'^[^.]*(?:photo|image|example|artwork|cover art|depicting|illustration|'
+        r'typical|wearing|showing|featuring|pictured|seen in|characterized|'
+        r'screenshot|archetype|still from|poster|album|painting|'
+        r'commonly|standard|originally|distributed)[^.]*\.?\s*',
+        '', intro, flags=re.IGNORECASE
+    )
+    intro = intro.strip()
+
+    parts = []
+    if intro and len(intro) > 20:
+        parts.append(intro.rstrip('.') + '.')
+
+    if decade or location:
+        origin_bits = []
+        if decade:
+            origin_bits.append(f"emerging in the {decade}")
+        if location:
+            origin_bits.append(f"from {location}")
+        parts.append(f"{name} is an aesthetic {' '.join(origin_bits)}.")
+    elif not parts:
+        parts.append(f"{name} is a distinct aesthetic movement.")
+
+    if motifs:
+        motif_list = [m.strip() for m in re.split(r',\s*', motifs) if m.strip() and len(m.strip()) > 1][:6]
+        if motif_list:
+            parts.append(f"Key visual elements include {', '.join(motif_list).lower()}.")
+
+    if values:
+        val_list = [v.strip() for v in re.split(r',\s*', values) if v.strip() and len(v.strip()) > 1][:5]
+        if val_list:
+            parts.append(f"It embodies {', '.join(val_list).lower()}.")
+
+    if other_names:
+        aka_list = [n.strip() for n in re.split(r',\s*', other_names) if n.strip() and len(n.strip()) > 1][:4]
+        if aka_list:
+            parts.append(f"Also known as {', '.join(aka_list)}.")
+
+    desc = ' '.join(parts)
+    tagline = parts[0] if parts else f"The {name} aesthetic"
+    if len(tagline) > 80:
+        tagline = tagline[:77] + "..."
+
+    return desc, tagline
+
+
 def slugify(name: str) -> str:
     """Convert aesthetic name to a URL-friendly slug."""
     s = name.lower().strip()
@@ -296,20 +388,15 @@ def build_graph_data():
             continue
 
         family = guess_family(a)
-        desc = a.get("description", "")
+        raw_desc = a.get("description", "")
         images = a.get("images", [])
         related = a.get("related", [])
         category = a.get("category", "Uncategorized")
         size_tier = get_size_tier(slug)
         conn_count = connection_count.get(slug, 0)
 
-        # Create a tagline from first sentence of description
-        tagline = ""
-        if desc:
-            first_sentence = re.split(r'[.!?]', desc)[0].strip()
-            if len(first_sentence) > 80:
-                first_sentence = first_sentence[:77] + "..."
-            tagline = first_sentence
+        # Clean description and generate tagline
+        desc, tagline = clean_wiki_description(a["name"], raw_desc)
 
         nodes.append({
             "id": slug,
