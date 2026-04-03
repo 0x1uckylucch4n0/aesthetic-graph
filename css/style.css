@@ -2,12 +2,14 @@
 
 * { margin: 0; padding: 0; box-sizing: border-box; }
 
-body {
+html, body {
   background: #fafaf8;
   font-family: 'Inter', sans-serif;
   overflow: hidden;
-  width: 100vw;
-  height: 100vh;
+  width: 100%;
+  height: 100%;
+  height: 100dvh;
+  -webkit-text-size-adjust: 100%;
 }
 
 /* ── Title bar ── */
@@ -42,8 +44,9 @@ body {
 
 /* ── Graph ── */
 #graph-container {
-  width: 100vw;
-  height: 100vh;
+  width: 100%;
+  height: 100%;
+  height: 100dvh;
   transition: width 0.4s ease;
 }
 #graph-container.shifted {
@@ -115,7 +118,8 @@ body {
   right: 0;
   width: 50vw;
   max-width: 720px;
-  height: 100vh;
+  height: 100%;
+  height: 100dvh;
   background: #fff;
   border-left: 1px solid #e8e8e8;
   overflow-y: auto;
@@ -401,7 +405,8 @@ body {
   top: 0;
   right: 0;
   width: 320px;
-  height: 100vh;
+  height: 100%;
+  height: 100dvh;
   background: #fff;
   border-left: 1px solid #e8e8e8;
   z-index: 25;
@@ -537,19 +542,21 @@ body {
 
   /* Browse menu — full width */
   #browse-menu {
-    width: 100vw;
+    width: 100%;
   }
 
   /* Panel — full screen overlay */
   .panel {
-    width: 100vw;
+    width: 100%;
     max-width: none;
+    height: 100%;
+    height: 100dvh;
     padding: 24px 20px 40px;
   }
 
   /* Don't shift graph on mobile — panel overlays */
   #graph-container.shifted {
-    width: 100vw;
+    width: 100%;
   }
 
   .panel-header h2 {
